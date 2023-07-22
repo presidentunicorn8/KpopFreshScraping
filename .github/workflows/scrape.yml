@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install dependencies
-        run: pip install urllib3 pip install bs4
+        run: pip install urllib3 pip install bs4 pip install requests
 
       - name: Run Python script
         run: python scrape_and_save.py
