@@ -47,7 +47,7 @@ def getData(current_date):
     
     
     
-    badwords = ["SCHEDULE", "ALLKPOP", "SONG CATEGORIES", "NAVIGATION", "ANY KOREAN SONGS", "UPDATED EVERYDAY", "TWITTER", "NEWS", "KPOP ARTISTS", "COMEBACK DATE", "TEASER", "KST", "SPOTIFY", "STAGE VIDEO", "AUDIO", "RELEASE"]
+    badwords = ["SCHEDULE", "MUSIC VIDEO", "OFFICIAL YOUTUBE", "ALLKPOP", "SONG CATEGORIES", "NAVIGATION", "ANY KOREAN SONGS", "UPDATED EVERYDAY", "TWITTER", "NEWS", "KPOP ARTISTS", "COMEBACK DATE", "TEASER", "KST", "SPOTIFY", "STAGE VIDEO", "AUDIO", "RELEASE"]
     
     # Find all <tr> tags followed by <td> tags using the BeautifulSoup find_all method
     # This will give you a list of all <td> elements inside <tr> elements
