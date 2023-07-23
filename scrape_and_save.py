@@ -72,7 +72,14 @@ def getData(current_date):
     
     for i, element in enumerate(unfilteredList):
         if ", 20" in element:
-            thedate = element
+            # Remove the colon from the date string
+            cleaned_date_string = element.replace(":", "")
+            try:
+                # Convert the cleaned date string to a DateTime object
+                date_object = datetime.datetime.strptime(cleaned_date_string, "%B %d, %Y")
+                thedate = cleaned_date_string
+            except:
+                thedate = f"{month_name.capitalize()} 28, 2023"
             desc = ""
             theartist = unfilteredList[i+1]
     
