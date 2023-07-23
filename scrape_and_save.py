@@ -32,75 +32,86 @@ def getViewCount(videoid):
         st = "0 views"
 
     return st
-
+#datetime current date
+def getData(current_date):
+    month_name = current_date.strftime("%B").lower()
+    year = current_date.strftime("%Y")
+    
+    url = f"https://kpopofficial.com/kpop-comeback-schedule-{month_name}-{year}/"
+    response = requests.get(url)
+    # Parse the HTML content using BeautifulSoup
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    
+    
+    badwords = ["SCHEDULE", "ALLKPOP", "SONG CATEGORIES", "OFFICIAL YOUTUBE", "NAVIGATION", "ANY KOREAN SONGS", "UPDATED EVERYDAY", "TWITTER", "NEWS", "MUSIC VIDEO", "KPOP ARTISTS", "COMEBACK DATE", "TEASER", "KST", "SPOTIFY", "OFFICIAL", "STAGE VIDEO", "AUDIO", "RELEASE"]
+    
+    # Find all <tr> tags followed by <td> tags using the BeautifulSoup find_all method
+    # This will give you a list of all <td> elements inside <tr> elements
+    td_elements = soup.find_all('td')  # You can use 'td' instead of 'tr' to find direct <td> elements
+    
+    unfilteredList = ['first']
+    # populate unfilteredList
+    for n in td_elements:
+        for child in n.children:
+            if ((not any(word in child.text.upper() for word in badwords))
+               and child.text != unfilteredList[-1]
+               and child.text != ""):
+                unfilteredList.append(child.text)
+    
+                if child.name == 'a' and 'href' in child.attrs:
+                    if child['href'] != '':
+                        unfilteredList.append(child['href'])
+    
+    # new list of objects
+    songList = []
+    date_format = "%B %d, %Y"
+    
+    for i, element in enumerate(unfilteredList):
+        if ", 20" in element:
+            thedate = element
+            desc = []
+            theartist = unfilteredList[i+1]
+    
+            # instantiate default values
+            thelink = "no"
+            theimage = "white.png"
+            viewcount = ""; 
+            for x in unfilteredList[int(i)+2: len(unfilteredList)]:
+                if ", 20" in x:
+                    break
+                elif "https" in x:
+                    thelink = x
+                    
+                    # embed the view count in the description
+                    if "youtu.be/" in thelink:
+                        # get last element from link as videoid
+                        splitlink = thelink.split('/')
+                        videoid = splitlink[-1]
+                        theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
+                        viewcount = getViewCount(videoid)
+                else:
+                    desc.append(x)
+    
+            mydict = dict(Name = thedate, Artist = theartist, 
+                        Details = str(desc), ImageUrl = theimage,
+                        SongLink= thelink, ViewCount = viewcount)
+            songList.append(mydict) 
+    return songList
 
 # Get the current date
 current_date = datetime.datetime.now()
-month_name = current_date.strftime("%B").lower()
-year = current_date.strftime("%Y")
+# Calculate the first day of the current month
+first_day_of_current_month = current_date.replace(day=1)
+# Subtract one day from the first day of the current month to get the last day of the last month
+last_date = first_day_of_current_month - datetime.timedelta(days=1)
+# Calculate the first day of the next month by adding one month to the first day of the current month
+next_date = (first_day_of_current_month + datetime.timedelta(days=32)).replace(day=1)
 
-url = f"https://kpopofficial.com/kpop-comeback-schedule-{month_name}-{year}/"
-response = requests.get(url)
-# Parse the HTML content using BeautifulSoup
-soup = BeautifulSoup(response.text, 'html.parser')
-
-
-
-badwords = ["SCHEDULE", "ALLKPOP", "SONG CATEGORIES", "OFFICIAL YOUTUBE", "NAVIGATION", "ANY KOREAN SONGS", "UPDATED EVERYDAY", "TWITTER", "NEWS", "MUSIC VIDEO", "KPOP ARTISTS", "COMEBACK DATE", "TEASER", "KST", "SPOTIFY", "OFFICIAL", "STAGE VIDEO", "AUDIO", "RELEASE"]
-
-# Find all <tr> tags followed by <td> tags using the BeautifulSoup find_all method
-# This will give you a list of all <td> elements inside <tr> elements
-td_elements = soup.find_all('td')  # You can use 'td' instead of 'tr' to find direct <td> elements
-
-unfilteredList = ['first']
-# populate unfilteredList
-for n in td_elements:
-    for child in n.children:
-        if ((not any(word in child.text.upper() for word in badwords))
-           and child.text != unfilteredList[-1]
-           and child.text != ""):
-            unfilteredList.append(child.text)
-
-            if child.name == 'a' and 'href' in child.attrs:
-                if child['href'] != '':
-                    unfilteredList.append(child['href'])
-
-# new list of objects
-songList = []
-date_format = "%B %d, %Y"
-
-for i, element in enumerate(unfilteredList):
-    if ", 20" in element:
-        thedate = element
-        desc = []
-        theartist = unfilteredList[i+1]
-
-        # instantiate default values
-        thelink = "no"
-        theimage = "white.png"
-        viewcount = ""; 
-        for x in unfilteredList[int(i)+2: len(unfilteredList)]:
-            if ", 20" in x:
-                break
-            elif "https" in x:
-                thelink = x
-                
-                # embed the view count in the description
-                if "youtu.be/" in thelink:
-                    # get last element from link as videoid
-                    splitlink = thelink.split('/')
-                    videoid = splitlink[-1]
-                    theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
-                    viewcount = getViewCount(videoid)
-            else:
-                desc.append(x)
-
-        mydict = dict(Name = thedate, Artist = theartist, 
-                    Details = str(desc), ImageUrl = theimage,
-                    SongLink= thelink, ViewCount = viewcount)
-        songList.append(mydict)                    
-
-
-# Export the list of dictionaries as JSON to a file
-with open("data.json", "w", encoding="utf-8") as json_file:
-    json.dump(songList, json_file, indent=4, ensure_ascii=False)
+for x in [last_date, current_date, next_date]:
+    songList = getData(current_date)
+    month_as_string = x.strftime('%-m')
+    file_title = f"data-{month_as_string}.json"
+    # Export the list of dictionaries as JSON to a file
+    with open(file_title, "w", encoding="utf-8") as json_file:
+        json.dump(songList, json_file, indent=4, ensure_ascii=False)
