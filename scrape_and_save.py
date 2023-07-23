@@ -109,7 +109,7 @@ last_date = first_day_of_current_month - datetime.timedelta(days=1)
 next_date = (first_day_of_current_month + datetime.timedelta(days=32)).replace(day=1)
 
 for x in [last_date, current_date, next_date]:
-    songList = getData(current_date)
+    songList = getData(x)
     month_as_string = x.strftime('%-m')
     file_title = f"data-{month_as_string}.json"
     # Export the list of dictionaries as JSON to a file
