@@ -94,7 +94,7 @@ def getData(current_date):
                         theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
                         viewcount = getViewCount(videoid)
                 else:
-                    if ((not any(word in x for word in badwordsforlater)):
+                    if not any(word in x for word in badwordsforlater):
                         if desc == "":
                             desc = x
                         else:
