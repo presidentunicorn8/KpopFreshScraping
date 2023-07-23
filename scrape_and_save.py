@@ -47,8 +47,8 @@ def getData(current_date):
     
     
     
-    badwords = ["SCHEDULE", "MUSIC VIDEO", "OFFICIAL YOUTUBE", "ALLKPOP", "SONG CATEGORIES", "NAVIGATION", "ANY KOREAN SONGS", "UPDATED EVERYDAY", "TWITTER", "NEWS", "KPOP ARTISTS", "COMEBACK DATE", "TEASER", "KST", "SPOTIFY", "STAGE VIDEO", "AUDIO", "RELEASE"]
-    
+    badwords = ["SCHEDULE", "ALLKPOP", "SONG CATEGORIES", "NAVIGATION", "ANY KOREAN SONGS", "UPDATED EVERYDAY", "TWITTER", "NEWS", "KPOP ARTISTS", "COMEBACK DATE", "TEASER", "KST", "SPOTIFY", "STAGE VIDEO", "AUDIO", "RELEASE"]
+    badwordsforlater = ["MUSIC VIDEO", "OFFICIAL", "YOUTUBE", "LYRICS"]
     # Find all <tr> tags followed by <td> tags using the BeautifulSoup find_all method
     # This will give you a list of all <td> elements inside <tr> elements
     td_elements = soup.find_all('td')  # You can use 'td' instead of 'tr' to find direct <td> elements
@@ -94,10 +94,11 @@ def getData(current_date):
                         theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
                         viewcount = getViewCount(videoid)
                 else:
-                    if desc == "":
-                        desc = x
-                    else:
-                        desc += "\n" + x
+                    if ((not any(word in x for word in badwordsforlater)):
+                        if desc == "":
+                            desc = x
+                        else:
+                            desc += "\n" + x
     
             mydict = dict(Name = thedate, Artist = theartist, 
                         Details = str(desc), ImageUrl = theimage,
