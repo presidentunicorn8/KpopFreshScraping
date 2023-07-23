@@ -26,7 +26,7 @@ def getViewCount(videoid):
         elif number > 1000:
             st = str(math.floor(number / 1000)) + "K views"
         else:
-            st = number.ToString() + " views"
+            st = str(number) + " views"
         
     else:
         st = "0 views"
@@ -70,7 +70,7 @@ def getData(current_date):
     for i, element in enumerate(unfilteredList):
         if ", 20" in element:
             thedate = element
-            desc = []
+            desc = ""
             theartist = unfilteredList[i+1]
     
             # instantiate default values
@@ -91,7 +91,10 @@ def getData(current_date):
                         theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
                         viewcount = getViewCount(videoid)
                 else:
-                    desc.append(x)
+                    if desc == "":
+                        desc = x
+                    else:
+                        desc += "\n" + x
     
             mydict = dict(Name = thedate, Artist = theartist, 
                         Details = str(desc), ImageUrl = theimage,
