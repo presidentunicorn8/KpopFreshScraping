@@ -18,8 +18,11 @@ def getViewCount(videoid):
     if response.status_code == 200:
         # Parse the JSON response
         data = response.json()
-        # Get the 'viewCount' from the JSON response
-        number = int(data['items'][0]['statistics']['viewCount'])
+        try:
+            # Get the 'viewCount' from the JSON response
+            number = int(data['items'][0]['statistics']['viewCount'])
+        except: 
+            return "0 views"
 
         if number > 1000000:
             st = str(math.floor(number / 1000000)) + "M views"
