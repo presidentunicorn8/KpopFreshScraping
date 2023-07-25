@@ -81,6 +81,14 @@
     },
     {
         "Name": "August 7, 2023",
+        "Artist": "JEON SOMI ",
+        "Details": "Album: EP ALBUM [GAME PLAN] ",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 7, 2023",
         "Artist": "U-KNOW",
         "Details": " (TVXQ)\nAlbum: The 3rd Mini Album ‘Reality Show’",
         "ImageUrl": "white.png",
@@ -99,6 +107,22 @@
         "Name": "August 9, 2023",
         "Artist": "YENA",
         "Details": " (JP)\nJapan Debut Single「SMILEY-Japanese ver.-",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 11, 2023",
+        "Artist": "TAN",
+        "Details": "Album: 3rd Mini Album TAN MADE [\n?\n]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 14, 2023",
+        "Artist": "JEON SOMI ",
+        "Details": "Album: EP ALBUM [GAME PLAN] ",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -146,9 +170,9 @@
     {
         "Name": "August 23, 2023",
         "Artist": "LE SSERAFIM ",
-        "Details": "(JP)\nAlbum: Japan 2nd single ‘UNFORGIVEN’\nTAN\nIlgan Sport Korea\nJeon Somi\nEdaily Korea\nJo Yuri\nCRAXY\n2nd Single",
+        "Details": "(JP)\nAlbum: Japan 2nd single ‘UNFORGIVEN’\nJo Yuri\nCRAXY\n2nd Single",
         "ImageUrl": "white.png",
-        "SongLink": "https://v.daum.net/v/20230718095321182",
+        "SongLink": "no",
         "ViewCount": ""
     }
 ]
