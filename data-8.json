@@ -42,10 +42,10 @@
     {
         "Name": "August 3, 2023",
         "Artist": "MAMAMOO+",
-        "Details": "Album: 1st Mini Album [TWO RABBITS]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "August 03: \nTitle Track: “댕댕 (dangdang)”\nAlbum: 1st Mini Album [TWO RABBITS]",
+        "ImageUrl": "https://img.youtube.com/vi/PKAnO3WN8r8/default.jpg",
+        "SongLink": "https://youtu.be/PKAnO3WN8r8",
+        "ViewCount": "143K views"
     },
     {
         "Name": "August 3, 2023",
@@ -72,11 +72,27 @@
         "ViewCount": ""
     },
     {
+        "Name": "August 3, 2023",
+        "Artist": "ABLUE",
+        "Details": "Album: 2nd Single Album [𝙵𝙰𝙺𝙴 𝙻𝙾𝚅𝙴]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 4, 2023",
+        "Artist": "LIMELIGHT",
+        "Details": "Title Track: “MADELEINE”\nAlbum: 1ST SINGLE [MADELEINE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "August 7, 2023",
         "Artist": "THE BOYZ",
-        "Details": "Soompi",
+        "Details": "Album: 2ND ALBUM [PHANTASY] Pt.1 Christmas In August",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1601928wpp/the-boyz-confirms-plans-for-summer-comeback",
+        "SongLink": "no",
         "ViewCount": ""
     },
     {
@@ -105,8 +121,32 @@
     },
     {
         "Name": "August 9, 2023",
+        "Artist": "JO YURI",
+        "Details": "Title Track: “TAXI”\nAlbum: The 2nd Mini Album <LOVE ALL>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 9, 2023",
         "Artist": "YENA",
         "Details": " (JP)\nJapan Debut Single「SMILEY-Japanese ver.-",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 10, 2023",
+        "Artist": "ARTBEAT v",
+        "Details": "Album: SINGLE ALBUM : DUBI DUBI",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 10, 2023",
+        "Artist": "Kwon Jin Ah",
+        "Details": "Album: Digital Single [Love Me Love Me]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -145,6 +185,14 @@
     },
     {
         "Name": "August 18, 2023",
+        "Artist": "EVERGLOW",
+        "Details": "Album: 4th Single Album “ALL MY GIRLS”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 18, 2023",
         "Artist": "J-Hope ",
         "Details": "(BTS)\nTitle Track: “Jack In The Box (HOPE Edition)”",
         "ImageUrl": "white.png",
@@ -170,7 +218,7 @@
     {
         "Name": "August 23, 2023",
         "Artist": "LE SSERAFIM ",
-        "Details": "(JP)\nAlbum: Japan 2nd single ‘UNFORGIVEN’\nAKMU\nEdaily Korea\nJo Yuri\nCRAXY\n2nd Single",
+        "Details": "(JP)\nAlbum: Japan 2nd single ‘UNFORGIVEN’\nLUCY\nOSEN Korea\nAKMU\nEdaily Korea\nCRAXY\n2nd Single",
         "ImageUrl": "white.png",
         "SongLink": "https://v.daum.net/v/20230725084508543",
         "ViewCount": ""
