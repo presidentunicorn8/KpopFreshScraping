@@ -2,7 +2,15 @@
     {
         "Name": "August 1, 2023",
         "Artist": "XEED",
-        "Details": "Album: The 2nd Mini Album <BLUE>",
+        "Details": "Title Track: ‘BLUE’ \nAlbum: The 2nd Mini Album <BLUE>",
+        "ImageUrl": "https://img.youtube.com/vi/yoAqDPDPh4k/default.jpg",
+        "SongLink": "https://youtu.be/yoAqDPDPh4k",
+        "ViewCount": "6K views"
+    },
+    {
+        "Name": "August 1, 2023",
+        "Artist": "Ahn Byeong-woong",
+        "Details": "NUN",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -11,25 +19,25 @@
         "Name": "August 2, 2023",
         "Artist": "xikers",
         "Details": "(싸이커스)\nTitle Track: “Home Boy”; “DO or DIE”\nAlbum: 2nd Mini Album ‘HOUSE OF TRICKY : HOW TO PLAY’",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/ARBcSQ68HtQ/default.jpg",
+        "SongLink": "https://youtu.be/ARBcSQ68HtQ",
+        "ViewCount": "82K views"
     },
     {
         "Name": "August 2, 2023",
         "Artist": "The Wind",
         "Details": "Album: 1st Single Album [Ready : 여름방학]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/oHr26JyaBJw/default.jpg",
+        "SongLink": "https://youtu.be/oHr26JyaBJw",
+        "ViewCount": "11K views"
     },
     {
         "Name": "August 2, 2023",
         "Artist": "KWON EUNBI ",
-        "Details": "Album: 1st Single Album [The Flash]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: “The Flash”\nAlbum: 1st Single Album [The Flash]",
+        "ImageUrl": "https://img.youtube.com/vi/k89r041DExM/default.jpg",
+        "SongLink": "https://youtu.be/k89r041DExM",
+        "ViewCount": "2M views"
     },
     {
         "Name": "August 2, 2023",
@@ -45,22 +53,22 @@
         "Details": "August 03: \nTitle Track: “댕댕 (dangdang)”\nAlbum: 1st Mini Album [TWO RABBITS]",
         "ImageUrl": "https://img.youtube.com/vi/PKAnO3WN8r8/default.jpg",
         "SongLink": "https://youtu.be/PKAnO3WN8r8",
-        "ViewCount": "204K views"
+        "ViewCount": "211K views"
     },
     {
         "Name": "August 3, 2023",
         "Artist": "NINE.i ",
-        "Details": "ALbum: The 3rd Mini Album [𝗡𝗘𝗪 𝗠𝗜𝗡𝗗]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track:  ‘Turn it off’\nAlbum: The 3rd Mini Album [𝗡𝗘𝗪 𝗠𝗜𝗡𝗗]",
+        "ImageUrl": "https://img.youtube.com/vi/XZd82renpc4/default.jpg",
+        "SongLink": "https://youtu.be/XZd82renpc4",
+        "ViewCount": "264K views"
     },
     {
         "Name": "August 3, 2023",
         "Artist": "BB GIRLS",
-        "Details": " (Previously Brave Girls)",
+        "Details": " (Previously Brave Girls)\nTitle Track: “ONE MORE TIME”",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@weare_bbgirls/videos",
         "ViewCount": ""
     },
     {
@@ -77,6 +85,14 @@
         "Details": "Album: 2nd Single Album [𝙵𝙰𝙺𝙴 𝙻𝙾𝚅𝙴]",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 4, 2023",
+        "Artist": "DPR IAN",
+        "Details": "Title Track: “Peanut Butter & Tears”",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/p/CvTrJFivHMe/",
         "ViewCount": ""
     },
     {
@@ -192,6 +208,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "August 17, 2023",
+        "Artist": "CHEN",
+        "Details": " (EXO) (JP)\nAlbum: Japan 1st Mini Album “ポラリス”",
+        "ImageUrl": "white.png",
+        "SongLink": "https://exo-jp.net/news/detail.php?id=1109861",
+        "ViewCount": ""
+    },
+    {
         "Name": "August 18, 2023",
         "Artist": "JIHYO",
         "Details": " (TWICE)\nTitle Track: “Killin’ Me Good”\nAlbum: The 1st Mini Album “ZONE”",
@@ -203,6 +227,14 @@
         "Name": "August 18, 2023",
         "Artist": "EVERGLOW",
         "Details": "Album: 4th Single Album “ALL MY GIRLS”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 18, 2023",
+        "Artist": "aespa",
+        "Details": " (에스파)\nTitle Track: “Better Things”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -234,7 +266,15 @@
     {
         "Name": "August 23, 2023",
         "Artist": "LE SSERAFIM ",
-        "Details": "(JP)\nAlbum: Japan 2nd single ‘UNFORGIVEN’\nAKMU\nEdaily Korea\nCRAXY\n2nd Single",
+        "Details": "(JP)\nAlbum: Japan 2nd single ‘UNFORGIVEN’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 24, 2023",
+        "Artist": "PLAVE ",
+        "Details": "Album: 1st Mini Album ‘ASTERUM : The Shape of Things to Come’\nAKMU\nEdaily Korea\nCRAXY\n2nd Single",
         "ImageUrl": "white.png",
         "SongLink": "https://v.daum.net/v/20230725084508543",
         "ViewCount": ""
