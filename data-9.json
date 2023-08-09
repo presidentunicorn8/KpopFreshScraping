@@ -9,8 +9,24 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "BOYNEXTDOOR ",
+        "Details": "Album: 1st EP [WHY..]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "Young K",
         "Details": " (DAY6)\nAlbum: 1st Full Album <Letters with notes>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "KIM SEJEONG ",
+        "Details": "Album: 1st ALBUM ‘문(門)’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -33,6 +49,14 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "V",
+        "Details": " (BTS)\nAlbum: ‘Layover’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "(G)I-DLE",
         "Details": "Title Track: “I DO”\nAlbum: EP HEAT\nBillboard",
         "ImageUrl": "https://img.youtube.com/vi/pCh3Kp6qxo8/default.jpg",
@@ -45,12 +69,12 @@
         "Details": "Album: House on a Hill",
         "ImageUrl": "https://img.youtube.com/vi/htKufmll1Zg/default.jpg",
         "SongLink": "https://youtu.be/htKufmll1Zg",
-        "ViewCount": "28K views"
+        "ViewCount": "30K views"
     },
     {
         "Name": "September 28, 2023",
         "Artist": "CRAVITY ",
-        "Details": "Album: 6th Mini Album SUN SEEKER\nPOW\n (Debut)\nmimiirose\nEdaily Korea\nBOY NEXT DOOR\nBABYMONSTER\nSoompi",
+        "Details": "Album: 6th Mini Album SUN SEEKER\nPOW\n (Debut)\nmimiirose\nEdaily Korea\nBABYMONSTER\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1599794wpp/ygs-new-girl-group-babymonster-confirms-september-debut",
         "ViewCount": ""
