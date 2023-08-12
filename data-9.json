@@ -5,7 +5,7 @@
         "Details": " (라이즈)\nAlbum: The 1st Single Album “Get A Guitar”",
         "ImageUrl": "https://img.youtube.com/vi/tZYsvAoSNxQ/default.jpg",
         "SongLink": "https://youtu.be/tZYsvAoSNxQ",
-        "ViewCount": "1M views"
+        "ViewCount": "2M views"
     },
     {
         "Name": "September 28, 2023",
@@ -69,12 +69,20 @@
         "Details": "Album: House on a Hill",
         "ImageUrl": "https://img.youtube.com/vi/htKufmll1Zg/default.jpg",
         "SongLink": "https://youtu.be/htKufmll1Zg",
-        "ViewCount": "32K views"
+        "ViewCount": "35K views"
     },
     {
         "Name": "September 28, 2023",
         "Artist": "CRAVITY ",
-        "Details": "Album: 6th Mini Album SUN SEEKER\nPOW\n (Debut)\nmimiirose\nEdaily Korea\nBABYMONSTER\nSoompi",
+        "Details": "Album: 6th Mini Album SUN SEEKER",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "Rolling Quartz",
+        "Details": "Digital Single Album\nPOW\n (Debut)\nmimiirose\nEdaily Korea\nBABYMONSTER\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1599794wpp/ygs-new-girl-group-babymonster-confirms-september-debut",
         "ViewCount": ""
