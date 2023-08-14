@@ -69,7 +69,7 @@
         "Details": "Album: House on a Hill",
         "ImageUrl": "https://img.youtube.com/vi/htKufmll1Zg/default.jpg",
         "SongLink": "https://youtu.be/htKufmll1Zg",
-        "ViewCount": "36K views"
+        "ViewCount": "38K views"
     },
     {
         "Name": "September 28, 2023",
@@ -82,7 +82,23 @@
     {
         "Name": "September 28, 2023",
         "Artist": "Rolling Quartz",
-        "Details": "Digital Single Album\nPOW\n (Debut)\nmimiirose\nEdaily Korea\nBABYMONSTER\nSoompi",
+        "Details": "Digital Single Album",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "FAVE1",
+        "Details": "Album: 2nd Single “Sirius”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "The Rose",
+        "Details": " (더로즈)\nAlbum: 2nd Full Length Album “DUAL”\nPOW\n (Debut)\nmimiirose\nEdaily Korea\nBABYMONSTER\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1599794wpp/ygs-new-girl-group-babymonster-confirms-september-debut",
         "ViewCount": ""
