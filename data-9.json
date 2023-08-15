@@ -1,6 +1,14 @@
 [
     {
         "Name": "September 28, 2023",
+        "Artist": "CRAVITY ",
+        "Details": "Album: 6th Mini Album SUN SEEKER",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "RIIZE",
         "Details": " (라이즈)\nAlbum: The 1st Single Album “Get A Guitar”",
         "ImageUrl": "https://img.youtube.com/vi/tZYsvAoSNxQ/default.jpg",
@@ -41,6 +49,14 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "TRENDZ",
+        "Details": "Album: 3rd Single Album ‘𝐒𝐓𝐈𝐋𝐋 𝐎𝐍 𝐌𝐘 𝐖𝐀𝐘’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "Stray Kids (JP) X LiSA",
         "Details": "Album: JAPAN 1st EP 『Social Path (feat. LiSA) / Super Bowl -Japanese ver.-』",
         "ImageUrl": "white.png",
@@ -69,7 +85,7 @@
         "Details": "Album: House on a Hill",
         "ImageUrl": "https://img.youtube.com/vi/htKufmll1Zg/default.jpg",
         "SongLink": "https://youtu.be/htKufmll1Zg",
-        "ViewCount": "38K views"
+        "ViewCount": "39K views"
     },
     {
         "Name": "September 28, 2023",
