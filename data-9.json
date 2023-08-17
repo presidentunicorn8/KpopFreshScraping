@@ -26,7 +26,7 @@
     {
         "Name": "September 28, 2023",
         "Artist": "Young K",
-        "Details": " (DAY6)\nAlbum: 1st Full Album <Letters with notes>",
+        "Details": " (DAY6)\nTitle Track: “이것밖에는 없다”\nAlbum: 1st Full Album <Letters with notes>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -35,6 +35,14 @@
         "Name": "September 28, 2023",
         "Artist": "KIM SEJEONG ",
         "Details": "Album: 1st ALBUM ‘문(門)’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "PURPLE KISS",
+        "Details": "Album: 1st Single Album [FESTA]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -85,12 +93,20 @@
         "Details": "Album: House on a Hill",
         "ImageUrl": "https://img.youtube.com/vi/htKufmll1Zg/default.jpg",
         "SongLink": "https://youtu.be/htKufmll1Zg",
-        "ViewCount": "39K views"
+        "ViewCount": "40K views"
     },
     {
         "Name": "September 28, 2023",
         "Artist": "CRAVITY ",
         "Details": "Album: 6th Mini Album SUN SEEKER",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "EVNNE",
+        "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -114,7 +130,7 @@
     {
         "Name": "September 28, 2023",
         "Artist": "The Rose",
-        "Details": " (더로즈)\nAlbum: 2nd Full Length Album “DUAL”\nPOW\n (Debut)\nmimiirose\nEdaily Korea\nBABYMONSTER\nSoompi",
+        "Details": " (더로즈)\nAlbum: 2nd Full Length Album “DUAL”\nMAMAMOO Hwasa\nSHINee KEY\nSports Chosun\nFANTASY BOYS\nSoompi\nPOW\n (Debut)\nmimiirose\nEdaily Korea\nBABYMONSTER\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1599794wpp/ygs-new-girl-group-babymonster-confirms-september-debut",
         "ViewCount": ""
