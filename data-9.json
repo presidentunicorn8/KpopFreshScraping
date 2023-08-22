@@ -73,6 +73,14 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "LEE CHAE YEON ",
+        "Details": "Album: 1st Single Album [The Move: Street]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "Stray Kids (JP) X LiSA",
         "Details": "Album: JAPAN 1st EP 『Social Path (feat. LiSA) / Super Bowl -Japanese ver.-』",
         "ImageUrl": "white.png",
@@ -90,10 +98,10 @@
     {
         "Name": "September 28, 2023",
         "Artist": "(G)I-DLE",
-        "Details": "Title Track: “I DO”\nAlbum: EP HEAT\nBillboard",
+        "Details": " (\n) \nTitle Track: “I DO”\nAlbum: EP HEAT\nBillboard",
         "ImageUrl": "https://img.youtube.com/vi/pCh3Kp6qxo8/default.jpg",
         "SongLink": "https://www.billboard.com/music/pop/gi-dle-88rising-cube-entertainment-partnership-exclusive-1235368911/",
-        "ViewCount": "16M views"
+        "ViewCount": "17M views"
     },
     {
         "Name": "September 28, 2023",
@@ -101,12 +109,28 @@
         "Details": "Album: House on a Hill",
         "ImageUrl": "https://img.youtube.com/vi/htKufmll1Zg/default.jpg",
         "SongLink": "https://youtu.be/htKufmll1Zg",
-        "ViewCount": "42K views"
+        "ViewCount": "43K views"
     },
     {
         "Name": "September 28, 2023",
         "Artist": "CRAVITY ",
         "Details": "Album: 6th Mini Album SUN SEEKER",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "KEY",
+        "Details": " (SHINee)\nAlbum: The 2nd Mini Album ‘Good & Great’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "mimiirose",
+        "Details": "(미미로즈) \nAlbum: 2ND SINGLE ALBUM [𝐋𝐈𝐕𝐄]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -138,7 +162,7 @@
     {
         "Name": "September 28, 2023",
         "Artist": "The Rose",
-        "Details": " (더로즈)\nAlbum: 2nd Full Length Album “DUAL”\nMAMAMOO Hwasa\nSHINee KEY\nSports Chosun\nFANTASY BOYS\nSoompi\nPOW\n (Debut)\nmimiirose\nEdaily Korea\nBABYMONSTER\nSoompi",
+        "Details": " (더로즈)\nAlbum: 2nd Full Length Album “DUAL”\nMAMAMOO Hwasa\nFANTASY BOYS\nSoompi\nPOW\n (Debut)\nBABYMONSTER\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1599794wpp/ygs-new-girl-group-babymonster-confirms-september-debut",
         "ViewCount": ""
