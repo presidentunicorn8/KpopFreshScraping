@@ -17,6 +17,14 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "9001",
+        "Details": " (NINETY O ONE)\ngool kids #1 – What you wanna do",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "RIIZE",
         "Details": " (라이즈)\nAlbum: The 1st Single Album “Get A Guitar”",
         "ImageUrl": "https://img.youtube.com/vi/tZYsvAoSNxQ/default.jpg",
@@ -81,10 +89,26 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "Rocket Punch",
+        "Details": "Album: 3rd Single Album [BOOM]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "Stray Kids (JP) X LiSA",
         "Details": "Album: JAPAN 1st EP 『Social Path (feat. LiSA) / Super Bowl -Japanese ver.-』",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "Verbal Jint",
+        "Details": " (버벌진트)\nAlbum: 8th full-length album ‘K-XY : INFP’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/freevjfreevj/",
         "ViewCount": ""
     },
     {
@@ -109,7 +133,7 @@
         "Details": "Album: House on a Hill",
         "ImageUrl": "https://img.youtube.com/vi/htKufmll1Zg/default.jpg",
         "SongLink": "https://youtu.be/htKufmll1Zg",
-        "ViewCount": "43K views"
+        "ViewCount": "44K views"
     },
     {
         "Name": "September 28, 2023",
@@ -129,8 +153,24 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "V",
+        "Details": " (BTS)\nAlbum: ‘Layover’",
+        "ImageUrl": "https://img.youtube.com/vi/4AIcfYCEug0/default.jpg",
+        "SongLink": "https://youtu.be/4AIcfYCEug0",
+        "ViewCount": "2M views"
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "mimiirose",
         "Details": "(미미로즈) \nAlbum: 2ND SINGLE ALBUM [𝐋𝐈𝐕𝐄]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "Loossemble",
+        "Details": " (루셈블) \nAlbum: 1st Mini Album [Loossemble]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
