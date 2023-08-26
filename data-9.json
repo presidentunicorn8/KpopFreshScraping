@@ -65,6 +65,14 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "XODIAC ",
+        "Details": "Album: 1st Single Album ",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "ENHYPEN",
         "Details": " (JP)\nJAPAN 3rd SINGLE ‘結 -YOU-‘",
         "ImageUrl": "white.png",
@@ -91,6 +99,14 @@
         "Name": "September 28, 2023",
         "Artist": "Rocket Punch",
         "Details": "Album: 3rd Single Album [BOOM]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "JAECHAN",
+        "Details": " (DKZ)\nAlbum: 1st Mini Album “JCFACTORY”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -133,7 +149,7 @@
         "Details": "Album: House on a Hill",
         "ImageUrl": "https://img.youtube.com/vi/htKufmll1Zg/default.jpg",
         "SongLink": "https://youtu.be/htKufmll1Zg",
-        "ViewCount": "45K views"
+        "ViewCount": "46K views"
     },
     {
         "Name": "September 28, 2023",
@@ -178,7 +194,7 @@
     {
         "Name": "September 28, 2023",
         "Artist": "EVNNE",
-        "Details": "",
+        "Details": "Album: 1st Mini Album [Target: ME]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
