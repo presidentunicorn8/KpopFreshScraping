@@ -9,6 +9,14 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "Mark Tuan",
+        "Details": "Title Track: “Everyone Else Fades”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "AILEE",
         "Details": "",
         "ImageUrl": "white.png",
@@ -149,7 +157,7 @@
         "Details": "Album: House on a Hill",
         "ImageUrl": "https://img.youtube.com/vi/htKufmll1Zg/default.jpg",
         "SongLink": "https://youtu.be/htKufmll1Zg",
-        "ViewCount": "46K views"
+        "ViewCount": "47K views"
     },
     {
         "Name": "September 28, 2023",
