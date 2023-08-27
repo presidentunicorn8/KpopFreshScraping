@@ -98,6 +98,14 @@ def getData(current_date):
                         # get last element from link as videoid
                         splitlink = thelink.split('/')
                         videoid = splitlink[-1]
+                        # get rid of extra information from links
+                        if '&' in videoid:
+                            videoid2 = videoid.split('&')
+                            videoid = videoid2[0]
+                        if '?' in videoid:
+                            videoid2 = videoid.split('?')
+                            videoid = videoid2[0]
+                            
                         theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
                         viewcount = getViewCount(videoid)
                 else:
