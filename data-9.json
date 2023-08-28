@@ -177,11 +177,27 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "HUR YOUNGJI",
+        "Details": "Toi Toi Toi",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "V",
         "Details": " (BTS)\nAlbum: ‘Layover’",
         "ImageUrl": "https://img.youtube.com/vi/4AIcfYCEug0/default.jpg",
         "SongLink": "https://youtu.be/4AIcfYCEug0",
         "ViewCount": "3M views"
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "POW",
+        "Details": " (파우) (DEBUT)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
     },
     {
         "Name": "September 28, 2023",
@@ -225,8 +241,16 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "FANTASY BOYS ",
+        "Details": "Album: 1st Mini Album [NEW TOMORROW]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "The Rose",
-        "Details": " (더로즈)\nAlbum: 2nd Full Length Album “DUAL”\nMAMAMOO Hwasa\nFANTASY BOYS\nSoompi\nPOW\n (Debut)\nBABYMONSTER\nSoompi",
+        "Details": " (더로즈)\nAlbum: 2nd Full Length Album “DUAL”\nMAMAMOO Hwasa\nBABYMONSTER\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1599794wpp/ygs-new-girl-group-babymonster-confirms-september-debut",
         "ViewCount": ""
