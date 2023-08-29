@@ -65,6 +65,14 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "W24",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "PURPLE KISS",
         "Details": "Album: 1st Single Album [FESTA]",
         "ImageUrl": "white.png",
@@ -81,8 +89,24 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "REDDY",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "ENHYPEN",
         "Details": " (JP)\nJAPAN 3rd SINGLE ‘結 -YOU-‘",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "HWASA",
+        "Details": "Digital Single ‘I Love My Body’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -129,6 +153,14 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "FT ISLAND ",
+        "Details": "Title Track: “Sage”\nAlbum: 9TH MINI ALBUM [Sage]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "Verbal Jint",
         "Details": " (버벌진트)\nAlbum: 8th full-length album ‘K-XY : INFP’",
         "ImageUrl": "white.png",
@@ -157,7 +189,7 @@
         "Details": "Album: House on a Hill",
         "ImageUrl": "https://img.youtube.com/vi/htKufmll1Zg/default.jpg",
         "SongLink": "https://youtu.be/htKufmll1Zg",
-        "ViewCount": "47K views"
+        "ViewCount": "48K views"
     },
     {
         "Name": "September 28, 2023",
@@ -189,7 +221,7 @@
         "Details": " (BTS)\nAlbum: ‘Layover’",
         "ImageUrl": "https://img.youtube.com/vi/4AIcfYCEug0/default.jpg",
         "SongLink": "https://youtu.be/4AIcfYCEug0",
-        "ViewCount": "3M views"
+        "ViewCount": "4M views"
     },
     {
         "Name": "September 28, 2023",
@@ -250,7 +282,15 @@
     {
         "Name": "September 28, 2023",
         "Artist": "The Rose",
-        "Details": " (더로즈)\nAlbum: 2nd Full Length Album “DUAL”\nMAMAMOO Hwasa\nBABYMONSTER\nSoompi",
+        "Details": " (더로즈)\nAlbum: 2nd Full Length Album “DUAL”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 22, 2023",
+        "Artist": "FIFTY FIFTY",
+        "Details": "Album: Mini Album “The Beginning”\nBABYMONSTER\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1599794wpp/ygs-new-girl-group-babymonster-confirms-september-debut",
         "ViewCount": ""
