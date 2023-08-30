@@ -290,7 +290,15 @@
     {
         "Name": "September 22, 2023",
         "Artist": "FIFTY FIFTY",
-        "Details": "Album: Mini Album “The Beginning”\nBABYMONSTER\nSoompi",
+        "Details": "Album: Mini Album “The Beginning”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "Kep1er ",
+        "Details": "Album: The 5th Mini Album <Magic Hour>\nBABYMONSTER\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1599794wpp/ygs-new-girl-group-babymonster-confirms-september-debut",
         "ViewCount": ""
