@@ -9,6 +9,14 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "SEVENTEEN x New Kids on the Block",
+        "Details": "Title Track: “Dirty Dancing”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "Mark Tuan",
         "Details": "Title Track: “Everyone Else Fades”",
         "ImageUrl": "white.png",
@@ -33,11 +41,19 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "JAMIE ",
+        "Details": "Title Track: “Dancing with you in the Rain” \nProject: “더하기 기억 프로젝트 (Plus Memory Project)”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "RIIZE",
         "Details": " (라이즈)\nAlbum: The 1st Single Album “Get A Guitar”",
         "ImageUrl": "https://img.youtube.com/vi/tZYsvAoSNxQ/default.jpg",
         "SongLink": "https://youtu.be/tZYsvAoSNxQ",
-        "ViewCount": "3M views"
+        "ViewCount": "4M views"
     },
     {
         "Name": "September 28, 2023",
@@ -58,9 +74,9 @@
     {
         "Name": "September 28, 2023",
         "Artist": "KIM SEJEONG ",
-        "Details": "Album: 1st ALBUM ‘문(門)’",
+        "Details": "Title Track: ‘Top or Cliff’\nAlbum: 1st ALBUM ‘문(門)’",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@OFFICIALKIMSEJEONG0828/videos",
         "ViewCount": ""
     },
     {
@@ -130,10 +146,10 @@
     {
         "Name": "September 28, 2023",
         "Artist": "Rocket Punch",
-        "Details": "Album: 3rd Single Album [BOOM]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: “BOOM”\nAlbum: 3rd Single Album [BOOM]",
+        "ImageUrl": "https://img.youtube.com/vi/0u59CwumQwU/default.jpg",
+        "SongLink": "https://youtu.be/0u59CwumQwU?si=HuYHoItd4GYS_WPD",
+        "ViewCount": "94K views"
     },
     {
         "Name": "September 28, 2023",
@@ -251,6 +267,14 @@
         "Name": "September 28, 2023",
         "Artist": "EVNNE",
         "Details": "Album: 1st Mini Album [Target: ME]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "TEMPEST",
+        "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
