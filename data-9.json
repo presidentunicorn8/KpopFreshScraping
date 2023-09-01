@@ -5,7 +5,7 @@
         "Details": "Album: 6th Mini Album SUN SEEKER",
         "ImageUrl": "https://img.youtube.com/vi/86PFDNhApFI/default.jpg",
         "SongLink": "https://youtu.be/86PFDNhApFI?si=-U0cT7nfWPtx-uha",
-        "ViewCount": "26K views"
+        "ViewCount": "28K views"
     },
     {
         "Name": "September 28, 2023",
@@ -25,11 +25,19 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "NewJeans ",
+        "Details": "Title Track: “아름다운 구속” \nOST: Netflix series “너의 시간 속으로 (A Time Called You)”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "AILEE",
         "Details": "Title Track: “잡아줄게 (I’ll hold you)”",
         "ImageUrl": "https://img.youtube.com/vi/30mbGKOiS9o/default.jpg",
         "SongLink": "https://youtu.be/30mbGKOiS9o?si=SRVO2M2_t6dnxrAj",
-        "ViewCount": "31K views"
+        "ViewCount": "32K views"
     },
     {
         "Name": "September 28, 2023",
@@ -53,7 +61,7 @@
         "Details": " (라이즈)\nTitle Track: ‘Get A Guitar’\nAlbum: The 1st Single Album “Get A Guitar”",
         "ImageUrl": "https://img.youtube.com/vi/PqjTEfT-XD8/default.jpg",
         "SongLink": "https://youtu.be/PqjTEfT-XD8?si=lNEA2PWkOaREjnh4",
-        "ViewCount": "179K views"
+        "ViewCount": "212K views"
     },
     {
         "Name": "September 28, 2023",
@@ -61,7 +69,7 @@
         "Details": "Title Track: ‘뭣 같아’\nAlbum: 1st EP [WHY..]",
         "ImageUrl": "https://img.youtube.com/vi/QjTTUFN7fYA/default.jpg",
         "SongLink": "https://youtu.be/QjTTUFN7fYA?si=GreFzsDymXyhOaSw",
-        "ViewCount": "425K views"
+        "ViewCount": "485K views"
     },
     {
         "Name": "September 28, 2023",
@@ -149,12 +157,20 @@
         "Details": "Title Track: “BOOM”\nAlbum: 3rd Single Album [BOOM]",
         "ImageUrl": "https://img.youtube.com/vi/0u59CwumQwU/default.jpg",
         "SongLink": "https://youtu.be/0u59CwumQwU?si=HuYHoItd4GYS_WPD",
-        "ViewCount": "232K views"
+        "ViewCount": "263K views"
     },
     {
         "Name": "September 28, 2023",
         "Artist": "JAECHAN",
         "Details": " (DKZ)\nAlbum: 1st Mini Album “JCFACTORY”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "BLACKSWAN ",
+        "Details": "Album: 2nd Single ‘THAT KARMA – Pop Edition’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -249,6 +265,14 @@
     },
     {
         "Name": "September 28, 2023",
+        "Artist": "Lee Jin Ah ",
+        "Details": "Album: 3rd Full Album [Hearts of the City]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
         "Artist": "mimiirose",
         "Details": "(미미로즈) \nAlbum: 2ND SINGLE ALBUM [𝐋𝐈𝐕𝐄]",
         "ImageUrl": "white.png",
@@ -256,9 +280,25 @@
         "ViewCount": ""
     },
     {
+        "Name": "September 14, 2023",
+        "Artist": "Jung Yonghwa",
+        "Details": " (CNBLUE)\nSports Seoul",
+        "ImageUrl": "white.png",
+        "SongLink": "https://v.daum.net/v/20230901094928742",
+        "ViewCount": ""
+    },
+    {
         "Name": "September 28, 2023",
         "Artist": "Loossemble",
         "Details": " (루셈블) \nAlbum: 1st Mini Album [Loossemble]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 28, 2023",
+        "Artist": "D.O. ",
+        "Details": "(EXO)\nAlbum: The 2nd Mini Album 〖기대〗",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -274,7 +314,7 @@
     {
         "Name": "September 28, 2023",
         "Artist": "TEMPEST",
-        "Details": "",
+        "Details": "Album: 1ST SINGLE ALBUM <폭풍 속으로>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""

@@ -1,6 +1,14 @@
 [
     {
         "Name": "October 28, 2023",
+        "Artist": "EVOLution",
+        "Details": " (tripleS)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 28, 2023",
         "Artist": "NCT 127",
         "Details": "Album: 5th Regular Album “Fact Check”",
         "ImageUrl": "white.png",
@@ -45,6 +53,6 @@
         "Details": "JUST B\n4th MINI ALBUM\nSEVENTEEN\nAlbum: 11th mini album \nSoompi\nWeeekly\nSoompi\nB.I GLOBAL EP\n \n<Love or Loved Part.2>\nChuu\nSports Donga",
         "ImageUrl": "https://img.youtube.com/vi/AwyCBRQs_34/default.jpg",
         "SongLink": "https://v.daum.net/v/20230829141509667",
-        "ViewCount": "37K views"
+        "ViewCount": "38K views"
     }
 ]
