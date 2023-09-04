@@ -1,8 +1,8 @@
 [
     {
         "Name": "October 28, 2023",
-        "Artist": "EVOLution",
-        "Details": " (tripleS)",
+        "Artist": "EPEX ",
+        "Details": "Album: 6th EP Album Prelude of Anxiety Chapter 2. ‘Can We Surrender?’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -11,6 +11,14 @@
         "Name": "October 28, 2023",
         "Artist": "NCT 127",
         "Details": "Album: 5th Regular Album “Fact Check”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 28, 2023",
+        "Artist": "IVE",
+        "Details": "September 25: “Either Way”\nOctober 6: “Off the Record”\nOctober 13: “Baddie”\nAlbum: THE 1st EP <I’VE MINE>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -32,9 +40,25 @@
         "ViewCount": ""
     },
     {
+        "Name": "October 11, 2023",
+        "Artist": "EVOLution",
+        "Details": " (tripleS)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 28, 2023",
         "Artist": "TXT",
         "Details": "Album: The 3rd Regular Album “The Name Chapter: FREEFALL”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 13, 2023",
+        "Artist": "IVE",
+        "Details": "September 25: “Either Way”\nOctober 6: “Off the Record”\nOctober 13: “Baddie”\nAlbum: THE 1st EP <I’VE MINE>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -53,6 +77,6 @@
         "Details": "JUST B\n4th MINI ALBUM\nSEVENTEEN\nAlbum: 11th mini album \nSoompi\nWeeekly\nSoompi\nB.I GLOBAL EP\n \n<Love or Loved Part.2>\nChuu\nSports Donga",
         "ImageUrl": "https://img.youtube.com/vi/AwyCBRQs_34/default.jpg",
         "SongLink": "https://v.daum.net/v/20230829141509667",
-        "ViewCount": "43K views"
+        "ViewCount": "44K views"
     }
 ]
