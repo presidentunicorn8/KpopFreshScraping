@@ -74,9 +74,17 @@
     {
         "Name": "October 28, 2023",
         "Artist": "Album: JAPAN 1st Album『RINGO』",
-        "Details": "JUST B\n4th MINI ALBUM\nSEVENTEEN\nAlbum: 11th mini album \nSoompi\nWeeekly\nSoompi\nB.I GLOBAL EP\n \n<Love or Loved Part.2>\nChuu\nSports Donga",
+        "Details": "",
         "ImageUrl": "https://img.youtube.com/vi/AwyCBRQs_34/default.jpg",
-        "SongLink": "https://v.daum.net/v/20230829141509667",
+        "SongLink": "https://youtu.be/AwyCBRQs_34?si=PwBlhJhEaaD6eNvI",
         "ViewCount": "53K views"
+    },
+    {
+        "Name": "October 28, 2023",
+        "Artist": "B.I ",
+        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nJUST B\n4th MINI ALBUM\nSEVENTEEN\nAlbum: 11th mini album \nSoompi\nWeeekly\nSoompi\nChuu\nSports Donga",
+        "ImageUrl": "white.png",
+        "SongLink": "https://v.daum.net/v/20230829141509667",
+        "ViewCount": ""
     }
 ]
