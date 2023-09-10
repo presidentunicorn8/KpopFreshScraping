@@ -73,7 +73,7 @@ def getData(current_date):
     for i, element in enumerate(unfilteredList):
         if ", 20" in element:
             # Remove the colon from the date string
-            cleaned_date_string = element.replace(":", "")
+            cleaned_date_string = element.split(":")[0].lstrip()
             try:
                 # Convert the cleaned date string to a DateTime object
                 date_object = datetime.datetime.strptime(cleaned_date_string, "%B %d, %Y")
@@ -132,7 +132,7 @@ next_date = (first_day_of_current_month + datetime.timedelta(days=32)).replace(d
 
 for x in [last_date, current_date, next_date]:
     songList = getData(x)
-    month_as_string = x.strftime('%-m')
+    month_as_string = str(x.month)
     file_title = f"data-{month_as_string}.json"
     # Export the list of dictionaries as JSON to a file
     with open(file_title, "w", encoding="utf-8") as json_file:
