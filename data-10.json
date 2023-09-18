@@ -32,6 +32,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "October 4, 2023",
+        "Artist": "JINI ",
+        "Details": "Album: 1st EP An Iron Hand In A Velvet Glove",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 6, 2023",
         "Artist": "NCT 127",
         "Details": "Album: 5th Regular Album “Fact Check”",
@@ -73,6 +81,14 @@
     },
     {
         "Name": "October 11, 2023",
+        "Artist": "JINI ",
+        "Details": "Album: 1st EP An Iron Hand In A Velvet Glove",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 11, 2023",
         "Artist": "EVOLution",
         "Details": " (tripleS)",
         "ImageUrl": "white.png",
@@ -88,6 +104,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "October 12, 2023",
+        "Artist": "Wheein",
+        "Details": " (MAMAMOO)\nSoompi",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.soompi.com/article/1613909wpp/mamamoos-wheein-announces-october-comeback-date-for-1st-full-album",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 13, 2023",
         "Artist": "TXT",
         "Details": "Album: The 3rd Regular Album “The Name Chapter: FREEFALL”",
@@ -99,6 +123,14 @@
         "Name": "October 13, 2023",
         "Artist": "IVE",
         "Details": "September 25: “Either Way”\nOctober 6: “Off the Record”\nOctober 13: “Baddie”\nAlbum: THE 1st EP <I’VE MINE>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 18, 2023",
+        "Artist": "CHUU ",
+        "Details": "Album: 1ST MINI ALBUM",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -122,9 +154,9 @@
     {
         "Name": "October 27, 2023",
         "Artist": "B.I ",
-        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nXdinary Heroes\nEdaily Korea\nJUST B\n4th MINI ALBUM\nSEVENTEEN\nAlbum: 11th mini album \nSoompi\nWeeekly\nSoompi\nChuu\nSports Donga",
+        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nXdinary Heroes\nEdaily Korea\nJUST B\n4th MINI ALBUM\nSEVENTEEN\nAlbum: 11th mini album \nSoompi\nWeeekly\nSoompi",
         "ImageUrl": "white.png",
-        "SongLink": "https://v.daum.net/v/20230829141509667",
+        "SongLink": "https://www.soompi.com/article/1607460wpp/weeekly-announces-plans-for-1st-comeback-in-over-a-year",
         "ViewCount": ""
     }
 ]
