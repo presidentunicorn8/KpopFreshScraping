@@ -66,15 +66,23 @@
     {
         "Name": "October 6, 2023",
         "Artist": "(G)I-DLE",
-        "Details": " \nTitle Track: “I DO”\nAlbum: EP HEAT",
-        "ImageUrl": "https://img.youtube.com/vi/pCh3Kp6qxo8/default.jpg",
-        "SongLink": "https://youtu.be/pCh3Kp6qxo8",
-        "ViewCount": "18M views"
+        "Details": " \nTitle Track: “I Want That”\nAlbum: Special EP [HEAT]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
     },
     {
         "Name": "October 6, 2023",
         "Artist": "aespa",
         "Details": "Title Track: “Zoom Zoom” \nOST: Japanese animation Series ‘BEYBLADE X’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 9, 2023",
+        "Artist": "JUST B ",
+        "Details": "Album: 4th MINI ALBUM ÷ (NANUGI)",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -122,9 +130,9 @@
     {
         "Name": "October 12, 2023",
         "Artist": "Wheein",
-        "Details": " (MAMAMOO)\nSoompi",
+        "Details": " (MAMAMOO)\nAlbum: In 1st Full Album [IN the mood]",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1613909wpp/mamamoos-wheein-announces-october-comeback-date-for-1st-full-album",
+        "SongLink": "no",
         "ViewCount": ""
     },
     {
@@ -184,6 +192,14 @@
         "ViewCount": "59K views"
     },
     {
+        "Name": "October 23, 2023",
+        "Artist": "SEVENTEEN ",
+        "Details": "(세븐틴) \nAlbum: 11th Mini Album ‘SEVENTEENTH HEAVEN’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 25, 2023",
         "Artist": "CNBLUE",
         "Details": " (JP)\nTitle Track: “Synchronize”\nAlbum: CNBLUE 7th NEW Album “PLEASURES”",
@@ -194,7 +210,7 @@
     {
         "Name": "October 27, 2023",
         "Artist": "B.I ",
-        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nSUNMI\nEdaily Korea\nBilllie\nJay Chang\nLIGHTSUM\nMy Daily Korea\nXdinary Heroes\nEdaily Korea\nJUST B\n4th MINI ALBUM\nSEVENTEEN\nAlbum: 11th mini album \nSoompi\nWeeekly\nSoompi",
+        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nSUNMI\nEdaily Korea\nBilllie\nJay Chang\nLIGHTSUM\nMy Daily Korea\nXdinary Heroes\nEdaily Korea\nJUST B\n4th MINI ALBUM\nWeeekly\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1607460wpp/weeekly-announces-plans-for-1st-comeback-in-over-a-year",
         "ViewCount": ""
