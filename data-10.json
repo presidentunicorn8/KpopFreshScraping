@@ -97,6 +97,14 @@
     },
     {
         "Name": "October 11, 2023",
+        "Artist": "Xdinary Heroes",
+        "Details": "Album: 4th Mini Album “Livelock”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 11, 2023",
         "Artist": "POW",
         "Details": " (파우) (DEBUT)",
         "ImageUrl": "white.png",
@@ -210,7 +218,7 @@
     {
         "Name": "October 27, 2023",
         "Artist": "B.I ",
-        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nSUNMI\nEdaily Korea\nBilllie\nJay Chang\nLIGHTSUM\nMy Daily Korea\nXdinary Heroes\nEdaily Korea\nJUST B\n4th MINI ALBUM\nWeeekly\nSoompi",
+        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nSUNMI\nEdaily Korea\nBilllie\nJay Chang\nLIGHTSUM\nMy Daily Korea\nWeeekly\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1607460wpp/weeekly-announces-plans-for-1st-comeback-in-over-a-year",
         "ViewCount": ""
