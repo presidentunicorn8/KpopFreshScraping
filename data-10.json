@@ -121,6 +121,14 @@
     },
     {
         "Name": "October 11, 2023",
+        "Artist": "LIGHTSUM",
+        "Details": " (라잇썸)\nAlbum: 2nd Mini Album [Honey or Spice]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 11, 2023",
         "Artist": "EVOLution",
         "Details": " (tripleS)",
         "ImageUrl": "white.png",
@@ -139,6 +147,14 @@
         "Name": "October 12, 2023",
         "Artist": "Wheein",
         "Details": " (MAMAMOO)\nAlbum: In 1st Full Album [IN the mood]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 12, 2023",
+        "Artist": "LIGHTSUM",
+        "Details": " (라잇썸)\nAlbum: 2nd Mini Album [Honey or Spice]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -197,7 +213,7 @@
         "Details": "",
         "ImageUrl": "https://img.youtube.com/vi/AwyCBRQs_34/default.jpg",
         "SongLink": "https://youtu.be/AwyCBRQs_34?si=PwBlhJhEaaD6eNvI",
-        "ViewCount": "59K views"
+        "ViewCount": "60K views"
     },
     {
         "Name": "October 23, 2023",
@@ -218,7 +234,7 @@
     {
         "Name": "October 27, 2023",
         "Artist": "B.I ",
-        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nSUNMI\nEdaily Korea\nBilllie\nJay Chang\nLIGHTSUM\nMy Daily Korea\nWeeekly\nSoompi",
+        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nSUNMI\nEdaily Korea\nBilllie\nJay Chang\nWeeekly\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1607460wpp/weeekly-announces-plans-for-1st-comeback-in-over-a-year",
         "ViewCount": ""
