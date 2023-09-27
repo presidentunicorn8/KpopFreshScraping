@@ -17,6 +17,14 @@
     },
     {
         "Name": "October 4, 2023",
+        "Artist": "NewJeans ",
+        "Details": "Title Track: “GODS” \nOST: League of Legends Worlds 2023 Anthem",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 4, 2023",
         "Artist": "ONF",
         "Details": "Album: 7TH MINI ALBUM [LOVE EFFECT]",
         "ImageUrl": "white.png",
@@ -51,6 +59,14 @@
         "Name": "October 5, 2023",
         "Artist": "82MAJOR",
         "Details": "Album: 1ST SINGLE ALBUM [ON]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 5, 2023",
+        "Artist": "POW",
+        "Details": " (파우) (DEBUT)\nAlbum: 1st EP [Favorite]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -96,11 +112,27 @@
         "ViewCount": ""
     },
     {
+        "Name": "October 9, 2023",
+        "Artist": "Lim Young Woong",
+        "Details": "Digital Single",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 10, 2023",
         "Artist": "BOBBY",
         "Details": " (iKON)\nThe Fact Korea",
         "ImageUrl": "white.png",
         "SongLink": "https://entertain.naver.com/now/read?oid=629&aid=0000238325",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 10, 2023",
+        "Artist": "AIMERS",
+        "Details": " (JP)\nAlbum: JAPAN 1st MINI ALBUM [ Bubbling ]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     },
     {
@@ -114,7 +146,7 @@
     {
         "Name": "October 11, 2023",
         "Artist": "POW",
-        "Details": " (파우) (DEBUT)",
+        "Details": " (파우) (DEBUT)\nAlbum: 1st EP [Favorite]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -168,6 +200,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "October 12, 2023",
+        "Artist": "Rothy ",
+        "Details": "Album: Single Album “Something Casual”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 13, 2023",
         "Artist": "TXT",
         "Details": "Album: The 3rd Regular Album “The Name Chapter: FREEFALL”",
@@ -192,9 +232,25 @@
         "ViewCount": ""
     },
     {
+        "Name": "October 17, 2023",
+        "Artist": "SUNMI ",
+        "Details": "Album: Digital Single 【𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑】",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 17, 2023",
+        "Artist": "YOUNITE ",
+        "Details": "Album: 5TH EP ‘빛 : BIT Part.2’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 18, 2023",
         "Artist": "CHUU ",
-        "Details": "Album: 1ST MINI ALBUM",
+        "Details": "Album: 1ST MINI ALBUM [Howl]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -217,6 +273,14 @@
     },
     {
         "Name": "October 18, 2023",
+        "Artist": "QWER ",
+        "Details": "Album: 1st Single Album ‘Harmony from Discord’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 18, 2023",
         "Artist": "ITZY",
         "Details": " (JP)",
         "ImageUrl": "white.png",
@@ -230,6 +294,14 @@
         "ImageUrl": "https://img.youtube.com/vi/AwyCBRQs_34/default.jpg",
         "SongLink": "https://youtu.be/AwyCBRQs_34?si=PwBlhJhEaaD6eNvI",
         "ViewCount": "64K views"
+    },
+    {
+        "Name": "October 19, 2023",
+        "Artist": "Balming Tiger",
+        "Details": "January Never Dies",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
     },
     {
         "Name": "October 23, 2023",
@@ -258,9 +330,9 @@
     {
         "Name": "October 27, 2023",
         "Artist": "B.I ",
-        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nSUNMI\nEdaily Korea\nJay Chang\nWeeekly\nSoompi",
+        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nQueenz Eye\nJay Chang",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1607460wpp/weeekly-announces-plans-for-1st-comeback-in-over-a-year",
+        "SongLink": "no",
         "ViewCount": ""
     }
 ]
