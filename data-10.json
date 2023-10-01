@@ -1,5 +1,21 @@
 [
     {
+        "Name": "October 1, 2023",
+        "Artist": "Yeji",
+        "Details": "Album: EP My Universe\nTitle Track & MV:\n– \n“Feeling of love(사랑느낌)”\n– \n“Cloud(구름)”",
+        "ImageUrl": "https://img.youtube.com/vi/YEmOouybbyI/default.jpg",
+        "SongLink": "https://youtu.be/YEmOouybbyI?si=6WehJF9DhM3nc0AT",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "October 1, 2023",
+        "Artist": "Yang Jain",
+        "Details": "(양자인)\nTitle Track: You’ve Changed(참 많이 변했더라)",
+        "ImageUrl": "https://img.youtube.com/vi/BGtrFZ-fu2w/default.jpg",
+        "SongLink": "https://youtu.be/BGtrFZ-fu2w?si=bQQdcR-dsn-ThhWR",
+        "ViewCount": "355 views"
+    },
+    {
         "Name": "October 2, 2023",
         "Artist": "Girls’ World",
         "Details": "Album: 2ND MINI ALBUM",
@@ -26,18 +42,18 @@
     {
         "Name": "October 4, 2023",
         "Artist": "ONF",
-        "Details": "Album: 7TH MINI ALBUM [LOVE EFFECT]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: “Love Effect”\nAlbum: 7TH MINI ALBUM [LOVE EFFECT]",
+        "ImageUrl": "https://img.youtube.com/vi/SBp00S63UjE/default.jpg",
+        "SongLink": "https://youtu.be/SBp00S63UjE?si=BNRV4ionjhYXmkcN",
+        "ViewCount": "19K views"
     },
     {
         "Name": "October 4, 2023",
         "Artist": "EPEX ",
-        "Details": "Album: 6th EP Album Prelude of Anxiety Chapter 2. ‘Can We Surrender?’",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: “Surrender”\nAlbum: 6th EP Album Prelude of Anxiety Chapter 2. ‘Can We Surrender?’",
+        "ImageUrl": "https://img.youtube.com/vi/-qxZ2cPJhpE/default.jpg",
+        "SongLink": "https://youtu.be/-qxZ2cPJhpE?si=Gw2Zt-TszeG8XkdG",
+        "ViewCount": "14K views"
     },
     {
         "Name": "October 4, 2023",
@@ -69,6 +85,14 @@
         "Details": " (파우) (DEBUT)\nAlbum: 1st EP [Favorite]",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 5, 2023",
+        "Artist": "HYNN",
+        "Details": "(박혜원) \nTitle Track: ‘찬바람이 불면 As Autumn Brings Cold Wind’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@hynn9109/shorts",
         "ViewCount": ""
     },
     {
@@ -122,9 +146,17 @@
     {
         "Name": "October 10, 2023",
         "Artist": "BOBBY",
-        "Details": " (iKON)\nThe Fact Korea",
+        "Details": " (iKON)\nAlbum: 1ST MINI [ROBERT]",
         "ImageUrl": "white.png",
-        "SongLink": "https://entertain.naver.com/now/read?oid=629&aid=0000238325",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 10, 2023",
+        "Artist": "Ailee ",
+        "Details": "Album: Single Album [RA TA TA]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     },
     {
@@ -208,6 +240,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "October 12, 2023",
+        "Artist": "Viann ",
+        "Details": "[HAJIMA]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 13, 2023",
         "Artist": "TXT",
         "Details": "Album: The 3rd Regular Album “The Name Chapter: FREEFALL”",
@@ -248,6 +288,22 @@
         "ViewCount": ""
     },
     {
+        "Name": "October 17, 2023",
+        "Artist": "Loco",
+        "Details": " (로꼬)\nAlbum: 2nd Full Length Album “WEAK”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 17, 2023",
+        "Artist": "JAY CHANG ",
+        "Details": "Album: 1st MINI ALBUM ’Late Night’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 18, 2023",
         "Artist": "CHUU ",
         "Details": "Album: 1ST MINI ALBUM [Howl]",
@@ -275,6 +331,14 @@
         "Name": "October 18, 2023",
         "Artist": "QWER ",
         "Details": "Album: 1st Single Album ‘Harmony from Discord’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 18, 2023",
+        "Artist": "SUPERKIND",
+        "Details": "Title Track: “Beam Me Up”\nAlbum: 1st Mini Album ‘Profiles of the Future (Λ): 70%’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -330,7 +394,15 @@
     {
         "Name": "October 27, 2023",
         "Artist": "B.I ",
-        "Details": "Album: GLOBAL EP <Love or Loved Part.2>\nQueenz Eye\nJay Chang",
+        "Details": "Album: GLOBAL EP <Love or Loved Part.2>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 30, 2023",
+        "Artist": "NiziU ",
+        "Details": "(Korean Debut) \n“Press Play”\nQueenz Eye",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
