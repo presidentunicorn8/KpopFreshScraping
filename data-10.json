@@ -13,7 +13,7 @@
         "Details": "(양자인)\nTitle Track: You’ve Changed(참 많이 변했더라)",
         "ImageUrl": "https://img.youtube.com/vi/BGtrFZ-fu2w/default.jpg",
         "SongLink": "https://youtu.be/BGtrFZ-fu2w?si=bQQdcR-dsn-ThhWR",
-        "ViewCount": "604 views"
+        "ViewCount": "614 views"
     },
     {
         "Name": "October 2, 2023",
@@ -21,7 +21,7 @@
         "Details": "Title Track: “FLY HIGH [Thumbelina]”\nAlbum: 2ND MINI ALBUM",
         "ImageUrl": "https://img.youtube.com/vi/Va14WRNJpDc/default.jpg",
         "SongLink": "https://youtu.be/Va14WRNJpDc?si=JLD0vwjmmWJcaF0i",
-        "ViewCount": "18K views"
+        "ViewCount": "19K views"
     },
     {
         "Name": "October 3, 2023",
@@ -58,10 +58,10 @@
     {
         "Name": "October 4, 2023",
         "Artist": "YESUNG",
-        "Details": " (Super Junior)\nAlbum: The 5th Mini Album 【Unfading Sense】",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": " (Super Junior)\nTitle Track: ‘Scented Things’ \nAlbum: The 5th Mini Album 【Unfading Sense】",
+        "ImageUrl": "https://img.youtube.com/vi/q37JqQ8GxSg/default.jpg",
+        "SongLink": "https://youtu.be/q37JqQ8GxSg?si=F1gEsriS5TBkhHO9",
+        "ViewCount": "21K views"
     },
     {
         "Name": "October 4, 2023",
@@ -387,6 +387,14 @@
         "Name": "October 23, 2023",
         "Artist": "Billlie",
         "Details": "Album: the first single album [side-B : memoirs of echo unseen]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 24, 2023",
+        "Artist": "ILY:1 ",
+        "Details": "Album: 1st Digital Single “To My Boyfriend”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
