@@ -17,8 +17,24 @@
     },
     {
         "Name": "November 6, 2023",
+        "Artist": "ZEROBASEONE ",
+        "Details": "Album: The 2nd Mini Album [𝗠𝗘𝗟𝗧𝗜𝗡𝗚 𝗣𝗢𝗜𝗡𝗧]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 6, 2023",
         "Artist": "GreatGuys",
         "Details": "Title Track: “DEEPHAGAE (딥하게)”\nAlbum: RECORD OF YOUTH  EP.2:DEEPLY",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 10, 2023",
+        "Artist": "Stray Kids",
+        "Details": "(스트레이 키즈) \nAlbum: “樂-STAR”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -34,7 +50,7 @@
     {
         "Name": "November 29, 2023",
         "Artist": "Hi-Fi Un!corn",
-        "Details": "Album: 2nd Single “U&I”\nKISS OF LIFE \nAlbum: 2nd Mini Album [Born to be XX]\nRed Velvet\nSoompi\nStray Kids\nZEROBASEONE\nAlbum: 2nd EP\nTrailer: ",
+        "Details": "Album: 2nd Single “U&I”\nKISS OF LIFE \nAlbum: 2nd Mini Album [Born to be XX]\nRed Velvet\nSoompi\nZEROBASEONE\nAlbum: 2nd EP\nTrailer: ",
         "ImageUrl": "https://img.youtube.com/vi/777gMCTK0eU/default.jpg",
         "SongLink": "https://youtu.be/777gMCTK0eU?si=JAedGGNCqCRjNaNU",
         "ViewCount": "200K views"
