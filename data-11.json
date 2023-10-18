@@ -1,8 +1,24 @@
 [
     {
         "Name": "November 1, 2023",
+        "Artist": "WayV ",
+        "Details": "Album: The 2nd Album ‘On My Youth’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 1, 2023",
         "Artist": "Weeekly",
-        "Details": "Album: 5th Mini Album",
+        "Details": "Album: 5th Mini Album [ColoRise]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 1, 2023",
+        "Artist": "Catch The Young",
+        "Details": "Title Track: “Youth!!!”\nAlbum: 1st Mini Album [Catch The Young: Fragments of Youth]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -41,8 +57,24 @@
     },
     {
         "Name": "November 6, 2023",
+        "Artist": "Youngjae",
+        "Details": " (영재)\nAlbum: 1st Full Album ‘Do It’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 6, 2023",
         "Artist": "GreatGuys",
         "Details": "Title Track: “DEEPHAGAE (딥하게)”\nAlbum: RECORD OF YOUTH  EP.2:DEEPLY",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 7, 2023",
+        "Artist": "OMEGA X",
+        "Details": "The 3rd Mini Album [iykyk]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -59,6 +91,14 @@
         "Name": "November 8, 2023",
         "Artist": "WHIB ",
         "Details": "Album: 1st Single Album  [Cut-Out]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 8, 2023",
+        "Artist": "WayV ",
+        "Details": "Album: The 2nd Album ‘On My Youth’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -88,6 +128,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "November 13, 2023",
+        "Artist": "Red Velvet ",
+        "Details": "Album: The 3rd Album ‘What A Chill Kill’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "November 29, 2023",
         "Artist": "Hi-Fi Un!corn",
         "Details": "Album: 2nd Single “U&I”",
@@ -98,7 +146,7 @@
     {
         "Name": "November 22, 2023",
         "Artist": "Kep1er",
-        "Details": " (JP)\nTitle Track: “Grand Prix”\nAlbum: Japan 3rd Single <𝑭𝑳𝒀-𝑯𝑰𝑮𝑯>\nBABYMONSTER\nSoompi\nRed Velvet\nSoompi\nZEROBASEONE\nAlbum: 2nd EP\nTrailer: ",
+        "Details": " (JP)\nTitle Track: “Grand Prix”\nAlbum: Japan 3rd Single <𝑭𝑳𝒀-𝑯𝑰𝑮𝑯>\nAMPERS&ONE\nCrush \n3rd Album ‘wonderego’\nBABYMONSTER\nSoompi\nZEROBASEONE\nAlbum: 2nd EP\nTrailer: ",
         "ImageUrl": "https://img.youtube.com/vi/777gMCTK0eU/default.jpg",
         "SongLink": "https://youtu.be/777gMCTK0eU?si=JAedGGNCqCRjNaNU",
         "ViewCount": "205K views"
