@@ -17,6 +17,22 @@
     },
     {
         "Name": "November 1, 2023",
+        "Artist": "Epik High",
+        "Details": "Title Track: “Screen Time”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 1, 2023",
+        "Artist": "Rocking doll Roa",
+        "Details": " (록킹돌 로아) \nTitle Track: “LIAR”\nAlbum: 1st Mini Album ‘LIAR’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 1, 2023",
         "Artist": "Catch The Young",
         "Details": "Title Track: “Youth!!!”\nAlbum: 1st Mini Album [Catch The Young: Fragments of Youth]",
         "ImageUrl": "white.png",
@@ -27,6 +43,22 @@
         "Name": "November 2, 2023",
         "Artist": "VIVIZ ",
         "Details": "Album: The 4th Mini Album ‘VERSUS’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 2, 2023",
+        "Artist": "NINE.i ",
+        "Details": "Album: Digital Single [𝐍𝐄𝐕𝐄𝐑𝐋𝐀𝐍𝐃]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 2, 2023",
+        "Artist": "Golden Child",
+        "Details": "Album: 3rd Single Album [Feel me]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -154,9 +186,9 @@
     {
         "Name": "November 22, 2023",
         "Artist": "Kep1er",
-        "Details": " (JP)\nTitle Track: “Grand Prix”\nAlbum: Japan 3rd Single <𝑭𝑳𝒀-𝑯𝑰𝑮𝑯>\nAMPERS&ONE\nCrush \n3rd Album ‘wonderego’\nBABYMONSTER\nSoompi\nZEROBASEONE\nAlbum: 2nd EP\nTrailer: ",
-        "ImageUrl": "https://img.youtube.com/vi/777gMCTK0eU/default.jpg",
-        "SongLink": "https://youtu.be/777gMCTK0eU?si=JAedGGNCqCRjNaNU",
-        "ViewCount": "206K views"
+        "Details": " (JP)\nTitle Track: “Grand Prix”\nAlbum: Japan 3rd Single <𝑭𝑳𝒀-𝑯𝑰𝑮𝑯>\nDKB\nSports Chosun\n \nAMPERS&ONE\nCrush \n3rd Album ‘wonderego’\nBABYMONSTER\nSoompi",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.soompi.com/article/1618694wpp/yg-explains-babymonsters-postponed-debut-confirms-new-plans",
+        "ViewCount": ""
     }
 ]
