@@ -168,9 +168,33 @@
         "ViewCount": ""
     },
     {
+        "Name": "November 15, 2023",
+        "Artist": "NTX",
+        "Details": "Album: 1st Album ODD HOUR",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 15, 2023",
+        "Artist": "AMPERS&ONE",
+        "Details": "Album: 1st Single Album ‘AMPERSAND ONE’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "November 17, 2023",
         "Artist": "ENHYPEN",
         "Details": "Album: 5th Mini Album ‘Orange Blood’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 20, 2023",
+        "Artist": "THE BOYZ",
+        "Details": "“Sixth Sense”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
