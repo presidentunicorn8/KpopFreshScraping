@@ -18,7 +18,7 @@
     {
         "Name": "November 1, 2023",
         "Artist": "Epik High",
-        "Details": "Title Track: “Screen Time”",
+        "Details": "Title Track: “Screen Time ft. Hoshi”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -104,6 +104,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "November 6, 2023",
+        "Artist": "Baek A Yeon",
+        "Details": "Album: Digital Single LIME (I’m So)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "November 7, 2023",
         "Artist": "OMEGA X",
         "Details": "The 3rd Mini Album [iykyk]",
@@ -122,7 +130,7 @@
     {
         "Name": "November 8, 2023",
         "Artist": "SOOJIN",
-        "Details": "[아가씨]",
+        "Details": "Album: 1st EP [아가씨]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -168,9 +176,25 @@
         "ViewCount": ""
     },
     {
+        "Name": "November 10, 2023",
+        "Artist": "BANG YEDAM",
+        "Details": "Album: 1st Mini Album",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "November 13, 2023",
         "Artist": "Red Velvet ",
         "Details": "Album: The 3rd Album ‘What A Chill Kill’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 15, 2023",
+        "Artist": "&TEAM",
+        "Details": "Title Track: “War Cry”\nAlbum: First Howling: NOW",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -200,6 +224,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "November 17, 2023",
+        "Artist": "MINIMANI M",
+        "Details": "Album: The First Special Album ‘까맣게 타버린 내맘(Heartbreak)‘",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "November 20, 2023",
         "Artist": "THE BOYZ",
         "Details": "“Sixth Sense”",
@@ -209,8 +241,24 @@
     },
     {
         "Name": "November 22, 2023",
+        "Artist": "MCND ",
+        "Details": "Album: 5TH MINI ALBUM [ODD-VENTURE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 22, 2023",
         "Artist": "Kep1er",
         "Details": " (JP)\nTitle Track: “Grand Prix”\nAlbum: Japan 3rd Single <𝑭𝑳𝒀-𝑯𝑰𝑮𝑯>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 23, 2023",
+        "Artist": "BANG YEDAM",
+        "Details": "Album: 1st Mini Album",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
