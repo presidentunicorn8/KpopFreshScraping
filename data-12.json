@@ -57,6 +57,14 @@
     },
     {
         "Name": "December 6, 2023",
+        "Artist": "Zion.T",
+        "Details": "Album: 3rd Album “Zip”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 6, 2023",
         "Artist": "STAYC",
         "Details": " (JP)\nAlbum: Japan 3rd Single 「LIT」",
         "ImageUrl": "white.png",
@@ -83,6 +91,14 @@
         "Name": "December 12, 2023",
         "Artist": "BOL4",
         "Details": "Album: Mini Album 「Merry Go Round」",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 26, 2023",
+        "Artist": "TVXQ",
+        "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
