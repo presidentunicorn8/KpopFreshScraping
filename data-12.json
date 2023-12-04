@@ -5,7 +5,7 @@
         "Details": "Title Track: ‘미친 폼 (Crazy Form)’\nAlbum: THE WORLD EP.FIN : WILL",
         "ImageUrl": "https://img.youtube.com/vi/9t57C7NcjWo/default.jpg",
         "SongLink": "https://youtu.be/9t57C7NcjWo?si=k-o0x5HlJOJVBb5j",
-        "ViewCount": "26M views"
+        "ViewCount": "27M views"
     },
     {
         "Name": "December 1, 2023",
@@ -13,7 +13,23 @@
         "Details": "Pre-Debut Single “Ready for the World”",
         "ImageUrl": "https://img.youtube.com/vi/wrnaIP-idnA/default.jpg",
         "SongLink": "https://youtu.be/wrnaIP-idnA?si=lakL41f7xsfDtYST",
-        "ViewCount": "920K views"
+        "ViewCount": "935K views"
+    },
+    {
+        "Name": "December 1, 2023",
+        "Artist": "GK",
+        "Details": " (지케이)\nTitle Track: ‘DONE (feat. Chu Seo Jun)’",
+        "ImageUrl": "https://img.youtube.com/vi/kf-Jpyg8arE/default.jpg",
+        "SongLink": "https://youtu.be/kf-Jpyg8arE?si=VhcxOyjkydnpqYFb",
+        "ViewCount": "265K views"
+    },
+    {
+        "Name": "December 1, 2023",
+        "Artist": "Roy Kim",
+        "Details": "(로이킴)\nTitle Track: “Whenever, Wherever(그대가 있는 곳, 언제 어디든)”\nOST: (MY DEMON(마이데몬) OST Pt. 2)",
+        "ImageUrl": "https://img.youtube.com/vi/wxfV4vSSlGw/default.jpg",
+        "SongLink": "https://youtu.be/wxfV4vSSlGw?si=IJkcqD1TyTpsPFxB",
+        "ViewCount": "91K views"
     },
     {
         "Name": "December 1, 2023",
@@ -21,7 +37,7 @@
         "Details": "Title Track: “The Carol 3.0”",
         "ImageUrl": "https://img.youtube.com/vi/6O7eq19FHJ8/default.jpg",
         "SongLink": "https://youtu.be/6O7eq19FHJ8?si=VQOqDtbU_UNRRUNz",
-        "ViewCount": "68K views"
+        "ViewCount": "71K views"
     },
     {
         "Name": "December 1, 2023",
@@ -29,7 +45,15 @@
         "Details": "Title Track: “I want to be closer to you”\nAlbum: <Time-Lapse> Citypop Remake Album",
         "ImageUrl": "https://img.youtube.com/vi/Rfq88GJ_Fd4/default.jpg",
         "SongLink": "https://youtu.be/Rfq88GJ_Fd4?si=zCGMe-kr5owvCjdh",
-        "ViewCount": "38K views"
+        "ViewCount": "39K views"
+    },
+    {
+        "Name": "December 1, 2023",
+        "Artist": "Munan",
+        "Details": "Title Track: “When I was young”\nOST: Boyhood OST Part.2",
+        "ImageUrl": "https://img.youtube.com/vi/1-N9DZl2ER4/default.jpg",
+        "SongLink": "https://youtu.be/1-N9DZl2ER4?si=19wqYsRo-vCGHau8",
+        "ViewCount": "7K views"
     },
     {
         "Name": "December 1, 2023",
@@ -40,12 +64,60 @@
         "ViewCount": ""
     },
     {
+        "Name": "December 1, 2023",
+        "Artist": "2NB",
+        "Details": "(투앤비)\nTitle Track: “Love Affair(가져선 안되는 마음)”",
+        "ImageUrl": "https://img.youtube.com/vi/d-VmPQlUIHs/default.jpg",
+        "SongLink": "https://youtu.be/d-VmPQlUIHs?si=L5wZnrCXvtsPCn-K",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "December 1, 2023",
+        "Artist": "BMK",
+        "Details": "Title Track: “Goodbye to longing(그리움만 굿바이)”",
+        "ImageUrl": "https://img.youtube.com/vi/N0gzJNPHj70/default.jpg",
+        "SongLink": "https://youtu.be/N0gzJNPHj70?si=lRJiU-VyWtJLbVnN",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "December 2, 2023",
+        "Artist": "PARK EUN BIN",
+        "Details": "(박은빈)\nTitle Track: “Dream Us (Acoustic Ver)”\nOST: CASTAWAY DIVA(무인도의 디바) OST Vol.6",
+        "ImageUrl": "https://img.youtube.com/vi/rGTeHdntDPw/default.jpg",
+        "SongLink": "https://youtu.be/rGTeHdntDPw?si=14vO-rrtNtKq7H3G",
+        "ViewCount": "60K views"
+    },
+    {
+        "Name": "December 2, 2023",
+        "Artist": "Hwina",
+        "Details": "(휘나)\nTitle Track & MV:\n– \nBreak you down\n– \nLike a Tree(나무처럼)",
+        "ImageUrl": "https://img.youtube.com/vi/6pc5Q84tXv0/default.jpg",
+        "SongLink": "https://youtu.be/6pc5Q84tXv0?si=gocEWeXilEmrBXCp",
+        "ViewCount": "6K views"
+    },
+    {
+        "Name": "December 2, 2023",
+        "Artist": "more",
+        "Details": "Title Track: “Run&Love”\nOST: Secret Playlist OST Part.3",
+        "ImageUrl": "https://img.youtube.com/vi/5DZgbeCvhEc/default.jpg",
+        "SongLink": "https://youtu.be/5DZgbeCvhEc?si=CaTUXqFXb8mHhI0h",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "December 2, 2023",
+        "Artist": "Jung In",
+        "Details": " (정인)\nTitle Track: “Still in Love (조금만 더 너를)”",
+        "ImageUrl": "https://img.youtube.com/vi/WffDqN6pGC4/default.jpg",
+        "SongLink": "https://youtu.be/WffDqN6pGC4?si=d2qLbdqwiPAKJnux",
+        "ViewCount": "1K views"
+    },
+    {
         "Name": "December 2, 2023",
         "Artist": "umu",
         "Details": " (우무)\nTitle Track: “Cake”",
         "ImageUrl": "https://img.youtube.com/vi/6HTW0l0FOAo/default.jpg",
         "SongLink": "https://youtu.be/6HTW0l0FOAo?si=7Z-mkdMm5q0wOsL5",
-        "ViewCount": "160 views"
+        "ViewCount": "174 views"
     },
     {
         "Name": "December 3, 2023",
@@ -53,7 +125,7 @@
         "Details": " (SEVENTEEN)\nTitle Track: “Short Hair”\nOST: Welcome to Samdal-ri OST Part.1",
         "ImageUrl": "https://img.youtube.com/vi/dm8uynwxU8U/default.jpg",
         "SongLink": "https://youtu.be/dm8uynwxU8U?si=YaenyNJMlYeFtkLK",
-        "ViewCount": "89K views"
+        "ViewCount": "97K views"
     },
     {
         "Name": "December 3, 2023",
@@ -61,7 +133,15 @@
         "Details": "(황인욱)\nTitle Track: “Propose(같이 살자)”",
         "ImageUrl": "https://img.youtube.com/vi/rC1STapBlwo/default.jpg",
         "SongLink": "https://youtu.be/rC1STapBlwo?si=2BVpovJszHiQazo4",
-        "ViewCount": "8K views"
+        "ViewCount": "9K views"
+    },
+    {
+        "Name": "December 3, 2023",
+        "Artist": "Hanlim",
+        "Details": "(한림)\nTitle Track: “lukewarm(적당하게)”",
+        "ImageUrl": "https://img.youtube.com/vi/KjYsE5Cn3gE/default.jpg",
+        "SongLink": "https://youtu.be/KjYsE5Cn3gE?si=W73c31edOhF0LavG",
+        "ViewCount": "1K views"
     },
     {
         "Name": "December 3, 2023",
@@ -69,7 +149,7 @@
         "Details": "Title Track: “unOrdinary Day”",
         "ImageUrl": "https://img.youtube.com/vi/YMMHmrIwLNY/default.jpg",
         "SongLink": "https://youtu.be/YMMHmrIwLNY?si=O9DwNEmDLbP4H1bY",
-        "ViewCount": "471 views"
+        "ViewCount": "494 views"
     },
     {
         "Name": "December 3, 2023",
@@ -77,7 +157,15 @@
         "Details": "Title Track: “Sweet and Tenderness (Feat. 해옹)”",
         "ImageUrl": "https://img.youtube.com/vi/dxmShugeFyU/default.jpg",
         "SongLink": "https://youtu.be/dxmShugeFyU?si=ljv2bqDSj_s_bcDi",
-        "ViewCount": "161 views"
+        "ViewCount": "197 views"
+    },
+    {
+        "Name": "December 3, 2023",
+        "Artist": "Sujo",
+        "Details": " (수조)\nTitle Track: ‘꽃다발 Bouquet of Flowers’",
+        "ImageUrl": "https://img.youtube.com/vi/pSN-bJ_KBmc/default.jpg",
+        "SongLink": "https://youtu.be/pSN-bJ_KBmc?si=7H9vesIMp1vhTbzl",
+        "ViewCount": "90 views"
     },
     {
         "Name": "December 4, 2023",
@@ -93,7 +181,7 @@
         "Details": "Album: The 9th Album ‘20&2’",
         "ImageUrl": "https://img.youtube.com/vi/CyUPvo6nsHQ/default.jpg",
         "SongLink": "https://youtu.be/CyUPvo6nsHQ?si=AZsL1SjKkLviAijv",
-        "ViewCount": "851K views"
+        "ViewCount": "1M views"
     },
     {
         "Name": "December 4, 2023",
@@ -101,7 +189,7 @@
         "Details": "Title Track: “dreams(환상)”",
         "ImageUrl": "https://img.youtube.com/vi/lh68jM9pMv0/default.jpg",
         "SongLink": "https://youtu.be/lh68jM9pMv0?si=mBQr64yPJVHSLrTD",
-        "ViewCount": "3K views"
+        "ViewCount": "5K views"
     },
     {
         "Name": "December 4, 2023",
@@ -109,7 +197,7 @@
         "Details": " (서민경)\nTitle Track: “Always”\nAlbum: Between",
         "ImageUrl": "https://img.youtube.com/vi/ghwz_I-6Efs/default.jpg",
         "SongLink": "https://youtu.be/ghwz_I-6Efs?si=muZRdnpetoVodFX3",
-        "ViewCount": "223 views"
+        "ViewCount": "328 views"
     },
     {
         "Name": "December 4, 2023",
@@ -117,7 +205,7 @@
         "Details": "(브라이톤)\nTitle Track: “MY HERO (feat. Lee Jun Hyung(이준형))”",
         "ImageUrl": "https://img.youtube.com/vi/v9CpWO3V2wc/default.jpg",
         "SongLink": "https://youtu.be/v9CpWO3V2wc?si=oNgXIwR6O4jk_JWT",
-        "ViewCount": "175 views"
+        "ViewCount": "261 views"
     },
     {
         "Name": "December 4, 2023",
@@ -125,7 +213,7 @@
         "Details": "(시선)\nTitle Track: “Whisper (feat. Soon)(속삭임 (feat. 이제))”",
         "ImageUrl": "https://img.youtube.com/vi/b_GlxTj2KS8/default.jpg",
         "SongLink": "https://youtu.be/b_GlxTj2KS8?si=HWo51f8NhB8H1UMW",
-        "ViewCount": "125 views"
+        "ViewCount": "275 views"
     },
     {
         "Name": "December 4, 2023",
@@ -133,7 +221,7 @@
         "Details": "Title Track: ‘I Like That’ ",
         "ImageUrl": "https://img.youtube.com/vi/c7O7zOdIX7E/default.jpg",
         "SongLink": "https://youtu.be/c7O7zOdIX7E?si=LU39oSZTe_MQqFDB",
-        "ViewCount": "185 views"
+        "ViewCount": "320 views"
     },
     {
         "Name": "December 4, 2023",
@@ -141,7 +229,7 @@
         "Details": "Title Track: “SNOWTAPE”",
         "ImageUrl": "https://img.youtube.com/vi/LHj0yRz2oMM/default.jpg",
         "SongLink": "https://youtu.be/LHj0yRz2oMM?si=Ms0CL9UpuxPhkIoL",
-        "ViewCount": "65 views"
+        "ViewCount": "109 views"
     },
     {
         "Name": "December 4, 2023",
@@ -149,7 +237,7 @@
         "Details": " (소라) \nTitle Track: ‘나는 따뜻한 집이 좋아 (Cause my MBTI is the HOME)’",
         "ImageUrl": "https://img.youtube.com/vi/HB5-o5iPinY/default.jpg",
         "SongLink": "https://youtu.be/HB5-o5iPinY?si=dU03ZQGwdUVqJsnh",
-        "ViewCount": "13 views"
+        "ViewCount": "24 views"
     },
     {
         "Name": "December 5, 2023",
@@ -165,7 +253,7 @@
         "Details": " (위클리)",
         "ImageUrl": "https://img.youtube.com/vi/fQQ2zO7k8C8/default.jpg",
         "SongLink": "https://youtu.be/fQQ2zO7k8C8?si=uFGKLHiJa8Jm3YG1",
-        "ViewCount": "6K views"
+        "ViewCount": "7K views"
     },
     {
         "Name": "December 5, 2023",
@@ -174,6 +262,14 @@
         "ImageUrl": "white.png",
         "SongLink": "https://www.youtube.com/@bandsoran/videos",
         "ViewCount": ""
+    },
+    {
+        "Name": "December 5, 2023",
+        "Artist": "Komah Jay",
+        "Details": "(코마 제이)\nTitle Track: “Good Night(잘자요) (Feat. Wildberry)”",
+        "ImageUrl": "https://img.youtube.com/vi/XvqHbyZyiKo/default.jpg",
+        "SongLink": "https://youtu.be/XvqHbyZyiKo?si=4nUMSfL6en33asTC",
+        "ViewCount": "348 views"
     },
     {
         "Name": "December 6, 2023",
@@ -245,12 +341,44 @@
         "Details": "(황치열)\nTitle Track: “Beautiful Winter(찬란한 겨울)”",
         "ImageUrl": "https://img.youtube.com/vi/IsDAiQjsMdg/default.jpg",
         "SongLink": "https://youtu.be/IsDAiQjsMdg?si=wIXUAnfJorI_n47b",
-        "ViewCount": "3K views"
+        "ViewCount": "4K views"
     },
     {
         "Name": "December 12, 2023",
         "Artist": "BOL4",
         "Details": "Album: Mini Album 「Merry Go Round」",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 18, 2023",
+        "Artist": "ITZY",
+        "Details": "Title Track: “UNTOUCHABLE”\nAlbum: 2nd Album ITZY <BORN TO BE>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 20, 2023",
+        "Artist": "ITZY",
+        "Details": "Title Track: “UNTOUCHABLE”\nAlbum: 2nd Album ITZY <BORN TO BE>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 22, 2023",
+        "Artist": "ITZY",
+        "Details": "Title Track: “UNTOUCHABLE”\nAlbum: 2nd Album ITZY <BORN TO BE>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 25, 2023",
+        "Artist": "ITZY",
+        "Details": "Title Track: “UNTOUCHABLE”\nAlbum: 2nd Album ITZY <BORN TO BE>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -267,6 +395,14 @@
         "Name": "December 26, 2023",
         "Artist": "TAN",
         "Details": " (JP)\nAlbum: JAPAN Pre Debut Mini Album 『Proxima』",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 27, 2023",
+        "Artist": "ITZY",
+        "Details": "Title Track: “UNTOUCHABLE”\nAlbum: 2nd Album ITZY <BORN TO BE>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
