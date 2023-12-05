@@ -18,7 +18,23 @@
     {
         "Name": "January 15, 2024",
         "Artist": "NMIXX",
-        "Details": "Album: 2nd EP ‘Fe3O4: BREAK’\nWJSN SeolA\nSoompi\n(G)I-DLE\nSoompi\nSISTAR19\nSoompi",
+        "Details": "Album: 2nd EP ‘Fe3O4: BREAK’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 26, 2024",
+        "Artist": "VCHA",
+        "Details": " (Debut)\nJTBC",
+        "ImageUrl": "white.png",
+        "SongLink": "https://n.news.naver.com/entertain/now/article/437/0000369273",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 31, 2024",
+        "Artist": "ORβIT ",
+        "Details": "4th Single ‘Bull’s Eye’\nWJSN SeolA\nSoompi\n(G)I-DLE\nSoompi\nSISTAR19\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1626839wpp/sistar19-confirmed-to-make-comeback-after-11-years",
         "ViewCount": ""
