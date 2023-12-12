@@ -9,6 +9,14 @@
     },
     {
         "Name": "January 5, 2024",
+        "Artist": "JEONG SEWOON ",
+        "Details": "Album: THE 6TH MINI ALBUM <Quiz>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 5, 2024",
         "Artist": "RIIZE",
         "Details": "Soompi",
         "ImageUrl": "white.png",
@@ -37,6 +45,14 @@
         "Details": "Album: 2nd EP ‘Fe3O4: BREAK’",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 17, 2024",
+        "Artist": "SUPER JUNIOR – LSS",
+        "Details": " (JP)\nAlbum: 1st Japan Mini Album",
+        "ImageUrl": "white.png",
+        "SongLink": "https://superjunior-jp.net/en/news/detail.php?id=1112830",
         "ViewCount": ""
     },
     {
