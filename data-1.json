@@ -5,7 +5,7 @@
         "Details": "Title Track: “UNTOUCHABLE”\nAlbum: 2nd Album ITZY <BORN TO BE>",
         "ImageUrl": "https://img.youtube.com/vi/4R7vRFGJr3k/default.jpg",
         "SongLink": "https://youtu.be/4R7vRFGJr3k?si=CvsyHL-rZdOeKeYe",
-        "ViewCount": "3M views"
+        "ViewCount": "4M views"
     },
     {
         "Name": "January 3, 2024",
@@ -37,14 +37,22 @@
         "Details": "Title Track: “UNTOUCHABLE”\nAlbum: 2nd Album ITZY <BORN TO BE>",
         "ImageUrl": "https://img.youtube.com/vi/4R7vRFGJr3k/default.jpg",
         "SongLink": "https://youtu.be/4R7vRFGJr3k?si=CvsyHL-rZdOeKeYe",
-        "ViewCount": "3M views"
+        "ViewCount": "4M views"
     },
     {
         "Name": "January 8, 2024",
         "Artist": "SF9",
-        "Details": "13th Mini Album\nSoompi",
+        "Details": "Title Track: “비보라 (BIBORA)”\nAlbum: 13TH MINI ALBUM [Sequence]",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1630113wpp/sf9-confirms-winter-comeback-date",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 8, 2024",
+        "Artist": "B1A4 ",
+        "Details": "Album: 8TH MINI ALBUM [CONNECT]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     },
     {
