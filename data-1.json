@@ -80,9 +80,33 @@
         "ViewCount": "36K views"
     },
     {
+        "Name": "January 10, 2024",
+        "Artist": "RYU SUJEONG",
+        "Details": "Album: 2nd Mini Album <2ROX>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 10, 2024",
+        "Artist": "ALL(H)OURS",
+        "Details": "Album: FIRST MINI ALBUM <ALL OURS>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "January 15, 2024",
         "Artist": "NMIXX",
         "Details": "Album: 2nd EP ‘Fe3O4: BREAK’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 16, 2024",
+        "Artist": "HUI ",
+        "Details": "(PENTAGON)\nAlbum: 1st Mini Album [WHU IS ME : Complex]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
