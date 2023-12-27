@@ -3,9 +3,17 @@
         "Name": "January 2, 2024",
         "Artist": "ITZY",
         "Details": "Title Track: “UNTOUCHABLE”\nAlbum: 2nd Album ITZY <BORN TO BE>",
-        "ImageUrl": "https://img.youtube.com/vi/z75GlxXEfZk/default.jpg",
-        "SongLink": "https://youtu.be/z75GlxXEfZk?si=TX9pkTRXH5qEghyU",
-        "ViewCount": "1M views"
+        "ImageUrl": "https://img.youtube.com/vi/1843Q679cvg/default.jpg",
+        "SongLink": "https://youtu.be/1843Q679cvg?si=CCkFRiWe9oDGSLo3",
+        "ViewCount": "684K views"
+    },
+    {
+        "Name": "January 2, 2024",
+        "Artist": "TWS",
+        "Details": "January 22: 1st Mini Album ‘Sparkling Blue’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
     },
     {
         "Name": "January 3, 2024",
@@ -32,12 +40,28 @@
         "ViewCount": ""
     },
     {
+        "Name": "January 5, 2024",
+        "Artist": "Geenius",
+        "Details": "Debut Single Album ‘Voyage’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 6, 2024",
+        "Artist": "MINHO ",
+        "Details": "(SHINee)\nSingle ‘Stay for a night’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "January 8, 2024",
         "Artist": "ITZY",
         "Details": "Title Track: “UNTOUCHABLE”\nAlbum: 2nd Album ITZY <BORN TO BE>",
-        "ImageUrl": "https://img.youtube.com/vi/z75GlxXEfZk/default.jpg",
-        "SongLink": "https://youtu.be/z75GlxXEfZk?si=TX9pkTRXH5qEghyU",
-        "ViewCount": "1M views"
+        "ImageUrl": "https://img.youtube.com/vi/1843Q679cvg/default.jpg",
+        "SongLink": "https://youtu.be/1843Q679cvg?si=CCkFRiWe9oDGSLo3",
+        "ViewCount": "684K views"
     },
     {
         "Name": "January 8, 2024",
@@ -96,6 +120,22 @@
         "ViewCount": ""
     },
     {
+        "Name": "January 11, 2024",
+        "Artist": "TRENDZ ",
+        "Details": "Special Single ‘위로위로(Go Up)’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 11, 2024",
+        "Artist": "LIMELIGHT ",
+        "Details": "Album: 3rd EP “LAST DANCE”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "January 15, 2024",
         "Artist": "NMIXX",
         "Details": "Album: 2nd EP ‘Fe3O4: BREAK’",
@@ -106,7 +146,7 @@
     {
         "Name": "January 15, 2024",
         "Artist": "YENA",
-        "Details": "(최예나)",
+        "Details": "(최예나)\nAlbum: 3RD MINI ALBUM <GOOD MORNING>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -125,6 +165,14 @@
         "Details": " (JP)\nAlbum: 1st Japan Mini Album",
         "ImageUrl": "white.png",
         "SongLink": "https://superjunior-jp.net/en/news/detail.php?id=1112830",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 22, 2024",
+        "Artist": "TWS",
+        "Details": "January 22: 1st Mini Album ‘Sparkling Blue’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     },
     {
