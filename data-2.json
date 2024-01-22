@@ -64,6 +64,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "February 15, 2024",
+        "Artist": "AIMERS ",
+        "Details": "Title Track: “Somebody”\nAlbum: 2nd Single “Somebody”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "February 19, 2024",
         "Artist": "LE SSERAFIM ",
         "Details": "Album: 3rd Mini Album ‘EASY’",
@@ -82,7 +90,15 @@
     {
         "Name": "February 28, 2024",
         "Artist": "NCT WISH",
-        "Details": "Title Track: “WISH”\nNCT TEN\n1st Solo Album\nSoompi\niKON DK",
+        "Details": "Title Track: “WISH”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 28, 2024",
+        "Artist": "ATEEZ",
+        "Details": " (JP)\nAlbum: JAPAN 3RD SINGLE「NOT OKAY」\nNCT TEN\n1st Solo Album\nSoompi\niKON DK",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1635133wpp/ncts-ten-drops-dates-and-locations-for-first-solo-fan-con-1001",
         "ViewCount": ""
