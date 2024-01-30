@@ -121,10 +121,26 @@
     },
     {
         "Name": "February 20, 2024",
+        "Artist": "IU ",
+        "Details": "Album: 6th Mini Album [The Winning]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 20, 2024",
         "Artist": "Moon Byul",
         "Details": " (MAMAMOO)\nAlbum: 1st Full Album [Starlit of Muse]",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 21, 2024",
+        "Artist": "YUGYEOM",
+        "Details": " (GOT7)\nAlbum: FIRST ALBUM [TRUST ME]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@AOMGOFFICIAL/videos",
         "ViewCount": ""
     },
     {
