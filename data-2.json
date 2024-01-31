@@ -19,9 +19,9 @@
         "Name": "February 2, 2024",
         "Artist": "TWICE ",
         "Details": "Album: 13TH MINI ALBUM “With YOU-th”",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/BGfC-OkhH5Y/default.jpg",
+        "SongLink": "https://youtu.be/BGfC-OkhH5Y?si=cVEeFVKUqHVzwNqv",
+        "ViewCount": "584K views"
     },
     {
         "Name": "February 2, 2024",
@@ -179,6 +179,14 @@
         "Name": "February 23, 2024",
         "Artist": "TWICE ",
         "Details": "Album: 13TH MINI ALBUM “With YOU-th”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 26, 2024",
+        "Artist": "PLAVE ",
+        "Details": "Album: 2nd Mini Album ‘ASTERUM : 134-1’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
