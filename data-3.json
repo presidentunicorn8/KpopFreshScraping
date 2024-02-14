@@ -10,7 +10,7 @@
     {
         "Name": "March 7, 2024",
         "Artist": "ICHILLIN’",
-        "Details": "(아이칠린)\nAlbum: 3rd Mini Album “Feelin’ Hot”",
+        "Details": "(아이칠린)\nTitle Track: “ON MY LIPS”\nAlbum: 3rd Mini Album “Feelin’ Hot”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -35,6 +35,14 @@
         "Name": "March 11, 2024",
         "Artist": "NCHIVE",
         "Details": " (엔카이브)\nAlbum: 1st Single Album [DRIVE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 13, 2024",
+        "Artist": "LUN8 ",
+        "Details": "Album: 2nd Mini Album <BUFF>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
