@@ -18,7 +18,7 @@
     {
         "Name": "March 8, 2024",
         "Artist": "xikers",
-        "Details": "Album: 3rd MINI ALBUM ‘HOUSE OF TRICKY: Trial And Error’",
+        "Details": "Title Track: “We Don’t Stop”\nAlbum: 3rd MINI ALBUM ‘HOUSE OF TRICKY: Trial And Error’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -27,6 +27,14 @@
         "Name": "March 8, 2024",
         "Artist": "ZEROBASEONE",
         "Details": " (JP)\nAlbum: Japan 1st Single 『ゆらゆら -運命の花-』",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 11, 2024",
+        "Artist": "TEMPEST",
+        "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
