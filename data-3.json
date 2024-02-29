@@ -29,7 +29,15 @@
         "Details": "(폴킴)\nTitle Track: “Blooming just for you(꽃이 피는데 필요한 몇 가지)”",
         "ImageUrl": "https://img.youtube.com/vi/tOwTtL4IPK8/default.jpg",
         "SongLink": "https://youtu.be/tOwTtL4IPK8?si=ZYaJSRrChLeT2Zom",
-        "ViewCount": "40K views"
+        "ViewCount": "42K views"
+    },
+    {
+        "Name": "March 6, 2024",
+        "Artist": "Kassy",
+        "Details": " (케이시)\nAlbum: 6th Mini Album [Full Bloom]\nInstagram",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/real_kassy/",
+        "ViewCount": ""
     },
     {
         "Name": "March 7, 2024",
@@ -177,6 +185,14 @@
     },
     {
         "Name": "March 20, 2024",
+        "Artist": "YOUNG POSSE",
+        "Details": " (영파씨)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 20, 2024",
         "Artist": "ZEROBASEONE",
         "Details": " (JP)\nAlbum: Japan 1st Single 『ゆらゆら -運命の花-』",
         "ImageUrl": "white.png",
@@ -195,6 +211,14 @@
         "Name": "March 26, 2024",
         "Artist": "RESCENE",
         "Details": "(리센느)\nAlbum: The 1st Single Album [Re:Scene]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 27, 2024",
+        "Artist": "UNIS",
+        "Details": " (유니스)",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
