@@ -5,7 +5,7 @@
         "Details": "(최수호)\nTitle Track: “Love City(사랑시 고백구 행복동)”",
         "ImageUrl": "https://img.youtube.com/vi/BhM2cFL1DZg/default.jpg",
         "SongLink": "https://youtu.be/BhM2cFL1DZg?si=qIfqdd01NS-xwU-8",
-        "ViewCount": "7K views"
+        "ViewCount": "8K views"
     },
     {
         "Name": "March 4, 2024",
@@ -14,6 +14,14 @@
         "ImageUrl": "white.png",
         "SongLink": "https://www.instagram.com/kimheejae_official/",
         "ViewCount": ""
+    },
+    {
+        "Name": "March 4, 2024",
+        "Artist": "Roy Kim",
+        "Details": " (로이킴)\nTitle Track: “봄이 와도 (When Spring Comes)”",
+        "ImageUrl": "https://img.youtube.com/vi/198Xp9T_nAc/default.jpg",
+        "SongLink": "https://youtu.be/198Xp9T_nAc?si=Zejt5XbBWmd6Kh7v",
+        "ViewCount": "115K views"
     },
     {
         "Name": "March 5, 2024",
@@ -25,11 +33,19 @@
     },
     {
         "Name": "March 5, 2024",
+        "Artist": "Daniel Jikal ",
+        "Details": "(다니엘 지칼)\nAlbum: 1st Digital Single [Fresh] ",
+        "ImageUrl": "https://img.youtube.com/vi/7J3lr-yXNgk/default.jpg",
+        "SongLink": "https://youtu.be/7J3lr-yXNgk?si=sXQRIseQrbQdvZ55",
+        "ViewCount": "86K views"
+    },
+    {
+        "Name": "March 5, 2024",
         "Artist": "NuNew, Paul Kim",
         "Details": "(폴킴)\nTitle Track: “Blooming just for you(꽃이 피는데 필요한 몇 가지)”",
         "ImageUrl": "https://img.youtube.com/vi/tOwTtL4IPK8/default.jpg",
         "SongLink": "https://youtu.be/tOwTtL4IPK8?si=ZYaJSRrChLeT2Zom",
-        "ViewCount": "44K views"
+        "ViewCount": "45K views"
     },
     {
         "Name": "March 6, 2024",
@@ -54,6 +70,14 @@
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
+    },
+    {
+        "Name": "March 8, 2024",
+        "Artist": "Swings",
+        "Details": " (스윙스)\nAlbum: Regular Album [Upgrade V]",
+        "ImageUrl": "https://img.youtube.com/vi/NeSHahH7pJ8/default.jpg",
+        "SongLink": "https://youtu.be/NeSHahH7pJ8?si=lDLeBUesf3Llc68b",
+        "ViewCount": "32K views"
     },
     {
         "Name": "March 8, 2024",
@@ -90,7 +114,7 @@
     {
         "Name": "March 11, 2024",
         "Artist": "CHUNG HA",
-        "Details": " (청하)\nDigital Single [EENIE MEENIE]",
+        "Details": " (청하)\nTitle Track: “EENIE MEENIE”\nAlbum: Digital Single [EENIE MEENIE]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -219,6 +243,14 @@
         "Name": "March 27, 2024",
         "Artist": "UNIS",
         "Details": " (유니스)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 27, 2024",
+        "Artist": "Candy Shop",
+        "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
