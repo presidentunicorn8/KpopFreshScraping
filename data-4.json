@@ -24,6 +24,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "April 1, 2024",
+        "Artist": "QWER ",
+        "Details": "Album: The 1st Mini Album ‘MANITO’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "April 2, 2024",
         "Artist": "NOWADAYS",
         "Details": "Album: 1st Single [𝗡𝗢𝗪𝗔𝗗𝗔𝗬𝗦]",
@@ -33,10 +41,10 @@
     },
     {
         "Name": "April 2, 2024",
-        "Artist": "Bang Yedam",
-        "Details": "Ten Asia",
+        "Artist": "BANG YEDAM x WINTER ",
+        "Details": "of aespa",
         "ImageUrl": "white.png",
-        "SongLink": "https://entertain.naver.com/now/read?oid=312&aid=0000653037",
+        "SongLink": "no",
         "ViewCount": ""
     },
     {
@@ -99,6 +107,14 @@
         "Name": "April 11, 2024",
         "Artist": "ARTMS ",
         "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 15, 2024",
+        "Artist": "BOYNEXTDOOR ",
+        "Details": "Album: 2nd EP [HOW?]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
