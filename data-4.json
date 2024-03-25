@@ -25,6 +25,14 @@
     },
     {
         "Name": "April 1, 2024",
+        "Artist": "VVUP",
+        "Details": " (DEBUT)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 1, 2024",
         "Artist": "QWER ",
         "Details": "Album: The 1st Mini Album ‘MANITO’",
         "ImageUrl": "white.png",
@@ -75,6 +83,22 @@
         "Name": "April 3, 2024",
         "Artist": "Catch The Young",
         "Details": " (캐치더영)\nAlbum: 2nd Mini Album “Catch The Young: Fragments of Odyssey”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 4, 2024",
+        "Artist": "ILY:1 ",
+        "Details": "Album: 2nd Digital Single ‘IMMM’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 4, 2024",
+        "Artist": "E.SO",
+        "Details": "𝑁𝑒𝑤 𝑠𝑖𝑛𝑔𝑙𝑒 ‘𝐷𝐸𝑆𝑆𝐸𝑅𝑇 ‘",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -136,11 +160,19 @@
         "ViewCount": ""
     },
     {
+        "Name": "April 17, 2024",
+        "Artist": "UNICODE",
+        "Details": "(유니코드) \nAlbum: 1st Mini Album “Hello, World!” \nInstagram",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/p/C45CmXcrUDE/",
+        "ViewCount": ""
+    },
+    {
         "Name": "April 25, 2024",
         "Artist": "ARTMS ",
-        "Details": "RIIZE\nSoompi\nUNICODE\nInstagram",
+        "Details": "Samuel K\nInstagram\nRIIZE\nSoompi",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.instagram.com/unicode.xnet/",
+        "SongLink": "https://www.soompi.com/article/1646820wpp/riize-confirmed-to-make-spring-comeback",
         "ViewCount": ""
     }
 ]
