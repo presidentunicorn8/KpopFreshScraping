@@ -26,7 +26,7 @@
     {
         "Name": "April 1, 2024",
         "Artist": "VVUP",
-        "Details": " (DEBUT)",
+        "Details": " (DEBUT)\nAlbum: 1st Single Album ‘Locked On’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -163,6 +163,14 @@
         "Name": "April 15, 2024",
         "Artist": "Loossemble ",
         "Details": "Album: 2nd Mini Album [One of a Kind]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 17, 2024",
+        "Artist": "ONEWE ",
+        "Details": "Album: 3RD MINI ALBUM [Planet Nine : ISOTROPY]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
