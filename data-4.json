@@ -10,7 +10,7 @@
     {
         "Name": "April 1, 2024",
         "Artist": "TOMORROW X TOGETHER",
-        "Details": "Album: 6th Mini Album “minisode 3: TOMORROW” ",
+        "Details": "Title Track: “Deja vu”\nAlbum: 6th Mini Album “minisode 3: TOMORROW” ",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -120,9 +120,17 @@
         "ViewCount": ""
     },
     {
+        "Name": "April 8, 2024",
+        "Artist": "woo!ah!",
+        "Details": "Title Track: “BLUSH”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "April 9, 2024",
         "Artist": "NCHIVE",
-        "Details": " (엔카이브)\nAlbum: 1st Single Album [DRIVE]",
+        "Details": " (엔카이브)\nTitle Track: “RACER”\nAlbum: 1st Single Album [DRIVE]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
