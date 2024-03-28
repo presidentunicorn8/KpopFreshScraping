@@ -4,7 +4,7 @@
         "Artist": "BABYMONSTER ",
         "Details": "Title Track: “SHEESH”\nAlbum: 1st MINI ALBUM [BABYMONS7ER]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@BABYMONSTER/videos",
         "ViewCount": ""
     },
     {
@@ -53,6 +53,14 @@
         "Details": "of aespa",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 2, 2024",
+        "Artist": "SPIA",
+        "Details": " \nTitle Track: ‘Daddy’s Little Girl’\nAlbum: Digital Single [Daddy’s Little Girl]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@spia_official/videos",
         "ViewCount": ""
     },
     {
@@ -110,6 +118,14 @@
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
+    },
+    {
+        "Name": "April 7, 2024",
+        "Artist": "Woody",
+        "Details": "(우디)\nTitle Track: “When you alone(혹시 세상에 혼자 남겨진 것 같다면)”",
+        "ImageUrl": "https://img.youtube.com/vi/NGvtT4X5_9c/default.jpg",
+        "SongLink": "https://youtu.be/NGvtT4X5_9c?si=Ue3MhpGa8v5EhIjB",
+        "ViewCount": "781 views"
     },
     {
         "Name": "April 8, 2024",
