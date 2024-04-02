@@ -1,5 +1,21 @@
 [
     {
+        "Name": "May 1, 2024",
+        "Artist": "May 2, 2024",
+        "Details": "E’LAST\nAlbum: THE 1ST ALBUM – EVERLASTING",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 2, 2024",
+        "Artist": "E’LAST",
+        "Details": "Album: THE 1ST ALBUM – EVERLASTING",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "May 8, 2024",
         "Artist": "Kep1er",
         "Details": " (JP)\nTitle Track: “Straight Line”\nAlbum: Japan 1st Album <𝐊𝐞𝐩𝟏𝐠𝐨𝐢𝐧𝐠>",
@@ -13,6 +29,14 @@
         "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 20, 2024",
+        "Artist": "May 24, 2024",
+        "Details": "NewJeans\nMay 24: Double Single \nTitle Track: “How Sweet,” B-side “Bubble Gum,” \nTitle Track “Supernatural,” B-side “Right Now,” \nSoompi",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.soompi.com/article/1651337wpp/newjeans-announces-plans-for-comeback-and-japanese-debut",
         "ViewCount": ""
     },
     {
