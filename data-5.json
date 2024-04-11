@@ -1,8 +1,8 @@
 [
     {
         "Name": "May 1, 2024",
-        "Artist": "May 2, 2024",
-        "Details": "E’LAST\nAlbum: THE 1ST ALBUM – EVERLASTING",
+        "Artist": "YOUNITE",
+        "Details": "Album: 6TH EP ‘ANOTHER’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -11,6 +11,22 @@
         "Name": "May 2, 2024",
         "Artist": "E’LAST",
         "Details": "Album: THE 1ST ALBUM – EVERLASTING",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 2, 2024",
+        "Artist": "TOZ",
+        "Details": "(티오지) \nAlbum: Korea 1st Mini Album – TO my new friends",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 2, 2024",
+        "Artist": "KINO ",
+        "Details": "Album: 1st EP – If this is love, I want a refund",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -35,6 +51,14 @@
         "Name": "May 10, 2024",
         "Artist": "ARTMS ",
         "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 15, 2024",
+        "Artist": "IVE ",
+        "Details": "Album: The 2nd EP – 𝐈𝐕𝐄 𝐒𝐖𝐈𝐓𝐂𝐇",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
