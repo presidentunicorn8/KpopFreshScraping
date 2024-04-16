@@ -17,6 +17,14 @@
     },
     {
         "Name": "May 2, 2024",
+        "Artist": "HyunA ",
+        "Details": "Album: EP – Attitude",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 2, 2024",
         "Artist": "TOZ",
         "Details": "(티오지) \nAlbum: Korea 1st Mini Album – TO my new friends",
         "ImageUrl": "white.png",
@@ -26,7 +34,15 @@
     {
         "Name": "May 2, 2024",
         "Artist": "KINO ",
-        "Details": "Album: 1st EP – If this is love, I want a refund",
+        "Details": "Title Track: “Broke My Heart (Feat. Lay Bankz)”\nAlbum: 1st EP – If this is love, I want a refund",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 2, 2024",
+        "Artist": "FANTASY BOYS ",
+        "Details": "Album: 3rd MINI ALBUM – MAKE SUNSHINE ",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -34,7 +50,15 @@
     {
         "Name": "May 7, 2024",
         "Artist": "DOH KYUNG SOO",
-        "Details": " (DO)\nAlbum: 3rd Mini Album Blossom",
+        "Details": " (DO)\nTitle Track: “Mars”\nAlbum: 3rd Mini Album Blossom",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 8, 2024",
+        "Artist": "tripleS ",
+        "Details": "<ASSEMBLE24>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -56,6 +80,22 @@
         "ViewCount": ""
     },
     {
+        "Name": "May 13, 2024",
+        "Artist": "ZEROBASEONE ",
+        "Details": "May 13: The 3rd Mini Album [𝐘𝐨𝐮 𝐡𝐚𝐝 𝐦𝐞 𝐚𝐭 𝐇𝐄𝐋𝐋𝐎]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 14, 2024",
+        "Artist": "NEXTU",
+        "Details": " (넥스트유)\nMay 14: “Oopsy Daisy” Performance Video\nMay 17: “R.I.P (Rest In Peace)” MV\nInstagram",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/nextu_official",
+        "ViewCount": ""
+    },
+    {
         "Name": "May 15, 2024",
         "Artist": "IVE ",
         "Details": "Album: The 2nd EP – 𝐈𝐕𝐄 𝐒𝐖𝐈𝐓𝐂𝐇",
@@ -72,11 +112,19 @@
         "ViewCount": ""
     },
     {
-        "Name": "May 20, 2024",
-        "Artist": "May 24, 2024",
-        "Details": "NewJeans\nMay 24: Double Single \nTitle Track: “How Sweet,” B-side “Bubble Gum,” \nTitle Track “Supernatural,” B-side “Right Now,” \nSoompi",
+        "Name": "May 17, 2024",
+        "Artist": "NEXTU",
+        "Details": " (넥스트유)\nMay 14: “Oopsy Daisy” Performance Video\nMay 17: “R.I.P (Rest In Peace)” MV\nInstagram",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1651337wpp/newjeans-announces-plans-for-comeback-and-japanese-debut",
+        "SongLink": "https://www.instagram.com/nextu_official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 20, 2024",
+        "Artist": "NEXTU",
+        "Details": " (넥스트유)\nMay 14: “Oopsy Daisy” Performance Video\nMay 17: “R.I.P (Rest In Peace)” MV\nInstagram",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/nextu_official",
         "ViewCount": ""
     },
     {
@@ -90,7 +138,7 @@
     {
         "Name": "May 31, 2024",
         "Artist": "ARTMS ",
-        "Details": "Kep1er\nZEROBASEONE\nUP10TION Lee Jinhyuk",
+        "Details": "Kep1er\nUP10TION Lee Jinhyuk",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
