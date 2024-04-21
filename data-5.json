@@ -42,7 +42,15 @@
     {
         "Name": "May 2, 2024",
         "Artist": "FANTASY BOYS ",
-        "Details": "Album: 3rd MINI ALBUM – MAKE SUNSHINE ",
+        "Details": "Title Track: “분명 그녀가 나를 보고 웃잖아”\nAlbum: 3rd MINI ALBUM – MAKE SUNSHINE ",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 4, 2024",
+        "Artist": "EASTSHINE",
+        "Details": " (이스트샤인)\nDigital Single – HEARTTHROB",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -153,8 +161,16 @@
     },
     {
         "Name": "May 31, 2024",
+        "Artist": "ATEEZ",
+        "Details": " (에이티즈)\nAlbum: 10th Mini Album – Golden Hour: Part. 1",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 31, 2024",
         "Artist": "ARTMS ",
-        "Details": "Kep1er\nUP10TION Lee Jinhyuk",
+        "Details": "KARD B.M\nKep1er\nUP10TION Lee Jinhyuk",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
