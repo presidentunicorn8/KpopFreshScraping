@@ -81,6 +81,14 @@
     },
     {
         "Name": "May 8, 2024",
+        "Artist": "KIM JAE HWAN",
+        "Details": " (김재환)\nAlbum: 7th Mini Album ‘I Adore’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 8, 2024",
         "Artist": "Kep1er",
         "Details": " (JP)\nTitle Track: “Straight Line”\nAlbum: Japan 1st Album <𝐊𝐞𝐩𝟏𝐠𝐨𝐢𝐧𝐠>",
         "ImageUrl": "white.png",
@@ -162,7 +170,7 @@
     {
         "Name": "May 27, 2024",
         "Artist": "aespa ",
-        "Details": "(에스파) \nAlbum: The 1st Album – Armageddon",
+        "Details": "(에스파) \nTitle Track: “Supernova”; “Armageddon”\nAlbum: The 1st Album – Armageddon",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
