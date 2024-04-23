@@ -48,9 +48,25 @@
         "ViewCount": ""
     },
     {
+        "Name": "May 3, 2024",
+        "Artist": "HYUNJUN",
+        "Details": "Album: Single Album ‘Backseat’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "May 4, 2024",
         "Artist": "EASTSHINE",
         "Details": " (이스트샤인)\nDigital Single – HEARTTHROB",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 6, 2024",
+        "Artist": "DAYCHILD ",
+        "Details": "Album: 1st SINGLE ALBUM – illumination",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -89,8 +105,24 @@
     },
     {
         "Name": "May 8, 2024",
+        "Artist": "BAEKHO & BIGONE ",
+        "Details": "Album: Single ‘LOVE OR DIE’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 8, 2024",
         "Artist": "Kep1er",
         "Details": " (JP)\nTitle Track: “Straight Line”\nAlbum: Japan 1st Album <𝐊𝐞𝐩𝟏𝐠𝐨𝐢𝐧𝐠>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 9, 2024",
+        "Artist": "CMDM",
+        "Details": " 커맨더맨 (JP)\nAlbum: Japan 1st Single Album [BACK TO THE FUTURE]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
