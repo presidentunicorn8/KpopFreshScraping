@@ -53,12 +53,20 @@
         "Details": " (백아)\nTitle Track: “시차 (Letter)”\nAlbum: EP – ‘Letter’",
         "ImageUrl": "https://img.youtube.com/vi/nYpXJnLkIXM/default.jpg",
         "SongLink": "https://youtu.be/nYpXJnLkIXM?si=uQXSrJeQ0-PJ0dh3",
-        "ViewCount": "2K views"
+        "ViewCount": "3K views"
     },
     {
         "Name": "May 3, 2024",
         "Artist": "HYUNJUN",
         "Details": "Album: Single Album ‘Backseat’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 3, 2024",
+        "Artist": "VROMANCE",
+        "Details": "오늘 걷기엔 딱 좋겠다 (a good day to walk)",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -277,7 +285,7 @@
         "Details": "May 24: Double Single \nTitle Track: “How Sweet,” B-side “Bubble Gum,” \nTitle Track “Supernatural,” B-side “Right Now,” ",
         "ImageUrl": "https://img.youtube.com/vi/ft70sAYrFyY/default.jpg",
         "SongLink": "https://youtu.be/ft70sAYrFyY?si=uJNNHuOmjy2eTqfm",
-        "ViewCount": "15M views"
+        "ViewCount": "16M views"
     },
     {
         "Name": "May 24, 2024",
