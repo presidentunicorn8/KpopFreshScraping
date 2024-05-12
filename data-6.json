@@ -1,8 +1,24 @@
 [
     {
         "Name": "June 1, 2024",
-        "Artist": "June 5, 2024",
-        "Details": "Han Seungwoo\n (VICTON)\nHerald Pop\nhttp://www.heraldpop.com/view.php?ud=202405090901298178831_1",
+        "Artist": "June 3, 2024",
+        "Details": "WayV \nAlbum: The 5th Mini Album ‘Give Me That’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 3, 2024",
+        "Artist": "WayV ",
+        "Details": "Album: The 5th Mini Album ‘Give Me That’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 3, 2024",
+        "Artist": "Kep1er ",
+        "Details": "Album: 1st Album <𝐊𝐞𝐩𝟏𝐠𝐨𝐢𝐧𝐠 𝐎𝐧>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -19,6 +35,22 @@
         "Name": "June 5, 2024",
         "Artist": "NCT DREAM",
         "Details": " (JP)\nAlbum: JAPAN 2ND SINGLE – Moonlight",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 7, 2024",
+        "Artist": "ONE PACT",
+        "Details": "(원팩트) \nAlbum: 1ST SINGLE ALBUM [PARADOXX]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 14, 2024",
+        "Artist": "NAYEON",
+        "Details": " (TWICE)\nAlbum: THE 2nd MINI ALBUM – NA",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -50,7 +82,7 @@
     {
         "Name": "June 26, 2024",
         "Artist": "NCT WISH",
-        "Details": " (JP)\nAlbum: Japan 2nd Single – Songbird\nWayV\nTen Asia\nKim Jaejoong\nJTBC\nTRENDZ (트렌드지)\nRIIZE\nApril 3:\n “SIREN” Performance Single\nApril 18: \n“IMPOSSIBLE” Prologue Single & MV\nApril 29:\n 9 DAYS / HONESTLY / ONE KISS MV\n9 Days\n / \nOne Kiss\n / \nJune:",
+        "Details": " (JP)\nAlbum: Japan 2nd Single – Songbird\nSUNMI \n‘Balloon in Love’\nKwon Eun Bi\nSoompi\nKim Jaejoong\nJTBC\nTRENDZ (트렌드지)\nRIIZE\nApril 3:\n “SIREN” Performance Single\nApril 18: \n“IMPOSSIBLE” Prologue Single & MV\nApril 29:\n 9 DAYS / HONESTLY / ONE KISS MV\n9 Days\n / \nOne Kiss\n / \nJune:",
         "ImageUrl": "https://img.youtube.com/vi/46dquyaoe_c/default.jpg",
         "SongLink": "https://riizeofficial.com/",
         "ViewCount": "2M views"
