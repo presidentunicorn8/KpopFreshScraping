@@ -24,9 +24,17 @@
         "ViewCount": ""
     },
     {
+        "Name": "June 3, 2024",
+        "Artist": "BADVILLAIN",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "June 5, 2024",
         "Artist": "Han Seungwoo",
-        "Details": " (VICTON)\nHerald Pop\nhttp://www.heraldpop.com/view.php?ud=202405090901298178831_1",
+        "Details": " (VICTON)\nAlbum: 1st Single Album [SCENE]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -50,7 +58,15 @@
     {
         "Name": "June 9, 2024",
         "Artist": "INFINITE",
-        "Details": "(인피니트)",
+        "Details": "(인피니트)\nTitle Track: “Flower”\nAlbum: Digital Single [Flower]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 10, 2024",
+        "Artist": "EVERGLOW",
+        "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -59,6 +75,14 @@
         "Name": "June 14, 2024",
         "Artist": "NAYEON",
         "Details": " (TWICE)\nAlbum: THE 2nd MINI ALBUM – NA",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 17, 2024",
+        "Artist": "JEONGHAN X WONWOO",
+        "Details": " (SEVENTEEN)\nAlbum: 1ST SINGLE ALBUM \n‘THIS MAN’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -90,7 +114,7 @@
     {
         "Name": "June 21, 2024",
         "Artist": "NewJeans",
-        "Details": "May 24: Double Single \nTitle Track: “How Sweet,” B-side “Bubble Gum,” \nTitle Track “Supernatural,” B-side “Right Now,” \nSoompi",
+        "Details": " (JP)\nMay 24: Double Single \nTitle Track: “How Sweet,” B-side “Bubble Gum,” \nTitle Track “Supernatural,” B-side “Right Now,” \nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1651337wpp/newjeans-announces-plans-for-comeback-and-japanese-debut",
         "ViewCount": ""
