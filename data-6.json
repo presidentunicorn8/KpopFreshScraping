@@ -2,7 +2,15 @@
     {
         "Name": "June 1, 2024",
         "Artist": "June 3, 2024",
-        "Details": "WayV \nAlbum: The 5th Mini Album ‘Give Me That’",
+        "Details": "AKMU",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 3, 2024",
+        "Artist": "AKMU",
+        "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -27,6 +35,14 @@
         "Name": "June 3, 2024",
         "Artist": "BADVILLAIN",
         "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 3, 2024",
+        "Artist": "I:mond",
+        "Details": " (아이몬드)\nAlbum: 1ST SINGLE [WE ARE GRAVITY]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -66,7 +82,7 @@
     {
         "Name": "June 10, 2024",
         "Artist": "EVERGLOW",
-        "Details": "",
+        "Details": "Album: 5TH SINGLE ALBUM [ZOMBIE]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
