@@ -2,7 +2,7 @@
     {
         "Name": "June 1, 2024",
         "Artist": "June 3, 2024",
-        "Details": "AKMU",
+        "Details": "AKMU\nAlbum: 3rd MINI ALBUM [LOVE EPISODE]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -10,7 +10,7 @@
     {
         "Name": "June 3, 2024",
         "Artist": "AKMU",
-        "Details": "",
+        "Details": "Album: 3rd MINI ALBUM [LOVE EPISODE]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -64,6 +64,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "June 6, 2024",
+        "Artist": "GHOST9 ",
+        "Details": "Album: 1st DIGITAL SINGLE ALBUM [째깍째깍(Awesome day)]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "June 7, 2024",
         "Artist": "ONE PACT",
         "Details": "(원팩트) \nAlbum: 1ST SINGLE ALBUM [PARADOXX]",
@@ -83,6 +91,22 @@
         "Name": "June 10, 2024",
         "Artist": "EVERGLOW",
         "Details": "Album: 5TH SINGLE ALBUM [ZOMBIE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 12, 2024",
+        "Artist": "TRENDZ",
+        "Details": " (트렌드지)\nAlbum: 4th Single Album [𝐃𝐑𝐄𝐀𝐌𝐋𝐈𝐊𝐄]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 13, 2024",
+        "Artist": "SUNMI ",
+        "Details": "‘Balloon in Love’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -128,6 +152,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "June 19, 2024",
+        "Artist": "LUN8",
+        "Details": " (JP)\nAlbum: JAPAN 1st Single – Evergreen",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "June 21, 2024",
         "Artist": "NewJeans",
         "Details": " (JP)\nMay 24: Double Single \nTitle Track: “How Sweet,” B-side “Bubble Gum,” \nTitle Track “Supernatural,” B-side “Right Now,” \nSoompi",
@@ -136,9 +168,17 @@
         "ViewCount": ""
     },
     {
+        "Name": "June 24, 2024",
+        "Artist": "TWS",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "June 26, 2024",
         "Artist": "NCT WISH",
-        "Details": " (JP)\nAlbum: Japan 2nd Single – Songbird\nSUNMI \n‘Balloon in Love’\nKwon Eun Bi\nSoompi\nKim Jaejoong\nJTBC\nTRENDZ (트렌드지)\nRIIZE\nApril 3:\n “SIREN” Performance Single\nApril 18: \n“IMPOSSIBLE” Prologue Single & MV\nApril 29:\n 9 DAYS / HONESTLY / ONE KISS MV\n9 Days\n / \nOne Kiss\n / \nJune:",
+        "Details": " (JP)\nAlbum: Japan 2nd Single – Songbird\nKwon Eun Bi\nSoompi\nKim Jaejoong\nJTBC\nRIIZE\nApril 3:\n “SIREN” Performance Single\nApril 18: \n“IMPOSSIBLE” Prologue Single & MV\nApril 29:\n 9 DAYS / HONESTLY / ONE KISS MV\n9 Days\n / \nOne Kiss\n / \nJune:",
         "ImageUrl": "https://img.youtube.com/vi/46dquyaoe_c/default.jpg",
         "SongLink": "https://riizeofficial.com/",
         "ViewCount": "3M views"
