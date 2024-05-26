@@ -17,6 +17,14 @@
     },
     {
         "Name": "June 3, 2024",
+        "Artist": "Xdinary Heroes ",
+        "Details": "Album: Digital Single <Open ♭eta v6.1>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 3, 2024",
         "Artist": "WayV ",
         "Details": "Album: The 5th Mini Album ‘Give Me That’",
         "ImageUrl": "white.png",
@@ -96,6 +104,22 @@
         "ViewCount": ""
     },
     {
+        "Name": "June 10, 2024",
+        "Artist": "cignature",
+        "Details": "(시그니처) \nAlbum: 5th EP Album ‘Sweetie but Saltie’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 11, 2024",
+        "Artist": "CSR",
+        "Details": " (첫사랑)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "June 12, 2024",
         "Artist": "TRENDZ",
         "Details": " (트렌드지)\nAlbum: 4th Single Album [𝐃𝐑𝐄𝐀𝐌𝐋𝐈𝐊𝐄]",
@@ -170,7 +194,7 @@
     {
         "Name": "June 24, 2024",
         "Artist": "TWS",
-        "Details": "",
+        "Details": "Album: 2nd Mini Album ‘SUMMER BEAT!’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
