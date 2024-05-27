@@ -1,16 +1,24 @@
 [
     {
         "Name": "June 1, 2024",
-        "Artist": "June 3, 2024",
-        "Details": "AKMU\nAlbum: 3rd MINI ALBUM [LOVE EPISODE]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Artist": "June 2, 2024",
+        "Details": "Nahee\n (나히)\nTitle Track: “Ending (Prod. LAZY)”",
+        "ImageUrl": "https://img.youtube.com/vi/4zN3-3BeWaM/default.jpg",
+        "SongLink": "https://youtu.be/4zN3-3BeWaM?si=mlbzAXQhiQBwgpQc",
+        "ViewCount": "968 views"
+    },
+    {
+        "Name": "June 2, 2024",
+        "Artist": "Nahee",
+        "Details": " (나히)\nTitle Track: “Ending (Prod. LAZY)”",
+        "ImageUrl": "https://img.youtube.com/vi/4zN3-3BeWaM/default.jpg",
+        "SongLink": "https://youtu.be/4zN3-3BeWaM?si=mlbzAXQhiQBwgpQc",
+        "ViewCount": "968 views"
     },
     {
         "Name": "June 3, 2024",
         "Artist": "AKMU",
-        "Details": "Album: 3rd MINI ALBUM [LOVE EPISODE]",
+        "Details": "Title Track: ‘Hero’\nAlbum: 3rd MINI ALBUM [LOVE EPISODE]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -169,8 +177,16 @@
     },
     {
         "Name": "June 19, 2024",
+        "Artist": "H1-KEY",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 19, 2024",
         "Artist": "FANTASY BOYS",
-        "Details": "Album: JAPAN DEBUT MINI ALBUM – MAKE A FANTASY",
+        "Details": " (JP)\nAlbum: JAPAN DEBUT MINI ALBUM – MAKE A FANTASY",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
