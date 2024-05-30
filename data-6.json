@@ -122,7 +122,7 @@
     {
         "Name": "June 11, 2024",
         "Artist": "CSR",
-        "Details": " (첫사랑)",
+        "Details": " (첫사랑)\nAlbum: 2ND SINGLE ALBUM",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -200,6 +200,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "June 20, 2024",
+        "Artist": "Epik High",
+        "Details": "Mixtape “Pump”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "June 21, 2024",
         "Artist": "NewJeans",
         "Details": " (JP)\nMay 24: Double Single \nTitle Track: “How Sweet,” B-side “Bubble Gum,” \nTitle Track “Supernatural,” B-side “Right Now,” \nSoompi",
@@ -211,6 +219,14 @@
         "Name": "June 24, 2024",
         "Artist": "TWS",
         "Details": "Album: 2nd Mini Album ‘SUMMER BEAT!’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 25, 2024",
+        "Artist": "CHUU ",
+        "Details": "Album: 2ND MINI ALBUM [Strawberry Rush]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
