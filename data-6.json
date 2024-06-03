@@ -45,7 +45,7 @@
         "Details": "Title Track: ‘Give Me That’\nAlbum: The 5th Mini Album ‘Give Me That’",
         "ImageUrl": "https://img.youtube.com/vi/ylWjVgiy_Nw/default.jpg",
         "SongLink": "https://youtu.be/ylWjVgiy_Nw?si=eyTNoE6tWvVjsuFx",
-        "ViewCount": "76K views"
+        "ViewCount": "79K views"
     },
     {
         "Name": "June 3, 2024",
@@ -161,6 +161,14 @@
     },
     {
         "Name": "June 17, 2024",
+        "Artist": "RIIZE",
+        "Details": "Title Track: “BOOM BOOM BASS”\nAlbum: The 1st Mini Album – RIIZING",
+        "ImageUrl": "white.png",
+        "SongLink": "https://riizeofficial.com/",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 17, 2024",
         "Artist": "EVNNE ",
         "Details": "Album: 3rd Mini Album [RIDE or DIE]",
         "ImageUrl": "white.png",
@@ -242,9 +250,9 @@
     {
         "Name": "June 26, 2024",
         "Artist": "NCT WISH",
-        "Details": " (JP)\nAlbum: Japan 2nd Single – Songbird\nKwon Eun Bi\nSoompi\nKim Jaejoong\nJTBC\nRIIZE\nApril 3:\n “SIREN” Performance Single\nApril 18: \n“IMPOSSIBLE” Prologue Single & MV\nApril 29:\n 9 DAYS / HONESTLY / ONE KISS MV\n9 Days\n / \nOne Kiss\n / \nJune:",
-        "ImageUrl": "https://img.youtube.com/vi/46dquyaoe_c/default.jpg",
-        "SongLink": "https://riizeofficial.com/",
-        "ViewCount": "3M views"
+        "Details": " (JP)\nAlbum: Japan 2nd Single – Songbird\nKwon Eun Bi\nSoompi\nKim Jaejoong\nJTBC",
+        "ImageUrl": "white.png",
+        "SongLink": "https://v.daum.net/v/20240508113241969",
+        "ViewCount": ""
     }
 ]
