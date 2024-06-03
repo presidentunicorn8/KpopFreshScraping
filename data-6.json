@@ -13,7 +13,7 @@
         "Details": "Title Track: “Even Better (오히려좋아)”\nAlbum: Single – even better, DON’T YOU?",
         "ImageUrl": "https://img.youtube.com/vi/xwQZFWrbHSc/default.jpg",
         "SongLink": "https://youtu.be/xwQZFWrbHSc?si=bo-CjpUaC5tTFPuP",
-        "ViewCount": "29K views"
+        "ViewCount": "32K views"
     },
     {
         "Name": "June 2, 2024",
@@ -21,7 +21,7 @@
         "Details": "(박혜원) \nTitle Track: ‘가장 찬란한 빛으로 쏟아지는 Glowing Light’ \nAlbum: Single – Glowing Light",
         "ImageUrl": "https://img.youtube.com/vi/raJaMG7x6WI/default.jpg",
         "SongLink": "https://youtu.be/raJaMG7x6WI?si=NjBwniFggArwBjA1",
-        "ViewCount": "11K views"
+        "ViewCount": "12K views"
     },
     {
         "Name": "June 2, 2024",
@@ -37,7 +37,7 @@
         "Details": " (비비) \nTitle Track: ‘Mom’s diary’ \nOST: Come travel with me, Mom?",
         "ImageUrl": "https://img.youtube.com/vi/OjjxAJikh9U/default.jpg",
         "SongLink": "https://youtu.be/OjjxAJikh9U?si=Rgd2kS5hKRaTz66s",
-        "ViewCount": "5K views"
+        "ViewCount": "6K views"
     },
     {
         "Name": "June 2, 2024",
@@ -69,7 +69,7 @@
         "Details": "Title Track: “Boy Comics(소년만화)”\nAlbum: Digital Single <Open ♭eta v6.1>",
         "ImageUrl": "https://img.youtube.com/vi/WQ1b0bfqVHk/default.jpg",
         "SongLink": "https://youtu.be/WQ1b0bfqVHk?si=lSUnffPDh1gh5IND",
-        "ViewCount": "67K views"
+        "ViewCount": "68K views"
     },
     {
         "Name": "June 3, 2024",
@@ -77,7 +77,7 @@
         "Details": "Title Track: ‘Give Me That’\nAlbum: The 5th Mini Album ‘Give Me That’",
         "ImageUrl": "https://img.youtube.com/vi/ylWjVgiy_Nw/default.jpg",
         "SongLink": "https://youtu.be/ylWjVgiy_Nw?si=eyTNoE6tWvVjsuFx",
-        "ViewCount": "81K views"
+        "ViewCount": "84K views"
     },
     {
         "Name": "June 3, 2024",
@@ -85,14 +85,6 @@
         "Details": "Title Track: ‘BADVILLAIN’\nAlbum: The 1st Single Album  ‘OVERSTEP’ ",
         "ImageUrl": "white.png",
         "SongLink": "https://www.youtube.com/@BPMEntertainment-official/videos",
-        "ViewCount": ""
-    },
-    {
-        "Name": "June 3, 2024",
-        "Artist": "I:mond",
-        "Details": " (아이몬드)\nTitle Track: ‘Slippery’\nAlbum: 1ST SINGLE [WE ARE GRAVITY]",
-        "ImageUrl": "white.png",
-        "SongLink": "https://www.youtube.com/@I.mond_Official/videos",
         "ViewCount": ""
     },
     {
@@ -104,12 +96,36 @@
         "ViewCount": "27K views"
     },
     {
+        "Name": "June 4, 2024",
+        "Artist": "I:mond",
+        "Details": " (아이몬드)\nTitle Track: ‘Slippery’\nAlbum: 1ST SINGLE [WE ARE GRAVITY]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@I.mond_Official/videos",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 4, 2024",
+        "Artist": "Coogie",
+        "Details": " (쿠기)\nAlbum: DS [BEFORE UPSET]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "June 5, 2024",
         "Artist": "Han Seung Woo",
         "Details": " (VICTON)\nTitle Track: “Blooming”\nAlbum: 1st Single Album [SCENE]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
+    },
+    {
+        "Name": "June 5, 2024",
+        "Artist": "SPIA ",
+        "Details": "Title Track: ‘Deeeep’\nAlbum: Digital Single [Deeeep]",
+        "ImageUrl": "https://img.youtube.com/vi/S1CMnRlGi6w/default.jpg",
+        "SongLink": "https://youtu.be/S1CMnRlGi6w?si=tCXF-fpgcNsPPtLp",
+        "ViewCount": "1K views"
     },
     {
         "Name": "June 5, 2024",
@@ -186,7 +202,7 @@
     {
         "Name": "June 11, 2024",
         "Artist": "CSR",
-        "Details": " (첫사랑)\nAlbum: 2ND SINGLE ALBUM",
+        "Details": " (첫사랑)\nAlbum: 2ND SINGLE ALBUM L’heure Bleue",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -227,6 +243,14 @@
         "Name": "June 14, 2024",
         "Artist": "NAYEON",
         "Details": " (TWICE)\nAlbum: THE 2nd MINI ALBUM – NA",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 14, 2024",
+        "Artist": "Lay Zhang",
+        "Details": "Album: 1st Full-length English Album 𝑺𝑻𝑬𝑷",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
