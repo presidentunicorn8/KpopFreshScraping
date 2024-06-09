@@ -8,6 +8,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 1, 2024",
+        "Artist": "NCT WISH",
+        "Details": " (JP)\nAlbum: Japan 2nd Single – Songbird",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 3, 2024",
         "Artist": "aespa",
         "Details": " (JP)\nAlbum: Japan Debut Single – Hot Mess",
@@ -32,6 +40,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 8, 2024",
+        "Artist": "(G)I-DLE",
+        "Details": "Album: 7th Mini Album [I SWAY]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 10, 2024",
         "Artist": "BOYNEXTDOOR",
         "Details": " (JP)\nAlbum: Japan 1st Single “AND”",
@@ -42,9 +58,9 @@
     {
         "Name": "July 17, 2024",
         "Artist": "TWICE",
-        "Details": " (JP)\nAlbum: JAPAN 5th ALBUM『DIVE』",
+        "Details": " (JP)\nAlbum: JAPAN 5th ALBUM『DIVE』\nFTISLAND\nSoompi",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.soompi.com/article/1666631wpp/ftisland-confirmed-to-make-july-comeback",
         "ViewCount": ""
     }
 ]
