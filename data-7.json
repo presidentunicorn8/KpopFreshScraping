@@ -41,6 +41,22 @@
     },
     {
         "Name": "July 3, 2024",
+        "Artist": "LEE CHAE YEON ",
+        "Details": "Album: THE 3RD MINI ALBUM [SHOWDOWN]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 3, 2024",
+        "Artist": "VVUP",
+        "Details": "‘Ain’t Nobody’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 3, 2024",
         "Artist": "aespa",
         "Details": " (JP)\nAlbum: Japan Debut Single – Hot Mess",
         "ImageUrl": "white.png",
@@ -104,6 +120,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 12, 2024",
+        "Artist": "ENHYPEN ",
+        "Details": "Album: 2nd Studio Album ‘ROMANCE : UNTOLD’ ",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 17, 2024",
         "Artist": "TWICE",
         "Details": " (JP)\nAlbum: JAPAN 5th ALBUM『DIVE』",
@@ -112,9 +136,17 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 19, 2024",
+        "Artist": "JIMIN",
+        "Details": " (BTS)\nAlbum: Second Solo Album “MUSE”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 23, 2024",
         "Artist": "UNICODE",
-        "Details": " (JP)\nAlbum: Japanese Debut Single “HELLO WORLD”\nFTISLAND\nSoompi\nHa Sungwoon\nNCT 127\nSoompi",
+        "Details": " (JP)\nAlbum: Japanese Debut Single “HELLO WORLD”\nDreamcatcher\nFTISLAND\nSoompi\nHa Sungwoon\nNCT 127\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1667838wpp/nct-127-confirmed-to-be-gearing-up-for-july-comeback",
         "ViewCount": ""
