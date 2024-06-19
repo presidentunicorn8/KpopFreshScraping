@@ -137,6 +137,14 @@
     },
     {
         "Name": "July 19, 2024",
+        "Artist": "Stray Kids",
+        "Details": "Title Track: “ATE”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 19, 2024",
         "Artist": "JIMIN",
         "Details": " (BTS)\nAlbum: Second Solo Album “MUSE”",
         "ImageUrl": "white.png",
@@ -146,7 +154,7 @@
     {
         "Name": "July 23, 2024",
         "Artist": "UNICODE",
-        "Details": " (JP)\nAlbum: Japanese Debut Single “HELLO WORLD”\nDreamcatcher\nFTISLAND\nSoompi\nHa Sungwoon\nNCT 127\nSoompi",
+        "Details": " (JP)\nAlbum: Japanese Debut Single “HELLO WORLD”\nKARA\nSoompi\nDreamcatcher\nFTISLAND\nSoompi\nHa Sungwoon\nNCT 127\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1667838wpp/nct-127-confirmed-to-be-gearing-up-for-july-comeback",
         "ViewCount": ""
