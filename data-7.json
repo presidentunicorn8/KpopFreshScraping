@@ -2,7 +2,7 @@
     {
         "Name": "July 1, 2024",
         "Artist": "BABYMONSTER",
-        "Details": "",
+        "Details": "Digital Single [FOREVER]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -10,7 +10,15 @@
     {
         "Name": "July 1, 2024",
         "Artist": "STAYC",
-        "Details": "Album: The 1st Album [𝐌𝐞𝐭𝐚𝐦𝐨𝐫𝐩𝐡𝐢𝐜]",
+        "Details": "Title Track: ‘Cheeky Icy Thang’\nAlbum: The 1st Album [𝐌𝐞𝐭𝐚𝐦𝐨𝐫𝐩𝐡𝐢𝐜]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@STAYC/videos",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 1, 2024",
+        "Artist": "KISS OF LIFE",
+        "Details": "Digital Single [Sticky]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -96,6 +104,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 8, 2024",
+        "Artist": "TAEYEON",
+        "Details": "Single ‘Heaven’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 9, 2024",
         "Artist": "Weeekly",
         "Details": "Album: 6th Mini Album [Bliss]",
@@ -104,11 +120,11 @@
         "ViewCount": ""
     },
     {
-        "Name": "July 10, 2024",
-        "Artist": "BOYNEXTDOOR",
-        "Details": " (JP)\nAlbum: Japan 1st Single “AND”",
+        "Name": "July 9, 2024",
+        "Artist": "YOUNGJAE",
+        "Details": " (GOT7)\n“T.P.O”\nInstagram",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.instagram.com/333cyj333/?hl=en",
         "ViewCount": ""
     },
     {
@@ -120,9 +136,49 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 10, 2024",
+        "Artist": "BOYNEXTDOOR",
+        "Details": " (JP)\nAlbum: Japan 1st Single “AND”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 11, 2024",
+        "Artist": "July 12, 2024",
+        "Details": "ENHYPEN \nAlbum: 2nd Studio Album ‘ROMANCE : UNTOLD’ ",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 12, 2024",
         "Artist": "ENHYPEN ",
         "Details": "Album: 2nd Studio Album ‘ROMANCE : UNTOLD’ ",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 15, 2024",
+        "Artist": "NCT 127",
+        "Details": "Album: The 6th Album – WALK",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 16, 2024",
+        "Artist": "WAKER ",
+        "Details": "Album: 2ND MINI ALBUM ‘Sweet Tape’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 17, 2024",
+        "Artist": "HA SUNG WOON",
+        "Details": "Album: The 8th Mini Album ‘Blessed’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -138,7 +194,7 @@
     {
         "Name": "July 19, 2024",
         "Artist": "Stray Kids",
-        "Details": "Title Track: “ATE”",
+        "Details": "Title Track: ‘Chk Chk Boom’\nAlbum: 9th Mini Album “ATE”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -162,9 +218,9 @@
     {
         "Name": "July 23, 2024",
         "Artist": "UNICODE",
-        "Details": " (JP)\nAlbum: Japanese Debut Single “HELLO WORLD”\nWINNER HOONY\nKARA\nSoompi\nDreamcatcher\nFTISLAND\nSoompi\nHa Sungwoon\nNCT 127\nSoompi",
+        "Details": " (JP)\nAlbum: Japanese Debut Single “HELLO WORLD”\nWINNER HOONY\nKARA\nSoompi\nDreamcatcher\nFTISLAND\nSoompi",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1667838wpp/nct-127-confirmed-to-be-gearing-up-for-july-comeback",
+        "SongLink": "https://www.soompi.com/article/1666631wpp/ftisland-confirmed-to-make-july-comeback",
         "ViewCount": ""
     }
 ]
