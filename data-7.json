@@ -34,9 +34,9 @@
     {
         "Name": "July 2, 2024",
         "Artist": "ALL(H)OURS ",
-        "Details": "Album: 2nd Mini Album – WITNESS",
+        "Details": "Title Track: ‘도깨비(SHOCK)’ \nAlbum: 2nd Mini Album – WITNESS",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@ALL_H_OURS/videos",
         "ViewCount": ""
     },
     {
@@ -58,10 +58,10 @@
     {
         "Name": "July 3, 2024",
         "Artist": "VVUP",
-        "Details": "‘Ain’t Nobody’",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: ‘Ain’t Nobody (에인트 노바디)’",
+        "ImageUrl": "https://img.youtube.com/vi/X03tjtrnslQ/default.jpg",
+        "SongLink": "https://youtu.be/X03tjtrnslQ?si=cJubE6zy4jZEIP5o",
+        "ViewCount": "28K views"
     },
     {
         "Name": "July 3, 2024",
@@ -114,7 +114,7 @@
     {
         "Name": "July 9, 2024",
         "Artist": "Weeekly",
-        "Details": "Album: 6th Mini Album [Bliss]",
+        "Details": "Title Track: “LIGHTS ON”\nAlbum: 6th Mini Album [Bliss]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -133,6 +133,14 @@
         "Details": " (아스텔)\nAlbum: 1st Single Album ‘ISLAND’\nInstagram",
         "ImageUrl": "white.png",
         "SongLink": "https://www.instagram.com/astell.official/",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 10, 2024",
+        "Artist": "Dreamcatcher",
+        "Details": "(드림캐쳐) \nAlbum: 10th Mini Album [VirtuouS]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     },
     {
@@ -218,7 +226,7 @@
     {
         "Name": "July 23, 2024",
         "Artist": "UNICODE",
-        "Details": " (JP)\nAlbum: Japanese Debut Single “HELLO WORLD”\nWINNER HOONY\nKARA\nSoompi\nDreamcatcher\nFTISLAND\nSoompi",
+        "Details": " (JP)\nAlbum: Japanese Debut Single “HELLO WORLD”\nWINNER HOONY\nKARA\nSoompi\nFTISLAND\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1666631wpp/ftisland-confirmed-to-make-july-comeback",
         "ViewCount": ""
