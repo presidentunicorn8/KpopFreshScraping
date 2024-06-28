@@ -53,7 +53,7 @@
         "Details": "Title Track: ‘ Don’t ‘\nAlbum: THE 3RD MINI ALBUM [SHOWDOWN]",
         "ImageUrl": "https://img.youtube.com/vi/7p1Vb4BGV1E/default.jpg",
         "SongLink": "https://youtu.be/7p1Vb4BGV1E?si=l1BQGmbdC8g_11tg",
-        "ViewCount": "103K views"
+        "ViewCount": "107K views"
     },
     {
         "Name": "July 3, 2024",
@@ -61,7 +61,15 @@
         "Details": "Title Track: ‘Ain’t Nobody (에인트 노바디)’",
         "ImageUrl": "https://img.youtube.com/vi/X03tjtrnslQ/default.jpg",
         "SongLink": "https://youtu.be/X03tjtrnslQ?si=cJubE6zy4jZEIP5o",
-        "ViewCount": "60K views"
+        "ViewCount": "62K views"
+    },
+    {
+        "Name": "July 3, 2024",
+        "Artist": "JU-NE",
+        "Details": " (iKON)\nTitle Track: “나홀로”; “빌어”\nAlbum: 1ST SOLO BRUISE",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
     },
     {
         "Name": "July 3, 2024",
@@ -96,9 +104,41 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 4, 2024",
+        "Artist": "LYSON",
+        "Details": " (리슨)\nAlbum: 1ST MINI ALBUM ‘우리의 궤도 (Orbit)’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 5, 2024",
+        "Artist": "July 6, 2024",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 6, 2024",
+        "Artist": "July 7, 2024",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 7, 2024",
+        "Artist": "July 8, 2024",
+        "Details": "(G)I-DLE\nTitle Track: “Klaxon”\nAlbum: 7th Mini Album [I SWAY]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 8, 2024",
         "Artist": "(G)I-DLE",
-        "Details": "Album: 7th Mini Album [I SWAY]",
+        "Details": "Title Track: “Klaxon”\nAlbum: 7th Mini Album [I SWAY]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -107,6 +147,14 @@
         "Name": "July 8, 2024",
         "Artist": "TAEYEON",
         "Details": "Single ‘Heaven’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 8, 2024",
+        "Artist": "Xdinary Heroes",
+        "Details": "Digital Single <Open ♭eta v6.2>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -142,6 +190,14 @@
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
+    },
+    {
+        "Name": "July 10, 2024",
+        "Artist": "FTISLAND ",
+        "Details": "Album: 7TH ALBUM [Serious]",
+        "ImageUrl": "https://img.youtube.com/vi/UgBfFHvXNnY/default.jpg",
+        "SongLink": "https://youtu.be/UgBfFHvXNnY?si=W5msFXIUaVJ4eqJd",
+        "ViewCount": "117K views"
     },
     {
         "Name": "July 10, 2024",
@@ -226,9 +282,17 @@
     {
         "Name": "July 23, 2024",
         "Artist": "UNICODE",
-        "Details": " (JP)\nAlbum: Japanese Debut Single “HELLO WORLD”\nWINNER HOONY\nKARA\nSoompi\nFTISLAND\nSoompi",
+        "Details": " (JP)\nAlbum: Japanese Debut Single “HELLO WORLD”",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1666631wpp/ftisland-confirmed-to-make-july-comeback",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 24, 2024",
+        "Artist": "KARA",
+        "Details": "Special Digital Single ‘𝐼 𝐷𝑜 𝐼 𝐷𝑜’\nWINNER HOONY",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     }
 ]
