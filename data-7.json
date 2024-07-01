@@ -2,10 +2,10 @@
     {
         "Name": "July 1, 2024",
         "Artist": "BABYMONSTER",
-        "Details": "Digital Single [FOREVER]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: “FOREVER”\nAlbum: Digital Single [FOREVER]",
+        "ImageUrl": "https://img.youtube.com/vi/eJCHKjt0MPw/default.jpg",
+        "SongLink": "https://youtu.be/eJCHKjt0MPw?si=8RaOR1fO38BYTGQl",
+        "ViewCount": "6M views"
     },
     {
         "Name": "July 1, 2024",
@@ -18,10 +18,10 @@
     {
         "Name": "July 1, 2024",
         "Artist": "KISS OF LIFE",
-        "Details": "Digital Single [Sticky]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: ‘Sticky’\nAlbum: Digital Single [Sticky]",
+        "ImageUrl": "https://img.youtube.com/vi/IajeQM00yfE/default.jpg",
+        "SongLink": "https://youtu.be/IajeQM00yfE?si=cXzGv0hGFNxod5r7",
+        "ViewCount": "1M views"
     },
     {
         "Name": "July 1, 2024",
@@ -53,7 +53,7 @@
         "Details": "Title Track: ‘ Don’t ‘\nAlbum: THE 3RD MINI ALBUM [SHOWDOWN]",
         "ImageUrl": "https://img.youtube.com/vi/7p1Vb4BGV1E/default.jpg",
         "SongLink": "https://youtu.be/7p1Vb4BGV1E?si=l1BQGmbdC8g_11tg",
-        "ViewCount": "161K views"
+        "ViewCount": "163K views"
     },
     {
         "Name": "July 3, 2024",
@@ -61,7 +61,7 @@
         "Details": "Title Track: ‘Ain’t Nobody (에인트 노바디)’",
         "ImageUrl": "https://img.youtube.com/vi/X03tjtrnslQ/default.jpg",
         "SongLink": "https://youtu.be/X03tjtrnslQ?si=cJubE6zy4jZEIP5o",
-        "ViewCount": "79K views"
+        "ViewCount": "80K views"
     },
     {
         "Name": "July 3, 2024",
@@ -197,7 +197,7 @@
         "Details": "Album: 7TH ALBUM [Serious]",
         "ImageUrl": "https://img.youtube.com/vi/UgBfFHvXNnY/default.jpg",
         "SongLink": "https://youtu.be/UgBfFHvXNnY?si=W5msFXIUaVJ4eqJd",
-        "ViewCount": "320K views"
+        "ViewCount": "347K views"
     },
     {
         "Name": "July 10, 2024",
@@ -256,6 +256,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 18, 2024",
+        "Artist": "n.SSign ",
+        "Details": "Album: 2nd Mini Album Repackage ‘Tiger’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 19, 2024",
         "Artist": "Stray Kids",
         "Details": "Title Track: ‘Chk Chk Boom’\nAlbum: 9th Mini Album “ATE”",
@@ -290,7 +298,15 @@
     {
         "Name": "July 24, 2024",
         "Artist": "KARA",
-        "Details": "Special Digital Single ‘𝐼 𝐷𝑜 𝐼 𝐷𝑜’\nWINNER HOONY",
+        "Details": "Special Digital Single ‘𝐼 𝐷𝑜 𝐼 𝐷𝑜’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 31, 2024",
+        "Artist": "SUPER JUNIOR D&E",
+        "Details": " (JP)\nAlbum: 𝐉𝐀𝐏𝐀𝐍 𝟐𝐧𝐝 𝐌𝐢𝐧𝐢 𝐀𝐥𝐛𝐮𝐦 – 𝐘𝐎𝐔&𝐌𝐄\nWINNER HOONY",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
