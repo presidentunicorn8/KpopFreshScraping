@@ -5,15 +5,7 @@
         "Details": "Title Track: “FOREVER”\nAlbum: Digital Single [FOREVER]",
         "ImageUrl": "https://img.youtube.com/vi/eJCHKjt0MPw/default.jpg",
         "SongLink": "https://youtu.be/eJCHKjt0MPw?si=8RaOR1fO38BYTGQl",
-        "ViewCount": "14M views"
-    },
-    {
-        "Name": "July 1, 2024",
-        "Artist": "STAYC",
-        "Details": "Title Track: ‘Cheeky Icy Thang’\nAlbum: The 1st Album [𝐌𝐞𝐭𝐚𝐦𝐨𝐫𝐩𝐡𝐢𝐜]",
-        "ImageUrl": "white.png",
-        "SongLink": "https://www.youtube.com/@STAYC/videos",
-        "ViewCount": ""
+        "ViewCount": "15M views"
     },
     {
         "Name": "July 1, 2024",
@@ -25,11 +17,19 @@
     },
     {
         "Name": "July 1, 2024",
+        "Artist": "STAYC",
+        "Details": "Title Track: ‘Cheeky Icy Thang’\nAlbum: The 1st Album [𝐌𝐞𝐭𝐚𝐦𝐨𝐫𝐩𝐡𝐢𝐜]",
+        "ImageUrl": "https://img.youtube.com/vi/s-UXxaQdUew/default.jpg",
+        "SongLink": "https://youtu.be/s-UXxaQdUew?si=Zl2E-YS4bzghiKlx",
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "July 1, 2024",
         "Artist": "NCT WISH",
-        "Details": " (JP)\nAlbum: Japan 2nd Single – Songbird",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: ‘Songbird (Korean Ver.)’\nAlbum: Japan 2nd Single – Songbird",
+        "ImageUrl": "https://img.youtube.com/vi/2XqVNFBtVo4/default.jpg",
+        "SongLink": "https://youtu.be/2XqVNFBtVo4?si=JqT78r5KysivUVYl",
+        "ViewCount": "1M views"
     },
     {
         "Name": "July 2, 2024",
@@ -53,7 +53,7 @@
         "Details": "Title Track: ‘ Don’t ‘\nAlbum: THE 3RD MINI ALBUM [SHOWDOWN]",
         "ImageUrl": "https://img.youtube.com/vi/7p1Vb4BGV1E/default.jpg",
         "SongLink": "https://youtu.be/7p1Vb4BGV1E?si=l1BQGmbdC8g_11tg",
-        "ViewCount": "174K views"
+        "ViewCount": "176K views"
     },
     {
         "Name": "July 3, 2024",
@@ -83,9 +83,9 @@
         "Name": "July 3, 2024",
         "Artist": "TXT",
         "Details": " (JP)\nTitle Track: “We’ll Never Change”\nAlbum: 4th Japanese Single – CHIKAI",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/sTxtXSZ2L70/default.jpg",
+        "SongLink": "https://youtu.be/sTxtXSZ2L70?si=dYZVAmPskvEAIjfh",
+        "ViewCount": "235K views"
     },
     {
         "Name": "July 3, 2024",
@@ -177,6 +177,14 @@
     },
     {
         "Name": "July 9, 2024",
+        "Artist": "NTX ",
+        "Details": "Title Track: “Problematic”\nAlbum: 2nd Mini Album 𝗛𝗼𝗹𝗱 𝗫",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 9, 2024",
         "Artist": "Astell",
         "Details": " (아스텔)\nAlbum: 1st Single Album ‘ISLAND’\nInstagram",
         "ImageUrl": "white.png",
@@ -194,10 +202,10 @@
     {
         "Name": "July 10, 2024",
         "Artist": "FTISLAND ",
-        "Details": "Album: 7TH ALBUM [Serious]",
+        "Details": "Title Track: “Serious”\nAlbum: 7TH ALBUM [Serious]",
         "ImageUrl": "https://img.youtube.com/vi/UgBfFHvXNnY/default.jpg",
         "SongLink": "https://youtu.be/UgBfFHvXNnY?si=W5msFXIUaVJ4eqJd",
-        "ViewCount": "421K views"
+        "ViewCount": "430K views"
     },
     {
         "Name": "July 10, 2024",
@@ -210,7 +218,7 @@
     {
         "Name": "July 11, 2024",
         "Artist": "July 12, 2024",
-        "Details": "ENHYPEN \nAlbum: 2nd Studio Album ‘ROMANCE : UNTOLD’ ",
+        "Details": "ENHYPEN \nTitle Track: “XO (Only If You Say Yes)”\nAlbum: 2nd Studio Album ‘ROMANCE: UNTOLD’ ",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -218,7 +226,7 @@
     {
         "Name": "July 12, 2024",
         "Artist": "ENHYPEN ",
-        "Details": "Album: 2nd Studio Album ‘ROMANCE : UNTOLD’ ",
+        "Details": "Title Track: “XO (Only If You Say Yes)”\nAlbum: 2nd Studio Album ‘ROMANCE: UNTOLD’ ",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -227,6 +235,14 @@
         "Name": "July 15, 2024",
         "Artist": "NCT 127",
         "Details": "Album: The 6th Album – WALK",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 15, 2024",
+        "Artist": "LEE SEUNGHOON",
+        "Details": " (WINNER Hoony)\nAlbum: 1st EP – MY TYPE",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -242,7 +258,7 @@
     {
         "Name": "July 17, 2024",
         "Artist": "HA SUNG WOON",
-        "Details": "Album: The 8th Mini Album ‘Blessed’",
+        "Details": "Title Track: “Blessed”\nAlbum: The 8th Mini Album ‘Blessed’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -306,9 +322,9 @@
     {
         "Name": "July 31, 2024",
         "Artist": "SUPER JUNIOR D&E",
-        "Details": " (JP)\nAlbum: 𝐉𝐀𝐏𝐀𝐍 𝟐𝐧𝐝 𝐌𝐢𝐧𝐢 𝐀𝐥𝐛𝐮𝐦 – 𝐘𝐎𝐔&𝐌𝐄\nWINNER HOONY",
+        "Details": " (JP)\nAlbum: 𝐉𝐀𝐏𝐀𝐍 𝟐𝐧𝐝 𝐌𝐢𝐧𝐢 𝐀𝐥𝐛𝐮𝐦 – 𝐘𝐎𝐔&𝐌𝐄\nDKB\nEdaily",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://v.daum.net/v/20240702082831174",
         "ViewCount": ""
     }
 ]
