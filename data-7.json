@@ -5,7 +5,7 @@
         "Details": "Title Track: “FOREVER”\nAlbum: Digital Single [FOREVER]",
         "ImageUrl": "https://img.youtube.com/vi/eJCHKjt0MPw/default.jpg",
         "SongLink": "https://youtu.be/eJCHKjt0MPw?si=8RaOR1fO38BYTGQl",
-        "ViewCount": "33M views"
+        "ViewCount": "34M views"
     },
     {
         "Name": "July 1, 2024",
@@ -37,7 +37,7 @@
         "Details": "Album: 2ND MINI ALBUM [Strawberry Rush]",
         "ImageUrl": "https://img.youtube.com/vi/Hjc6AaESmQg/default.jpg",
         "SongLink": "https://youtu.be/Hjc6AaESmQg?si=b3UgwdoMCDdib17s",
-        "ViewCount": "777K views"
+        "ViewCount": "788K views"
     },
     {
         "Name": "July 2, 2024",
@@ -53,7 +53,7 @@
         "Details": " (Apink)\nTitle Track: “모르시나요”",
         "ImageUrl": "https://img.youtube.com/vi/p4An4H8n5ic/default.jpg",
         "SongLink": "https://youtu.be/p4An4H8n5ic?si=KqMDZ_NuhOjV6UA-",
-        "ViewCount": "25K views"
+        "ViewCount": "26K views"
     },
     {
         "Name": "July 3, 2024",
@@ -69,7 +69,7 @@
         "Details": "Title Track: ‘Ain’t Nobody (에인트 노바디)’",
         "ImageUrl": "https://img.youtube.com/vi/fFGpcURSDpw/default.jpg",
         "SongLink": "https://youtu.be/fFGpcURSDpw?si=JIojAJCxf5CmpLf7",
-        "ViewCount": "340K views"
+        "ViewCount": "349K views"
     },
     {
         "Name": "July 3, 2024",
@@ -77,7 +77,7 @@
         "Details": " (iKON)\nTitle Track: “나홀로”; “빌어”\nAlbum: 1ST SOLO BRUISE",
         "ImageUrl": "https://img.youtube.com/vi/UI5KsR5UBtY/default.jpg",
         "SongLink": "https://youtu.be/UI5KsR5UBtY?si=0kANnd7M5rdBIYhz",
-        "ViewCount": "91K views"
+        "ViewCount": "95K views"
     },
     {
         "Name": "July 3, 2024",
@@ -121,19 +121,99 @@
     },
     {
         "Name": "July 4, 2024",
+        "Artist": "X:IN ",
+        "Details": "(엑신)\nTitle Track: “So goodbye now”\nOST: Dolsingles5 OST Pt. 3",
+        "ImageUrl": "https://img.youtube.com/vi/XMzakyb3QbA/default.jpg",
+        "SongLink": "https://youtu.be/XMzakyb3QbA?si=87u34qUHlZBGn3SN",
+        "ViewCount": "33K views"
+    },
+    {
+        "Name": "July 4, 2024",
+        "Artist": "SOYOU, Junggigo",
+        "Details": "Title Track: “LOVE RECIPE”\nAlbum: WONDO Project: LOVE RECIPE, Vol.1",
+        "ImageUrl": "https://img.youtube.com/vi/AvNeRW9rWyA/default.jpg",
+        "SongLink": "https://youtu.be/AvNeRW9rWyA?si=hP6J8xdhppop1KfQ",
+        "ViewCount": "31K views"
+    },
+    {
+        "Name": "July 4, 2024",
+        "Artist": "NIZZ",
+        "Details": " (X:IN)\nTitle Track: “Deepening Longing”\nOST: Dolsingles5 OST Pt. 3",
+        "ImageUrl": "https://img.youtube.com/vi/667Q0CCiUWU/default.jpg",
+        "SongLink": "https://youtu.be/667Q0CCiUWU?si=lpkQdhGhNoJS35t5",
+        "ViewCount": "9K views"
+    },
+    {
+        "Name": "July 4, 2024",
+        "Artist": "Sojung",
+        "Details": " (이소정)\nTitle Track: “Barely had a drink(술은 별로 안 마셨는데)”\nAlbum: Single – Barely had a drink",
+        "ImageUrl": "https://img.youtube.com/vi/n75H-W5a8ac/default.jpg",
+        "SongLink": "https://youtu.be/n75H-W5a8ac?si=jst9AExGhz6zreFF",
+        "ViewCount": "3K views"
+    },
+    {
+        "Name": "July 4, 2024",
+        "Artist": "LeeZe",
+        "Details": "Title Track: “See the Moon”\nOST: My Sweet Mobster OST Part.6",
+        "ImageUrl": "https://img.youtube.com/vi/LnFEXRj5se8/default.jpg",
+        "SongLink": "https://youtu.be/LnFEXRj5se8?si=mmyyzO1efRvdGXb-",
+        "ViewCount": "3K views"
+    },
+    {
+        "Name": "July 4, 2024",
+        "Artist": "Onestar",
+        "Details": "(임한별)\nTitle Track: “Every day, Every Moment(모든 날, 모든 순간)”\nAlbum: Single Album [Every day, Every Moment]",
+        "ImageUrl": "https://img.youtube.com/vi/h_7Nal-4bAE/default.jpg",
+        "SongLink": "https://youtu.be/h_7Nal-4bAE?si=6XvV442py5_Dlejx",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "July 4, 2024",
+        "Artist": "Lee Sang Soon",
+        "Details": " (이상순)\nTitle Track: “Perfect Day”\nAlbum: Single – Perfect Day",
+        "ImageUrl": "https://img.youtube.com/vi/Fy8XL6mox-w/default.jpg",
+        "SongLink": "https://youtu.be/Fy8XL6mox-w?si=c12ZH8mV_gG4jeJ3",
+        "ViewCount": "3K views"
+    },
+    {
+        "Name": "July 4, 2024",
+        "Artist": "YS Block",
+        "Details": "Title Track: “OKAY (feat. ZENE THE ZILLA)”\nAlbum: YONGSAN",
+        "ImageUrl": "https://img.youtube.com/vi/JYrOtAy97O4/default.jpg",
+        "SongLink": "https://youtu.be/JYrOtAy97O4?si=iehS8Y1aAP3QkTIk",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "July 4, 2024",
         "Artist": "LYSON",
         "Details": " (리슨)\nTitle Track: ‘우리의 궤도 (Orbit)’\nAlbum: 1ST MINI ALBUM ‘우리의 궤도 (Orbit)’",
-        "ImageUrl": "https://img.youtube.com/vi/lnn3QlFlBwA/default.jpg",
-        "SongLink": "https://youtu.be/lnn3QlFlBwA?si=EtyKi0ijTrj7CtwK",
-        "ViewCount": "240 views"
+        "ImageUrl": "https://img.youtube.com/vi/MuRtJyPWvGE/default.jpg",
+        "SongLink": "https://youtu.be/MuRtJyPWvGE?si=cljTU9k6bG2D4NpS",
+        "ViewCount": "570 views"
+    },
+    {
+        "Name": "July 4, 2024",
+        "Artist": "Jo Sohyun",
+        "Details": "(조소현)\nTitle Track: “Fruits Addiction(과일 중독)”\nAlbum: Single – Fruits Addiction",
+        "ImageUrl": "https://img.youtube.com/vi/3h4yBV9vWsI/default.jpg",
+        "SongLink": "https://youtu.be/3h4yBV9vWsI?si=fGEhoGKn3L-eQAxs",
+        "ViewCount": "384 views"
+    },
+    {
+        "Name": "July 4, 2024",
+        "Artist": "Kimeeum",
+        "Details": "(김이음)\nTitle Trac: “Silence”\nAlbum: Single – Silence",
+        "ImageUrl": "https://img.youtube.com/vi/ZYwC3IkwLyk/default.jpg",
+        "SongLink": "https://youtu.be/ZYwC3IkwLyk?si=-M60P_vTnH1merGH",
+        "ViewCount": "288 views"
     },
     {
         "Name": "July 5, 2024",
-        "Artist": "July 6, 2024",
-        "Details": "",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Artist": "HYUK",
+        "Details": "(혁)\nTitle Track: “Home”",
+        "ImageUrl": "https://img.youtube.com/vi/OUOA2-owTik/default.jpg",
+        "SongLink": "https://youtu.be/OUOA2-owTik?si=1cEyITPmzOZe8diz",
+        "ViewCount": "3K views"
     },
     {
         "Name": "July 6, 2024",
@@ -148,7 +228,7 @@
         "Artist": "July 8, 2024",
         "Details": "(G)I-DLE\nTitle Track: “Klaxon”\nAlbum: 7th Mini Album [I SWAY]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@official_g_i_dle/videos",
         "ViewCount": ""
     },
     {
@@ -156,7 +236,7 @@
         "Artist": "(G)I-DLE",
         "Details": "Title Track: “Klaxon”\nAlbum: 7th Mini Album [I SWAY]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@official_g_i_dle/videos",
         "ViewCount": ""
     },
     {
@@ -170,10 +250,10 @@
     {
         "Name": "July 8, 2024",
         "Artist": "Xdinary Heroes",
-        "Details": "Digital Single <Open ♭eta v6.2>",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: “LOVE and FEAR”\nAlbum: Digital Single <Open ♭eta v6.2>",
+        "ImageUrl": "https://img.youtube.com/vi/k7M8JoDxFt0/default.jpg",
+        "SongLink": "https://youtu.be/k7M8JoDxFt0?si=1pVUv4mJs5ZzMmKj",
+        "ViewCount": "45K views"
     },
     {
         "Name": "July 9, 2024",
@@ -221,7 +301,7 @@
         "Details": "Title Track: “Serious”\nAlbum: 7TH ALBUM [Serious]",
         "ImageUrl": "https://img.youtube.com/vi/UgBfFHvXNnY/default.jpg",
         "SongLink": "https://youtu.be/UgBfFHvXNnY?si=W5msFXIUaVJ4eqJd",
-        "ViewCount": "660K views"
+        "ViewCount": "663K views"
     },
     {
         "Name": "July 10, 2024",
@@ -233,11 +313,11 @@
     },
     {
         "Name": "July 11, 2024",
-        "Artist": "July 12, 2024",
-        "Details": "ENHYPEN \nTitle Track: “XO (Only If You Say Yes)”\nAlbum: 2nd Studio Album ‘ROMANCE: UNTOLD’ ",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Artist": "U-Rim",
+        "Details": " (유림)\nTitle Track: “If you come back to me (다시 돌아와 준다면)”",
+        "ImageUrl": "https://img.youtube.com/vi/D4mrXpYKwPI/default.jpg",
+        "SongLink": "https://youtu.be/D4mrXpYKwPI?si=1QuXE-KaWhpC2SqY",
+        "ViewCount": "712 views"
     },
     {
         "Name": "July 12, 2024",
@@ -275,6 +355,14 @@
         "Name": "July 16, 2024",
         "Artist": "WAKER ",
         "Details": "Album: 2ND MINI ALBUM ‘Sweet Tape’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 17, 2024",
+        "Artist": "DKB",
+        "Details": "Album: 8th Mini Album",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -346,9 +434,9 @@
     {
         "Name": "July 31, 2024",
         "Artist": "SUPER JUNIOR D&E",
-        "Details": " (JP)\nAlbum: 𝐉𝐀𝐏𝐀𝐍 𝟐𝐧𝐝 𝐌𝐢𝐧𝐢 𝐀𝐥𝐛𝐮𝐦 – 𝐘𝐎𝐔&𝐌𝐄\nDKB\nEdaily",
+        "Details": " (JP)\nAlbum: 𝐉𝐀𝐏𝐀𝐍 𝟐𝐧𝐝 𝐌𝐢𝐧𝐢 𝐀𝐥𝐛𝐮𝐦 – 𝐘𝐎𝐔&𝐌𝐄",
         "ImageUrl": "white.png",
-        "SongLink": "https://v.daum.net/v/20240702082831174",
+        "SongLink": "no",
         "ViewCount": ""
     }
 ]
