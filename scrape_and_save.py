@@ -3,6 +3,33 @@ import requests
 import json
 import datetime
 import math
+import googleapiclient.discovery
+
+def get_first_video_id(search_term):
+  """Gets the first video ID for a given search term.
+
+  Args:
+    search_term: The search term to use.
+    api_key: The YouTube Data API key.
+
+  Returns:
+    The video ID of the first result, or None if no results were found.
+  """
+
+  youtube = googleapiclient.discovery.build("youtube", "v3", developerKey="AIzaSyAP7CPhoJDPwiOjBFllAhm_-VjAe1Ao5N8")
+
+  request = youtube.search().list(
+      part="snippet",
+      maxResults=1,
+      q=search_term,
+      type="video"
+  )
+  response = request.execute()
+
+  if not response['items']:
+    return None
+
+  return response['items'][0]['id']['videoId']
 
 def getViewCount(videoid):
     st = ""
@@ -82,6 +109,8 @@ def getData(current_date):
                 thedate = f"{month_name.capitalize()} 28, 2023"
             desc = ""
             theartist = unfilteredList[i+1]
+            if month_name.capitalize() in theartist:
+                continue
     
             # instantiate default values
             thelink = "no"
@@ -114,6 +143,16 @@ def getData(current_date):
                             desc = x
                         else:
                             desc += "\n" + x
+                if thelink == "no":
+                    try:
+                        datetime_object = datetime.datetime.strptime(thedate, "%B %d, %Y")
+                        if datetime_object < datetime.datetime.now()-datetime.timedelta(days=2):
+                            videoid = get_first_video_id(theartist + " " + x)
+                            if videoid:
+                                theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
+                                viewcount = getViewCount(videoid)
+                    except:
+                        pass
     
             mydict = dict(Name = thedate, Artist = theartist, 
                         Details = str(desc), ImageUrl = theimage,
