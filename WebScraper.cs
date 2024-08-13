@@ -66,7 +66,7 @@ namespace KpopFresh.Services
             string thismo = DateTime.Now.ToString("MMMM").ToLower();
             int monthlength = thismo.Length;
 
-            var html = @$"http://webcache.googleusercontent.com/search?q=cache:https://kpopofficial.com/kpop-comeback-schedule-{thismonth}/&strip=1&vwsrc=0";
+            var html = @$"https://kpopofficial.com/kpop-comeback-schedule-{thismonth}";
             
             HtmlWeb web = new HtmlWeb();
             var htmlDoc = web.Load(html);
