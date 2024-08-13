@@ -133,7 +133,7 @@ next_date = (first_day_of_current_month + datetime.timedelta(days=32)).replace(d
 for x in [last_date, current_date, next_date]:
     songList = getData(x)
     if len(songList) == 0:
-        mydict = dict(Name = x, Artist = "No data yet", 
+        mydict = dict(Name = x.strftime("%B").lower(), Artist = "No data yet", 
                         Details = "No data yet", ImageUrl = "white.png",
                         SongLink= "", ViewCount = "")
         songList.append(mydict) 
