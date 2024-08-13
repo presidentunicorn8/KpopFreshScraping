@@ -143,16 +143,17 @@ def getData(current_date):
                             desc = x
                         else:
                             desc += "\n" + x
-                if thelink == "no":
-                    try:
-                        datetime_object = datetime.datetime.strptime(thedate, "%B %d, %Y")
-                        if datetime_object < datetime.datetime.now()-datetime.timedelta(days=2):
-                            videoid = get_first_video_id(theartist + " " + x)
-                            if videoid:
-                                theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
-                                viewcount = getViewCount(videoid)
-                    except:
-                        pass
+            if thelink == "no":
+                try:
+                    datetime_object = datetime.datetime.strptime(thedate, "%B %d, %Y")
+                    if datetime_object < datetime.datetime.now()-datetime.timedelta(days=2):
+                        videoid = get_first_video_id(theartist + " " + x)
+                        if videoid:
+                            theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
+                            viewcount = getViewCount(videoid)
+                            thelink = f"youtu.be/{videoid}"
+                except:
+                    pass
     
             mydict = dict(Name = thedate, Artist = theartist, 
                         Details = str(desc), ImageUrl = theimage,
