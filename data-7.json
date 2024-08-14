@@ -123,9 +123,9 @@
         "Name": "July 3, 2024",
         "Artist": "FAVE1",
         "Details": " (JP)\nAlbum: JAPAN 3rd single「花束",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/S-1axhow_3g/default.jpg",
+        "SongLink": "https://youtu.be/S-1axhow_3g",
+        "ViewCount": "8M views"
     },
     {
         "Name": "July 4, 2024",
@@ -277,7 +277,7 @@
         "Details": "(랑잇)\nTitle Track: “Past Midnight(어느덧 자정이 넘어)”",
         "ImageUrl": "https://img.youtube.com/vi/-70i5UnQ6dM/default.jpg",
         "SongLink": "https://youtu.be/-70i5UnQ6dM?si=zqBaR5Rpv88cykwf",
-        "ViewCount": "717 views"
+        "ViewCount": "716 views"
     },
     {
         "Name": "July 6, 2024",
@@ -899,9 +899,9 @@
         "Name": "July 26, 2024",
         "Artist": "Jay Park",
         "Details": " (박재범)\nTitle Track: Xtra McNasty (Feat. Jessi, Awich, MILLI, Ramengvrl, \nLil Cherry, MIRANI, Maliibu Miitch, CAMO)",
-        "ImageUrl": "https://img.youtube.com/vi/W7NHUhL3EwM/default.jpg",
-        "SongLink": "https://youtu.be/W7NHUhL3EwM",
-        "ViewCount": "30 views"
+        "ImageUrl": "https://img.youtube.com/vi/t9979EsACaI/default.jpg",
+        "SongLink": "https://youtu.be/t9979EsACaI",
+        "ViewCount": "44K views"
     },
     {
         "Name": "July 29, 2024",
@@ -917,7 +917,7 @@
         "Details": "Title Track: ‘Digital Hello’\nAlbum: 1st Mini Album [Digital Hello]",
         "ImageUrl": "https://img.youtube.com/vi/j_YX0SKAm7g/default.jpg",
         "SongLink": "https://youtu.be/j_YX0SKAm7g?si=rZyg4HARyokdbFJ-",
-        "ViewCount": "780 views"
+        "ViewCount": "781 views"
     },
     {
         "Name": "July 30, 2024",
@@ -931,9 +931,9 @@
         "Name": "July 31, 2024",
         "Artist": "Celest1a",
         "Details": "Album: Debut Single PANDA",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/1ZoFmXRTGZs/default.jpg",
+        "SongLink": "https://youtu.be/1ZoFmXRTGZs",
+        "ViewCount": "1K views"
     },
     {
         "Name": "July 31, 2024",
@@ -963,8 +963,8 @@
         "Name": "July 31, 2024",
         "Artist": "SUPER JUNIOR D&E",
         "Details": " (JP)\nAlbum: 𝐉𝐀𝐏𝐀𝐍 𝟐𝐧𝐝 𝐌𝐢𝐧𝐢 𝐀𝐥𝐛𝐮𝐦 – 𝐘𝐎𝐔&𝐌𝐄",
-        "ImageUrl": "https://img.youtube.com/vi/4DYaSixcLCM/default.jpg",
-        "SongLink": "https://youtu.be/4DYaSixcLCM",
-        "ViewCount": "59K views"
+        "ImageUrl": "https://img.youtube.com/vi/RxU3iSJN2vg/default.jpg",
+        "SongLink": "https://youtu.be/RxU3iSJN2vg",
+        "ViewCount": "17K views"
     }
 ]
