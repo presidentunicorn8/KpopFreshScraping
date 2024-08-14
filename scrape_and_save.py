@@ -20,7 +20,7 @@ def get_first_video_id(search_term):
 
   request = youtube.search().list(
       part="snippet",
-      order="viewCount",
+      #order="viewCount",
       maxResults=1,
       q=search_term,
       type="video"
