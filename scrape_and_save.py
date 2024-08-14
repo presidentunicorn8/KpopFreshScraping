@@ -20,6 +20,7 @@ def get_first_video_id(search_term):
 
   request = youtube.search().list(
       part="snippet",
+      order="viewCount",
       maxResults=1,
       q=search_term,
       type="video"
@@ -151,9 +152,9 @@ def getData(current_date):
                         if videoid:
                             theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
                             viewcount = getViewCount(videoid)
-                            thelink = f"youtu.be/{videoid}"
-                except:
-                    pass
+                            thelink = f"https://youtu.be/{videoid}"
+                except Exception as e:
+                    print(e)
     
             mydict = dict(Name = thedate, Artist = theartist, 
                         Details = str(desc), ImageUrl = theimage,
