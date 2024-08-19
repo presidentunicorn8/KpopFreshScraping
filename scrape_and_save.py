@@ -148,7 +148,7 @@ def getData(current_date):
                 try:
                     datetime_object = datetime.datetime.strptime(thedate, "%B %d, %Y")
                     if datetime_object < datetime.datetime.now()-datetime.timedelta(days=2):
-                        videoid = get_first_video_id(theartist + " " + x)
+                        videoid = get_first_video_id(theartist + " " + x + "Kpop Music Video Official MV")
                         if videoid:
                             theimage = f"https://img.youtube.com/vi/{videoid}/default.jpg"
                             viewcount = getViewCount(videoid)
