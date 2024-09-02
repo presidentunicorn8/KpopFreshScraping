@@ -3,81 +3,593 @@
         "Name": "August 1, 2024",
         "Artist": "Red Velvet",
         "Details": "Title Track: “Sweet Dreams”\nTo Commemorate Red Velvet’s 10th Anniversary",
-        "ImageUrl": "https://img.youtube.com/vi/0LiQp7y8Wwc/default.jpg",
-        "SongLink": "https://youtu.be/0LiQp7y8Wwc",
-        "ViewCount": "15M views"
+        "ImageUrl": "https://img.youtube.com/vi/jv-UAioFOW0/default.jpg",
+        "SongLink": "https://youtu.be/jv-UAioFOW0?si=WAjki8W2rPvSQ0Cc",
+        "ViewCount": "700K views"
+    },
+    {
+        "Name": "August 1, 2024",
+        "Artist": "YDS",
+        "Details": " (YeoDongSaeng) \nTitle Track: “초록 여름 매미 (Cicadas in Green Summer)”\nAlbum: Digital Single Album [초록 여름 매미]",
+        "ImageUrl": "https://img.youtube.com/vi/LGF00WO9EYs/default.jpg",
+        "SongLink": "https://youtu.be/LGF00WO9EYs?si=p5SagoZQZgddviS1",
+        "ViewCount": "10K views"
+    },
+    {
+        "Name": "August 1, 2024",
+        "Artist": "GG",
+        "Details": " (Global Girls)\nTitle Track: ‘DRAMA’\nAlbum: Single – DRAMA",
+        "ImageUrl": "https://img.youtube.com/vi/8Sam1z8KLWY/default.jpg",
+        "SongLink": "https://youtu.be/8Sam1z8KLWY?si=l9SmaBl12TtD5uVB",
+        "ViewCount": "5K views"
+    },
+    {
+        "Name": "August 1, 2024",
+        "Artist": "Kwon Eui Bin",
+        "Details": " (권의빈)\nTitle Track: “STAY”\nAlbum: 2nd Single – STAY",
+        "ImageUrl": "https://img.youtube.com/vi/HYSvUvWHhqA/default.jpg",
+        "SongLink": "https://youtu.be/HYSvUvWHhqA?si=1uLESxlvpe_xaVNx",
+        "ViewCount": "769 views"
     },
     {
         "Name": "August 2, 2024",
         "Artist": "JEON SOMI ",
         "Details": "Title Track: ‘Ice Cream’\nAlbum: Summer Special Single ‘Ice Cream’",
-        "ImageUrl": "https://img.youtube.com/vi/0LiQp7y8Wwc/default.jpg",
-        "SongLink": "https://youtu.be/0LiQp7y8Wwc",
-        "ViewCount": "15M views"
+        "ImageUrl": "https://img.youtube.com/vi/WWFjlPAHwoM/default.jpg",
+        "SongLink": "https://youtu.be/WWFjlPAHwoM?si=uR32jQyTbmVy4uYa",
+        "ViewCount": "13M views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "Jimin",
+        "Details": " (BTS)\nTitle Track: ‘Be Mine (English Version)’\nAlbum: Single ‘Be Mine (English Version)’",
+        "ImageUrl": "https://img.youtube.com/vi/MYrZ5T3jFmA/default.jpg",
+        "SongLink": "https://youtu.be/MYrZ5T3jFmA?si=cupqMjQGrbUEHjA1",
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "J.Fla",
+        "Details": "Title Track: “Golden Moments”\nAlbum: Single – Colours: The Last",
+        "ImageUrl": "https://img.youtube.com/vi/sHb0RqZ968M/default.jpg",
+        "SongLink": "https://youtu.be/sHb0RqZ968M?si=sEfKxYtrDAfcmXIf",
+        "ViewCount": "90K views"
     },
     {
         "Name": "August 2, 2024",
         "Artist": "ONF",
         "Details": " (온앤오프)\nAlbum: INSTRUMENTAL ALBUM [INFUSE]",
-        "ImageUrl": "https://img.youtube.com/vi/-I33HUAGUWQ/default.jpg",
-        "SongLink": "https://youtu.be/-I33HUAGUWQ",
-        "ViewCount": "56M views"
+        "ImageUrl": "https://img.youtube.com/vi/pnwA_L-OJNs/default.jpg",
+        "SongLink": "https://youtu.be/pnwA_L-OJNs?si=fzDk4mndHWD9sWT_",
+        "ViewCount": "42K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "LULU",
+        "Details": " (Park Min Jung)\nTitle Track: “BUNNY BUNNY”\nAlbum: The 1st Album – BUNNY BUNNY",
+        "ImageUrl": "https://img.youtube.com/vi/JQgtvXqwE7Q/default.jpg",
+        "SongLink": "https://youtu.be/JQgtvXqwE7Q?si=8HgpTxX5zyLNK9JB",
+        "ViewCount": "33K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "Jung In, Mild Beats",
+        "Details": "Title Track: “Blame”\nAlbum: EP – Jung In & Mild Beats",
+        "ImageUrl": "https://img.youtube.com/vi/hnowbHaAuX8/default.jpg",
+        "SongLink": "https://youtu.be/hnowbHaAuX8?si=EyvrVcLc9giHmyTl",
+        "ViewCount": "10K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "GOYO",
+        "Details": "Title Track: “Long time no see”\nAlbum: Long time no see",
+        "ImageUrl": "https://img.youtube.com/vi/O6ThZnkzHeo/default.jpg",
+        "SongLink": "https://youtu.be/O6ThZnkzHeo?si=VsK0QRPaEPBVkoCy",
+        "ViewCount": "10K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "RGP",
+        "Details": "(스컬&하하)\nTitle Track: “Let’s go SKULL (드가자 스컬아)”\nAlbum: Chwi",
+        "ImageUrl": "https://img.youtube.com/vi/lL9mLjZbL1I/default.jpg",
+        "SongLink": "https://youtu.be/lL9mLjZbL1I?si=bADUwX5J0m1XSSiH",
+        "ViewCount": "9K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "ONLEE",
+        "Details": " (이승환)\nTitle Track: “Sunshine, Shy, Pretty Girl”\nAlbum: Single – Sunshine, Shy, Pretty Girl",
+        "ImageUrl": "https://img.youtube.com/vi/iHFiJPvw0r8/default.jpg",
+        "SongLink": "https://youtu.be/iHFiJPvw0r8?si=SuZPvn0e-Zv9h4_Z",
+        "ViewCount": "5K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "Jiyoung Hwang",
+        "Details": " (황지영)\nTitle Track: “비 내리는 밤에 (On A Rainy Night)”\nAlbum: Single – On A Rainy Night",
+        "ImageUrl": "https://img.youtube.com/vi/KeB7kr40TQY/default.jpg",
+        "SongLink": "https://youtu.be/KeB7kr40TQY?si=yWi5hTUFY1bH8NGo",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "COOMO",
+        "Details": "(쿠모)\nTitle Track: “Blue Flame(푸른불꽃)”\nAlbum: Single – Blue Flame",
+        "ImageUrl": "https://img.youtube.com/vi/xDLwJQ9xDCc/default.jpg",
+        "SongLink": "https://youtu.be/xDLwJQ9xDCc?si=pBElxyH5RP-7h353",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "Dopein",
+        "Details": "Title Track: “Good to have”\nAlbum: Single – Good to have",
+        "ImageUrl": "https://img.youtube.com/vi/_tzooBhcZAQ/default.jpg",
+        "SongLink": "https://youtu.be/_tzooBhcZAQ?si=xXrl2dov-MNtswzi",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "Song Hee Ran",
+        "Details": "Title Track: “아픔은 버티는 게 아니래 (Let Go of Me)”\nAlbum: Single – Let Go of Me",
+        "ImageUrl": "https://img.youtube.com/vi/E21jAa_3JHM/default.jpg",
+        "SongLink": "https://youtu.be/E21jAa_3JHM?si=0C4hU1BVu4d5RDly",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "Seiren",
+        "Details": " (세이렌)\nTitle Track: “beyond the time limits(시간을 넘어)”\nAlbum: Single – beyond the time limits(시간을 넘어)",
+        "ImageUrl": "https://img.youtube.com/vi/QrEKOa1zHrE/default.jpg",
+        "SongLink": "https://youtu.be/QrEKOa1zHrE?si=ORrb6NnTQ_6gKXPQ",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "JUNTARO",
+        "Details": "Title Track: “WOW”\nAlbum: Single – WOW",
+        "ImageUrl": "white.png",
+        "SongLink": "https://youtube.com/playlist?list=OLAK5uy_lng3Qd07dKwMMZ6p5rJMl3N5_W-uIXowM&si=w9hgEHwN35zOVWC8",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 2, 2024",
+        "Artist": "TRAVELLER",
+        "Details": "Title Track: “Eungam Okay”; “Digital Media City”\nAlbum: A Subway Travel Journal: This Station is Line 6",
+        "ImageUrl": "white.png",
+        "SongLink": "https://youtube.com/playlist?list=OLAK5uy_nO7TB6ic6BPQEEQ_qlXamkmgdbLb9pIaI&si=4JyI7BBPHajKOgto",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 3, 2024",
+        "Artist": "Lokid",
+        "Details": "Title Track: “I Want You”\nAlbum: Single – I Want You",
+        "ImageUrl": "https://img.youtube.com/vi/67lK9-bvC8w/default.jpg",
+        "SongLink": "https://youtu.be/67lK9-bvC8w?si=n93sjZ7BYBQDRafX",
+        "ViewCount": "24K views"
+    },
+    {
+        "Name": "August 3, 2024",
+        "Artist": "HyeRim",
+        "Details": " (김혜림)\nTitle Track: “행성 (Planet)”\nAlbum: Single – Planet",
+        "ImageUrl": "https://img.youtube.com/vi/Yt9Qg6TbFsY/default.jpg",
+        "SongLink": "https://youtu.be/Yt9Qg6TbFsY?si=g7yj-bYule33Wt5y",
+        "ViewCount": "3K views"
+    },
+    {
+        "Name": "August 3, 2024",
+        "Artist": "D82",
+        "Details": "Title Track: “Forest”\nAlbum: Single – Forest",
+        "ImageUrl": "https://img.youtube.com/vi/Kyo9LEBIp54/default.jpg",
+        "SongLink": "https://youtu.be/Kyo9LEBIp54?si=DpctowlGG1ezQenN",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 4, 2024",
+        "Artist": "MRCH",
+        "Details": "Title Track: “Hi!”\nAlbum: Single – Indigging #01",
+        "ImageUrl": "https://img.youtube.com/vi/Ey4DHbV-MEw/default.jpg",
+        "SongLink": "https://youtu.be/Ey4DHbV-MEw?si=a1eI18p0HYqVzI0a",
+        "ViewCount": "44K views"
+    },
+    {
+        "Name": "August 4, 2024",
+        "Artist": "D-Hack",
+        "Details": " (디핵)\nTitle Track: “BOKU GA BOKU NI”\nAlbum: D-DAI BOUKEN",
+        "ImageUrl": "https://img.youtube.com/vi/-5TVNCyYq1E/default.jpg",
+        "SongLink": "https://youtu.be/-5TVNCyYq1E?si=r1ZWO826XjCQGzhp",
+        "ViewCount": "43K views"
+    },
+    {
+        "Name": "August 4, 2024",
+        "Artist": "DICKPUNKS",
+        "Details": "Title Track: “Step (발걸음)”\nAlbum: Single – Step (발걸음)",
+        "ImageUrl": "https://img.youtube.com/vi/1RlOdo4fozU/default.jpg",
+        "SongLink": "https://youtu.be/1RlOdo4fozU?si=WL6TJ-x_jBbWhv2N",
+        "ViewCount": "33K views"
+    },
+    {
+        "Name": "August 4, 2024",
+        "Artist": "SUMMER CAKE",
+        "Details": " (썸머케익)\nTitle Track: “Squat (스쿼트)”\nAlbum: Single – Squat",
+        "ImageUrl": "https://img.youtube.com/vi/6FXtjNbonq0/default.jpg",
+        "SongLink": "https://youtu.be/6FXtjNbonq0?si=25hDogTRKP5vE2jD",
+        "ViewCount": "16K views"
+    },
+    {
+        "Name": "August 4, 2024",
+        "Artist": "Kim Churi",
+        "Details": "(김추리)\nTitle Track: “That’s cool(멋지다)”\nAlbum: Single – That’s cool",
+        "ImageUrl": "https://img.youtube.com/vi/9E7mAUEFjnw/default.jpg",
+        "SongLink": "https://youtu.be/9E7mAUEFjnw?si=wtYZX4QpgdzG8sTt",
+        "ViewCount": "11K views"
+    },
+    {
+        "Name": "August 4, 2024",
+        "Artist": "cacophony",
+        "Details": " (카코포니)\nTitle Track: “Don’t Tell My Papa”\nAlbum: Single – Don’t Tell My Papa",
+        "ImageUrl": "https://img.youtube.com/vi/FHZVknFMfXA/default.jpg",
+        "SongLink": "https://youtu.be/FHZVknFMfXA?si=mncgoL7FV5OoEWxn",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 4, 2024",
+        "Artist": "ZAZA",
+        "Details": "Title Track: “MIRACLE”\nAlbum: Single – MIRACLE",
+        "ImageUrl": "https://img.youtube.com/vi/89PnCTk1TyM/default.jpg",
+        "SongLink": "https://youtu.be/89PnCTk1TyM?si=YyRrTnRZXJGNT5DE",
+        "ViewCount": "1K views"
     },
     {
         "Name": "August 5, 2024",
         "Artist": "Xdinary Heroes",
-        "Details": "Album: Digital Single <Open ♭eta v6.3>",
-        "ImageUrl": "https://img.youtube.com/vi/kd5LJ4r-vEY/default.jpg",
-        "SongLink": "https://youtu.be/kd5LJ4r-vEY",
-        "ViewCount": "11M views"
+        "Details": "Title Track: “Save me”\nAlbum: Digital Single <Open ♭eta v6.3>",
+        "ImageUrl": "https://img.youtube.com/vi/Ooi3uic6lNc/default.jpg",
+        "SongLink": "https://youtu.be/Ooi3uic6lNc?si=-gVzq6Y9cpZ3yWNG",
+        "ViewCount": "326K views"
+    },
+    {
+        "Name": "August 5, 2024",
+        "Artist": "SUPER JUNIOR-D&E",
+        "Details": "Title Track: “约定 (with SIWON, ZHOUMI, RYEOWOOK, KYUHYUN)”\nAlbum: DIGITAL SINGLE 『约定",
+        "ImageUrl": "https://img.youtube.com/vi/8N_2wiEdKpA/default.jpg",
+        "SongLink": "https://youtu.be/8N_2wiEdKpA?si=vIUWpaMynyUfY1ZF",
+        "ViewCount": "245K views"
     },
     {
         "Name": "August 5, 2024",
         "Artist": "Kim Myungsoo",
-        "Details": " (INFINITE L)\nAlbum: 1st EP ‘𝟐𝟒/𝟕’",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": " (INFINITE L)\nTitle Track: ‘어떻게 널 사랑하지 않겠니(What’s Not To Love)’ \nAlbum: 1st EP ‘𝟐𝟒/𝟕’",
+        "ImageUrl": "https://img.youtube.com/vi/4QVhf6RiZaU/default.jpg",
+        "SongLink": "https://youtu.be/4QVhf6RiZaU?si=qb1eZ3TxtZ-B7rc7",
+        "ViewCount": "131K views"
     },
     {
-        "Name": "August 6, 2024",
-        "Artist": "YOON SAN-HA",
-        "Details": " (ASTRO)\nAlbum: 1st Mini Album [DUSK]",
-        "ImageUrl": "https://img.youtube.com/vi/YNl93rEP31A/default.jpg",
-        "SongLink": "https://youtu.be/YNl93rEP31A",
-        "ViewCount": "602K views"
+        "Name": "August 5, 2024",
+        "Artist": "3piece",
+        "Details": " (쓰리피스)\nTitle Track: ‘𝐒𝐮𝐦𝐦𝐞𝐫 𝐅𝐞𝐞𝐥𝐢𝐧𝐠’\nAlbum: Single – Summer Feeling",
+        "ImageUrl": "https://img.youtube.com/vi/vqxgtATbMps/default.jpg",
+        "SongLink": "https://youtu.be/vqxgtATbMps?si=vFkmj9GKejk2Rroj",
+        "ViewCount": "77K views"
     },
     {
         "Name": "August 6, 2024",
         "Artist": "UNIS ",
-        "Details": "Album: 1st Single ‘CURIOUS’",
-        "ImageUrl": "https://img.youtube.com/vi/bkOxBbRHHA4/default.jpg",
-        "SongLink": "https://youtu.be/bkOxBbRHHA4",
-        "ViewCount": "5M views"
+        "Details": "Title Track: ‘너만 몰라 (Curious)’ \nAlbum: 1st Single ‘CURIOUS’",
+        "ImageUrl": "https://img.youtube.com/vi/V3Xpaadt-RA/default.jpg",
+        "SongLink": "https://youtu.be/V3Xpaadt-RA?si=EcgFQthp_SMlSkHI",
+        "ViewCount": "13M views"
+    },
+    {
+        "Name": "August 6, 2024",
+        "Artist": "YOON SAN-HA",
+        "Details": " (ASTRO)\nTitle Track: ‘Dive’\nAlbum: 1st Mini Album [DUSK]",
+        "ImageUrl": "https://img.youtube.com/vi/_nq1ogDsgUI/default.jpg",
+        "SongLink": "https://youtu.be/_nq1ogDsgUI?si=UBQwALo5xAGsPWzP",
+        "ViewCount": "9M views"
+    },
+    {
+        "Name": "August 6, 2024",
+        "Artist": "DOYOUNG",
+        "Details": " (NCT)\nTitle Track: “17”\nAlbum: Single Album [17]",
+        "ImageUrl": "https://img.youtube.com/vi/Rr72mHRRSq4/default.jpg",
+        "SongLink": "https://youtu.be/Rr72mHRRSq4?si=T0dU9--9kP_QBKep",
+        "ViewCount": "133K views"
+    },
+    {
+        "Name": "August 6, 2024",
+        "Artist": "Kim Sung Hyun",
+        "Details": "Title Track: “Mount”\nOST: YOUR HONOR (Opening Title)",
+        "ImageUrl": "https://img.youtube.com/vi/AMFR5Xxp4oU/default.jpg",
+        "SongLink": "https://youtu.be/AMFR5Xxp4oU?si=9Qz2URWqxOB4E3O8",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "August 6, 2024",
+        "Artist": "Eddie and the Bricks",
+        "Details": "Title Track: “Glee”\nAlbum: 1st EP [Ms. Summer]",
+        "ImageUrl": "https://img.youtube.com/vi/cJPQKIOzpvE/default.jpg",
+        "SongLink": "https://youtu.be/cJPQKIOzpvE?si=i_a_l2AStTw9ZDyD",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 6, 2024",
+        "Artist": "VVS",
+        "Details": "Title Track: “We On Top”\nAlbum: Single – We On Top",
+        "ImageUrl": "https://img.youtube.com/vi/Gx1uD8Y_STc/default.jpg",
+        "SongLink": "https://youtu.be/Gx1uD8Y_STc?si=aIpiD8XUIom1z-ZR",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 6, 2024",
+        "Artist": "Simons",
+        "Details": " (싸이먼스) \nTitle Track: “Summer Rain”\nAlbum: Single – Summer Rain",
+        "ImageUrl": "https://img.youtube.com/vi/lch5-MRGCU0/default.jpg",
+        "SongLink": "https://youtu.be/lch5-MRGCU0?si=NJp4MZeoTfBkvu9-",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 7, 2024",
+        "Artist": "LIGHTSUM",
+        "Details": "(라잇썸)\nTitle Track: ‘POSE!’\nAlbum: Digital Single [POSE!]",
+        "ImageUrl": "https://img.youtube.com/vi/TKGovwXRDfU/default.jpg",
+        "SongLink": "https://youtu.be/TKGovwXRDfU?si=5eutLrh1g_GhkMYe",
+        "ViewCount": "6M views"
+    },
+    {
+        "Name": "August 7, 2024",
+        "Artist": "Stray Kids ",
+        "Details": "Album: 9th Mini Album “ATE”",
+        "ImageUrl": "https://img.youtube.com/vi/7ytGFxD-FcI/default.jpg",
+        "SongLink": "https://youtu.be/7ytGFxD-FcI?si=wmGTaoN9jQEURf7r",
+        "ViewCount": "12M views"
+    },
+    {
+        "Name": "August 7, 2024",
+        "Artist": "&TEAM",
+        "Details": " (JP)\nTitle Track: ‘Aoarashi’\nAlbum: 2nd Single – Aoarashi",
+        "ImageUrl": "https://img.youtube.com/vi/WklwroX2yOU/default.jpg",
+        "SongLink": "https://youtu.be/WklwroX2yOU?si=phmX_iFoEU_-DvIf",
+        "ViewCount": "10M views"
+    },
+    {
+        "Name": "August 7, 2024",
+        "Artist": "MIRANI",
+        "Details": "Title Track: “Hit Me Up (Ft. MINGI of ATEEZ)”\nAlbum: Single – Hit Me Up (Ft. MINGI of ATEEZ)",
+        "ImageUrl": "https://img.youtube.com/vi/zt0dbjD3VxY/default.jpg",
+        "SongLink": "https://youtu.be/zt0dbjD3VxY?si=-bpChBVcVLZ6R2eQ",
+        "ViewCount": "832K views"
+    },
+    {
+        "Name": "August 7, 2024",
+        "Artist": "KIMHYUNJOONG",
+        "Details": " (김현중)\nTitle Track: “CAGE”\nAlbum: Single – CAGE",
+        "ImageUrl": "https://img.youtube.com/vi/kWPduVnmuSE/default.jpg",
+        "SongLink": "https://youtu.be/kWPduVnmuSE?si=MmTJQIBvx-5lXIWT",
+        "ViewCount": "1M views"
     },
     {
         "Name": "August 7, 2024",
         "Artist": "xikers",
-        "Details": " (JP)\nAlbum: JAPAN 1ST SINGLE – Tsuki (Lunatic)",
-        "ImageUrl": "https://img.youtube.com/vi/yZ2uxja3SwU/default.jpg",
-        "SongLink": "https://youtu.be/yZ2uxja3SwU",
-        "ViewCount": "181K views"
+        "Details": " (JP)\nTitle Track: ‘Tsuki (Lunatic)’\nAlbum: JAPAN 1ST SINGLE – Tsuki (Lunatic)",
+        "ImageUrl": "https://img.youtube.com/vi/oAnvhI0gl8s/default.jpg",
+        "SongLink": "https://youtu.be/oAnvhI0gl8s?si=LkMZw_YNruFsF4Hs",
+        "ViewCount": "270K views"
+    },
+    {
+        "Name": "August 7, 2024",
+        "Artist": "Park Boram",
+        "Details": "(박보람)\nTitle Track: “As time goes by(세월이 가면)”\nAlbum: Mini Album [The Last Song]",
+        "ImageUrl": "https://img.youtube.com/vi/3CalYFVt3v0/default.jpg",
+        "SongLink": "https://youtu.be/3CalYFVt3v0?si=T0Ak9xRSabw-1fdA",
+        "ViewCount": "51K views"
+    },
+    {
+        "Name": "August 7, 2024",
+        "Artist": "SON DONG PYO",
+        "Details": " (손동표)\nTitle Track: “Wave(파도) (2024)”\nAlbum: Single – Wave (2024)",
+        "ImageUrl": "https://img.youtube.com/vi/dnBxr8bVIT0/default.jpg",
+        "SongLink": "https://youtu.be/dnBxr8bVIT0?si=INAzX6m-lkQYLytB",
+        "ViewCount": "28K views"
+    },
+    {
+        "Name": "August 7, 2024",
+        "Artist": "Bae Woori",
+        "Details": " (배우리)\nTitle Track: “너와의 이야기 (With you)”\nAlbum: Single – With You",
+        "ImageUrl": "https://img.youtube.com/vi/H7R8SP83jAc/default.jpg",
+        "SongLink": "https://youtu.be/H7R8SP83jAc?si=sH-cqx3Oo_p1opOO",
+        "ViewCount": "18K views"
+    },
+    {
+        "Name": "August 7, 2024",
+        "Artist": "PARK HWAYOBI",
+        "Details": " (박화요비)\nTitle Track: “If I Could Make You”\nAlbum: Single – If I Could Make You",
+        "ImageUrl": "https://img.youtube.com/vi/Ci6LgmrZ40E/default.jpg",
+        "SongLink": "https://youtu.be/Ci6LgmrZ40E?si=6qfh4WwsBgpKe_85",
+        "ViewCount": "16K views"
     },
     {
         "Name": "August 8, 2024",
         "Artist": "BamBam",
-        "Details": " (GOT7)\nAlbum: 3rd Mini Album 『𝐁𝐀𝐌𝐄𝐒𝐈𝐒』",
-        "ImageUrl": "https://img.youtube.com/vi/NFnJ5HE3qSU/default.jpg",
-        "SongLink": "https://youtu.be/NFnJ5HE3qSU",
+        "Details": " (GOT7)\nTitle Track: ‘LAST PARADE’ \nAlbum: 3rd Mini Album 『𝐁𝐀𝐌𝐄𝐒𝐈𝐒』",
+        "ImageUrl": "https://img.youtube.com/vi/quNtPI4bmPA/default.jpg",
+        "SongLink": "https://youtu.be/quNtPI4bmPA?si=6PsXGCTVcYpbqvnJ",
         "ViewCount": "3M views"
     },
     {
         "Name": "August 8, 2024",
+        "Artist": "Zion.T, sokodomo",
+        "Details": "Title Track: “LIVE CLASSIC : paradise (with LOTTE CASTLE)”\nAlbum: Single – LIVE CLASSIC : paradise",
+        "ImageUrl": "https://img.youtube.com/vi/p_zGMUCgyWY/default.jpg",
+        "SongLink": "https://youtu.be/p_zGMUCgyWY?si=zmhyFmIcVAxKjd25",
+        "ViewCount": "3M views"
+    },
+    {
+        "Name": "August 8, 2024",
+        "Artist": "CATCH THE YOUNG",
+        "Details": " (캐치더영)\nTitle Track: ‘Dream It’ \nAlbum: EP – Dream It",
+        "ImageUrl": "https://img.youtube.com/vi/B6H_CEPHP_s/default.jpg",
+        "SongLink": "https://youtu.be/B6H_CEPHP_s?si=tgVbltWMIz7soXB-",
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "August 8, 2024",
+        "Artist": "John Park",
+        "Details": " (존박)\nTitle Track: ‘VISTA (feat.개코, THAMA)’ \nAlbum: Single – VISTA",
+        "ImageUrl": "https://img.youtube.com/vi/nOuuF1WAZPg/default.jpg",
+        "SongLink": "https://youtu.be/nOuuF1WAZPg?si=jU7iK9SZbyQtSORq",
+        "ViewCount": "767K views"
+    },
+    {
+        "Name": "August 8, 2024",
         "Artist": "BANG&JUNG&YOO&MOON",
-        "Details": "Album: The EP Album ‘CURTAIN CALL’",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: “Gone”\nAlbum: The EP Album ‘CURTAIN CALL’",
+        "ImageUrl": "https://img.youtube.com/vi/oeCzFt9RFbI/default.jpg",
+        "SongLink": "https://youtu.be/oeCzFt9RFbI?si=Hg2UP0-YaYkVLJTb",
+        "ViewCount": "593K views"
+    },
+    {
+        "Name": "August 8, 2024",
+        "Artist": "MCND ",
+        "Details": "Title Track: ‘아뜨뜨뜨’\nAlbum: Single – 아뜨뜨뜨",
+        "ImageUrl": "https://img.youtube.com/vi/kavuK4ZEMkM/default.jpg",
+        "SongLink": "https://youtu.be/kavuK4ZEMkM?si=NrkMEQbRYLnSviEW",
+        "ViewCount": "31K views"
+    },
+    {
+        "Name": "August 8, 2024",
+        "Artist": "COOING",
+        "Details": " (쿠잉)\nTitle Track: “Summer Kiss”\nAlbum: Single – Summer Kiss",
+        "ImageUrl": "https://img.youtube.com/vi/4zu2OpV-Wfc/default.jpg",
+        "SongLink": "https://youtu.be/4zu2OpV-Wfc?si=UXMd0ocCpsAZgbQQ",
+        "ViewCount": "25K views"
+    },
+    {
+        "Name": "August 8, 2024",
+        "Artist": "Je Hwi",
+        "Details": " (제휘)\nTitle Track: “Dear Moon”\nOST: My Mister OST Part 4",
+        "ImageUrl": "https://img.youtube.com/vi/fJ2VwO88Eno/default.jpg",
+        "SongLink": "https://youtu.be/fJ2VwO88Eno?si=SX5NuEgRTn-2qHv4",
+        "ViewCount": "19K views"
+    },
+    {
+        "Name": "August 8, 2024",
+        "Artist": "Leaven",
+        "Details": " (레븐)\nTitle Track: “Cloud(먹구름)”\nAlbum: Single – Cloud(먹구름)",
+        "ImageUrl": "https://img.youtube.com/vi/60tuwKhf7Y4/default.jpg",
+        "SongLink": "https://youtu.be/60tuwKhf7Y4?si=yNCAG20zRuT6Zyay",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 8, 2024",
+        "Artist": "Joung Su Jin",
+        "Details": " (정수진)\nTitle Track: “약속 Promise”\nAlbum: Single – 약속 Promise",
+        "ImageUrl": "https://img.youtube.com/vi/ewFlLq3usr0/default.jpg",
+        "SongLink": "https://youtu.be/ewFlLq3usr0?si=r6VBorRBe8KDTIxz",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 9, 2024",
+        "Artist": "SOLE",
+        "Details": "Title Track: ‘Still LOVE’\nAlbum: EP – Time Machine",
+        "ImageUrl": "https://img.youtube.com/vi/ThfbpubuNi8/default.jpg",
+        "SongLink": "https://youtu.be/ThfbpubuNi8?si=emqshz_8MguVpdiF",
+        "ViewCount": "504K views"
+    },
+    {
+        "Name": "August 9, 2024",
+        "Artist": "Atlantis Kitsune",
+        "Details": "(아틀란티스 키츠네)\nTitle Track: “Oh My!(어머나!)”\nAlbum: Single – Oh My!",
+        "ImageUrl": "https://img.youtube.com/vi/nh_GAuZNrhU/default.jpg",
+        "SongLink": "https://youtu.be/nh_GAuZNrhU?si=hzZk56FM5yfAs8dA",
+        "ViewCount": "161K views"
+    },
+    {
+        "Name": "August 9, 2024",
+        "Artist": "CHEEZE",
+        "Details": "Title Track: “불꽃, 놀이 (Flames to dust)”\nAlbum: Single – 불꽃, 놀이 (Flames to dust)",
+        "ImageUrl": "https://img.youtube.com/vi/oFIViakgf_s/default.jpg",
+        "SongLink": "https://youtu.be/oFIViakgf_s?si=yF7iaChgqyzxBV6s",
+        "ViewCount": "153K views"
+    },
+    {
+        "Name": "August 9, 2024",
+        "Artist": "Ben",
+        "Details": " (벤)\nTitle Track: “꿈처럼 (Just Like A Dream)”\nOST: Another Miss Oh OST Part 2",
+        "ImageUrl": "https://img.youtube.com/vi/IIQvvi8C7aM/default.jpg",
+        "SongLink": "https://youtu.be/IIQvvi8C7aM?si=J-E2QrLdbJ1ayl21",
+        "ViewCount": "30K views"
+    },
+    {
+        "Name": "August 9, 2024",
+        "Artist": "1CHU",
+        "Details": "(원츄)\nTitle Track: “Date With Me(사귀자)”\nAlbum: Single – Date With Me",
+        "ImageUrl": "https://img.youtube.com/vi/KJPIzrzHOuA/default.jpg",
+        "SongLink": "https://youtu.be/KJPIzrzHOuA?si=ry-3zd2yinr_B2qc",
+        "ViewCount": "18K views"
+    },
+    {
+        "Name": "August 9, 2024",
+        "Artist": "D Na Ade",
+        "Details": "(디나 에이드)\nTitle Track: “Drift Away”\nAlbum: Single – Drift Away",
+        "ImageUrl": "https://img.youtube.com/vi/DW253EkmVWU/default.jpg",
+        "SongLink": "https://youtu.be/DW253EkmVWU?si=rWXKeWRlIQhXtHYU",
+        "ViewCount": "13K views"
+    },
+    {
+        "Name": "August 9, 2024",
+        "Artist": "ShE’s",
+        "Details": "(쉬즈)\nTitle Track: ‘꽃길(Flower Road)’\nAlbum: Single – Flower Road",
+        "ImageUrl": "https://img.youtube.com/vi/BRiUsllFh2c/default.jpg",
+        "SongLink": "https://youtu.be/BRiUsllFh2c?si=iLXhCxmTnBFC1waS",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 9, 2024",
+        "Artist": "TWOJAY, J-Men",
+        "Details": "Title Track: “별이 빛나는 밤 (The Starry Night) (Feat. WÉREMA)”\nAlbum: Don’t know life",
+        "ImageUrl": "https://img.youtube.com/vi/_GVA2C8Me9c/default.jpg",
+        "SongLink": "https://youtu.be/_GVA2C8Me9c?si=L0A5xc7uDOezPMqL",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 9, 2024",
+        "Artist": "Novaspace, SakaZan",
+        "Details": "Title Track: “Without you (Feat.YOUHA)”\nAlbum: Single – Without you (Feat. YOUHA)",
+        "ImageUrl": "https://img.youtube.com/vi/ipg8O-zDeS4/default.jpg",
+        "SongLink": "https://youtu.be/ipg8O-zDeS4?si=QV8XSfH4MPJtm4-A",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 10, 2024",
+        "Artist": "Kim Na Hee",
+        "Details": "Title Track: “Tonight”\nAlbum: Single – Tonight",
+        "ImageUrl": "https://img.youtube.com/vi/jUErLjRDz5s/default.jpg",
+        "SongLink": "https://youtu.be/jUErLjRDz5s?si=nox1xNoc1N7RkcmG",
+        "ViewCount": "212K views"
+    },
+    {
+        "Name": "August 10, 2024",
+        "Artist": "KiMMi",
+        "Details": " (킴미)\nTitle Track: ‘SOMETHING’ 뮤직비디오\nAlbum: Single – SOMETHING",
+        "ImageUrl": "https://img.youtube.com/vi/5HNPjvDyTYs/default.jpg",
+        "SongLink": "https://youtu.be/5HNPjvDyTYs?si=ijFLMzRh6qO0q7PB",
+        "ViewCount": "3K views"
+    },
+    {
+        "Name": "August 10, 2024",
+        "Artist": "Yang Ju Eun",
+        "Details": "(양주은)\nTitle Track: “Beyond the mind(마음과는 반대로)”\nAlbum: EP – Beyond the mind",
+        "ImageUrl": "https://img.youtube.com/vi/LwNPg3e_wN0/default.jpg",
+        "SongLink": "https://youtu.be/LwNPg3e_wN0?si=grBIhgEAtzrhc1bB",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 10, 2024",
+        "Artist": "diego",
+        "Details": " (디에고)\nTitle Track: “나눠쓴 우산 Umbrella”\nAlbum: EP – Fractal",
+        "ImageUrl": "https://img.youtube.com/vi/10DsyOAKhls/default.jpg",
+        "SongLink": "https://youtu.be/10DsyOAKhls?si=FQkmVW7ZEP7ltBxn",
+        "ViewCount": "1K views"
     },
     {
         "Name": "August 12, 2024",
@@ -85,39 +597,47 @@
         "Details": " (프로미스나인)\nAlbum: 3rd Single Album [Supersonic]",
         "ImageUrl": "https://img.youtube.com/vi/0LiQp7y8Wwc/default.jpg",
         "SongLink": "https://youtu.be/0LiQp7y8Wwc",
-        "ViewCount": "15M views"
+        "ViewCount": "16M views"
     },
     {
         "Name": "August 12, 2024",
         "Artist": "HYOLYN",
         "Details": " (효린)\nAlbum: Digital Single “Wait”",
-        "ImageUrl": "https://img.youtube.com/vi/0LiQp7y8Wwc/default.jpg",
-        "SongLink": "https://youtu.be/0LiQp7y8Wwc",
-        "ViewCount": "15M views"
+        "ImageUrl": "https://img.youtube.com/vi/Pl7m-CIFJu4/default.jpg",
+        "SongLink": "https://youtu.be/Pl7m-CIFJu4",
+        "ViewCount": "5M views"
     },
     {
         "Name": "August 14, 2024",
         "Artist": "LUN8",
         "Details": " (루네이트)\nAlbum: 3rd Mini Album ‘AWAKENING’",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/XntjIaDU_nw/default.jpg",
+        "SongLink": "https://youtu.be/XntjIaDU_nw",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 15, 2024",
+        "Artist": "Park Jin Joo",
+        "Details": " (박진주)\nTitle Track: “Victory”\nOST: VICTORY",
+        "ImageUrl": "https://img.youtube.com/vi/LjAWt7APhC4/default.jpg",
+        "SongLink": "https://youtu.be/LjAWt7APhC4?si=AJV1-mE1tT_iMQZo",
+        "ViewCount": "50K views"
     },
     {
         "Name": "August 16, 2024",
         "Artist": "KATSEYE",
         "Details": "June 28: “Debut” MV\nAlbum: EP SIS (Soft Is Strong)",
-        "ImageUrl": "https://img.youtube.com/vi/kd5LJ4r-vEY/default.jpg",
-        "SongLink": "https://youtu.be/kd5LJ4r-vEY",
-        "ViewCount": "11M views"
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@HYBELABELS/videos",
+        "ViewCount": ""
     },
     {
         "Name": "August 19, 2024",
         "Artist": "NMIXX",
         "Details": "Album: 3rd EP “Fe3O4: STICK OUT”",
-        "ImageUrl": "https://img.youtube.com/vi/0LiQp7y8Wwc/default.jpg",
-        "SongLink": "https://youtu.be/0LiQp7y8Wwc",
-        "ViewCount": "15M views"
+        "ImageUrl": "https://img.youtube.com/vi/_Q8Jskeps9w/default.jpg",
+        "SongLink": "https://youtu.be/_Q8Jskeps9w",
+        "ViewCount": "21M views"
     },
     {
         "Name": "August 19, 2024",
@@ -125,54 +645,654 @@
         "Details": " (SHINee)\nAlbum: The 5th Mini Album ‘ETERNAL’",
         "ImageUrl": "https://img.youtube.com/vi/Pl7m-CIFJu4/default.jpg",
         "SongLink": "https://youtu.be/Pl7m-CIFJu4",
-        "ViewCount": "4M views"
+        "ViewCount": "5M views"
     },
     {
         "Name": "August 21, 2024",
         "Artist": "Moon Byul",
-        "Details": " (MAMAMOO)\nAlbum: 1st Full Album Repackage [Starlit of Twinkle]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": " (MAMAMOO)\nTitle Track: ‘내 친구의 친구 얘기인데 (Is This Love?)’\nAlbum: 1st Full Album Repackage [Starlit of Twinkle]",
+        "ImageUrl": "https://img.youtube.com/vi/fle-clOmPXw/default.jpg",
+        "SongLink": "https://youtu.be/fle-clOmPXw?si=Xj-wbyTOk1AcRbgB",
+        "ViewCount": "2M views"
+    },
+    {
+        "Name": "August 21, 2024",
+        "Artist": "YOUNG POSSE ",
+        "Details": "Title Track: ‘ATE THAT’\nAlbum: 3rd EP 〈ATE THAT〉",
+        "ImageUrl": "https://img.youtube.com/vi/wT5UmjgSdLc/default.jpg",
+        "SongLink": "https://youtu.be/wT5UmjgSdLc?si=-EYo0Ps_QVq0vCR-",
+        "ViewCount": "35M views"
+    },
+    {
+        "Name": "August 21, 2024",
+        "Artist": "Gyeongree",
+        "Details": " (경리)\nTitle Track: ‘Cherry’ \nAlbum: First EP ‘Eternal Bloom’",
+        "ImageUrl": "https://img.youtube.com/vi/9AXquLZTWZ4/default.jpg",
+        "SongLink": "https://youtu.be/9AXquLZTWZ4?si=tfguRGvEkIN-0IjO",
+        "ViewCount": "621K views"
+    },
+    {
+        "Name": "August 21, 2024",
+        "Artist": "STAYC",
+        "Details": " (JP)\nTitle Track: “MEOW”\nAlbum: Japan 4th Single “MEOW/Cheeky Icy Thang-Japanese Ver.-“",
+        "ImageUrl": "https://img.youtube.com/vi/b8yjHGQ4hA4/default.jpg",
+        "SongLink": "https://youtu.be/b8yjHGQ4hA4?si=UdZBMGa_K4_4u-R0",
+        "ViewCount": "278K views"
     },
     {
         "Name": "August 21, 2024",
         "Artist": "P1Harmony",
         "Details": " (JP)\nAlbum: Love & P1ece : The Best of P1Harmony",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/g8kDxZReCj4/default.jpg",
+        "SongLink": "https://youtu.be/g8kDxZReCj4",
+        "ViewCount": "551K views"
+    },
+    {
+        "Name": "August 22, 2024",
+        "Artist": "SUNGMIN",
+        "Details": "Title Track: “YO.YO.YO.”\nAlbum: EP – YO.YO.YO.",
+        "ImageUrl": "https://img.youtube.com/vi/adT2SwCkG2Y/default.jpg",
+        "SongLink": "https://youtu.be/adT2SwCkG2Y?si=35U8zi4F-9wBHXFm",
+        "ViewCount": "147K views"
+    },
+    {
+        "Name": "August 22, 2024",
+        "Artist": "Ryu Sujeong ",
+        "Details": "Title Track: ‘White Dress’\nAlbum: Digital Single ‘White Dress’",
+        "ImageUrl": "https://img.youtube.com/vi/xC9hfsh4Psw/default.jpg",
+        "SongLink": "https://youtu.be/xC9hfsh4Psw?si=GUPglauazHkAAiUz",
+        "ViewCount": "630K views"
+    },
+    {
+        "Name": "August 22, 2024",
+        "Artist": "DIAWINGS",
+        "Details": "Title Track: ‘Like a river flow’ ",
+        "ImageUrl": "https://img.youtube.com/vi/7Iiv0Kp_9Pk/default.jpg",
+        "SongLink": "https://youtu.be/7Iiv0Kp_9Pk?si=MrgISpbVCljfaKqE",
+        "ViewCount": "53K views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "NCT DREAM",
+        "Details": "Title Track: ‘Rains in Heaven’\nAlbum: Single – Rains in Heaven",
+        "ImageUrl": "https://img.youtube.com/vi/6s1YRHgytwA/default.jpg",
+        "SongLink": "https://youtu.be/6s1YRHgytwA?si=27j2WRZV3DUUt99c",
+        "ViewCount": "2M views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "KEN",
+        "Details": " (VIXX)\nTitle Track: ‘너에게’\nAlbum: Gift Album [Consolation & Love]",
+        "ImageUrl": "https://img.youtube.com/vi/P4EQ2bsD3Qo/default.jpg",
+        "SongLink": "https://youtu.be/P4EQ2bsD3Qo?si=yceyiKvrQpcpKsm7",
+        "ViewCount": "9K views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "Kim Ho Jeong",
+        "Details": "(김호정)\nTitle Track: “I am firefly(나는 반딧불)”\nOST: Perfect Family OST Part.2",
+        "ImageUrl": "https://img.youtube.com/vi/1OxeLdBUzeE/default.jpg",
+        "SongLink": "https://youtu.be/1OxeLdBUzeE?si=_g9DaQLUdb38wtPc",
+        "ViewCount": "21K views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "Lubless",
+        "Details": " (러블레스)\nTitle Track: “Paint the Night (Prod. GARAM)”\nAlbum: Single – Paint the Night",
+        "ImageUrl": "https://img.youtube.com/vi/cpS4ijmlD7Q/default.jpg",
+        "SongLink": "https://youtu.be/cpS4ijmlD7Q?si=uGqNmvXR0qT09beL",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "KiMMi",
+        "Details": "(킴미)\nTitle Track: “SOMETHING (Vietnamese ver.)”\nAlbum: 1st Single Album (Vietnamese ver.)",
+        "ImageUrl": "https://img.youtube.com/vi/ulL_zUS-qLo/default.jpg",
+        "SongLink": "https://youtu.be/ulL_zUS-qLo?si=SQnyohtZz2cFPciT",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "Today′s Special",
+        "Details": "Title Track: “Into the Hwachae!”\nAlbum: Today’s Special vol.2 – EP",
+        "ImageUrl": "https://img.youtube.com/vi/QmBMTSAp32c/default.jpg",
+        "SongLink": "https://youtu.be/QmBMTSAp32c?si=b98GWTG8eLR_6s6a",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "Candles",
+        "Details": "(캔들즈)\nTitle Track: “ya!”\nAlbum: Single – ya!",
+        "ImageUrl": "https://img.youtube.com/vi/8UehDB3JLYU/default.jpg",
+        "SongLink": "https://youtu.be/8UehDB3JLYU?si=3X3gZ_ymnQ1z2YQk",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "Lee Boram",
+        "Details": "(이보람)\nTitle Track: “Talking to the Moon(달빛 속삭임)”\nOST: Good Partner OST Part.3",
+        "ImageUrl": "https://img.youtube.com/vi/hCRrpssxZlY/default.jpg",
+        "SongLink": "https://youtu.be/hCRrpssxZlY?si=eJqwDPXKAvr30Oit",
+        "ViewCount": "20K views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "6002",
+        "Details": "Title Track: “The Owl’s Dream(부엉이의 꿈)”\nAlbum: The Nights",
+        "ImageUrl": "https://img.youtube.com/vi/VIeTE5fZPJI/default.jpg",
+        "SongLink": "https://youtu.be/VIeTE5fZPJI?si=tf_rOISmP0Pxpu8b",
+        "ViewCount": "611 views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "Waykoh",
+        "Details": "Title Track: “Ups and Downs ft nior”\nAlbum: I.P (inner peace)",
+        "ImageUrl": "https://img.youtube.com/vi/sl3raseCtS4/default.jpg",
+        "SongLink": "https://youtu.be/sl3raseCtS4?si=0ju8SrjQmaJ2h8Rm",
+        "ViewCount": "574 views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "HANYE",
+        "Details": "Title Track: “Sweetheart”\nAlbum: Single – Sweetheart",
+        "ImageUrl": "https://img.youtube.com/vi/ESGlIIFJF-c/default.jpg",
+        "SongLink": "https://youtu.be/ESGlIIFJF-c?si=hHqzD1iZ1Kmr5Jg5",
+        "ViewCount": "3K views"
+    },
+    {
+        "Name": "August 23, 2024",
+        "Artist": "MA.B",
+        "Details": " (GM & Vamp)\nTitle Track: “Flame (Korean version)”\nAlbum: Ma.B Project1",
+        "ImageUrl": "https://img.youtube.com/vi/22gqiehXDAw/default.jpg",
+        "SongLink": "https://youtu.be/22gqiehXDAw?si=8McvpjjJ56Rx-mFR",
+        "ViewCount": "259 views"
+    },
+    {
+        "Name": "August 24, 2024",
+        "Artist": "ParkJiHyeon",
+        "Details": " (박지현)\nTitle Track: “By your side(너의 곁에)”\nOST: DNA OST Part.2",
+        "ImageUrl": "https://img.youtube.com/vi/uehmcihOMN8/default.jpg",
+        "SongLink": "https://youtu.be/uehmcihOMN8?si=CwKmGXJzv6P7xE7u",
+        "ViewCount": "44K views"
+    },
+    {
+        "Name": "August 24, 2024",
+        "Artist": "Seo actor",
+        "Details": " (서액터) \nTitle Track: “Superpower (Feat. J.O.Y)”\nAlbum: Single Album – Superpower",
+        "ImageUrl": "https://img.youtube.com/vi/QFKgLExAS1c/default.jpg",
+        "SongLink": "https://youtu.be/QFKgLExAS1c?si=gw7TyExSn03Jj5JQ",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 25, 2024",
+        "Artist": "Muzie",
+        "Details": " (뮤지)\nTitle Track: “어떤 날이라도 우리 (Any day with you)”\nOST: Love Next Door OST Part 1",
+        "ImageUrl": "https://img.youtube.com/vi/tdqQQEdtvxA/default.jpg",
+        "SongLink": "https://youtu.be/tdqQQEdtvxA?si=J5F88FVvhwwIvXR1",
+        "ViewCount": "75K views"
+    },
+    {
+        "Name": "August 25, 2024",
+        "Artist": "SHIN YONG JAE",
+        "Details": "(신용재) (2F)\nTitle Track: “Under the moon(달 아래)”\nOST: Naver Webtoon Nano Machine OST Part. 2",
+        "ImageUrl": "https://img.youtube.com/vi/hxTN0RMiblw/default.jpg",
+        "SongLink": "https://youtu.be/hxTN0RMiblw?si=F8-iJg0YxHTcQn98",
+        "ViewCount": "9K views"
+    },
+    {
+        "Name": "August 25, 2024",
+        "Artist": "Sam Kim",
+        "Details": " (샘김)\nTitle Track: “Shining you”\nOST: Cinderella at 2am OST Part 2",
+        "ImageUrl": "https://img.youtube.com/vi/unVW8yh8zEQ/default.jpg",
+        "SongLink": "https://youtu.be/unVW8yh8zEQ?si=D53aMN2pTb489QHp",
+        "ViewCount": "15K views"
+    },
+    {
+        "Name": "August 25, 2024",
+        "Artist": "V.O.S",
+        "Details": "Title Track: “Say goodbye for no reason(아무 말 없이 헤어지자)”\nAlbum: Single – Say goodbye for no reason",
+        "ImageUrl": "https://img.youtube.com/vi/6AwHoyXJKvQ/default.jpg",
+        "SongLink": "https://youtu.be/6AwHoyXJKvQ?si=238oNhAFOWyq6Ofe",
+        "ViewCount": "22K views"
+    },
+    {
+        "Name": "August 25, 2024",
+        "Artist": "eJe",
+        "Details": "Title Track: “Finale”\nAlbum: Digital Single [Finale]",
+        "ImageUrl": "https://img.youtube.com/vi/GHoP1-90d48/default.jpg",
+        "SongLink": "https://youtu.be/GHoP1-90d48?si=lV1redal16NNlSKM",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "August 25, 2024",
+        "Artist": "Able",
+        "Details": "(에이블)\nTitle Track: “Alice(앨리스)”\nAlbum: Single Album [Alice]",
+        "ImageUrl": "https://img.youtube.com/vi/tTP_LtPqGjI/default.jpg",
+        "SongLink": "https://youtu.be/tTP_LtPqGjI?si=5uIXFpvg9Len_lvs",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "August 26, 2024",
+        "Artist": "ZEROBASEONE ",
+        "Details": "Title Track: ‘GOOD SO BAD’\nAlbum: The 4th Mini Album ‘𝐂𝐈𝐍𝐄𝐌𝐀 𝐏𝐀𝐑𝐀𝐃𝐈𝐒𝐄’",
+        "ImageUrl": "https://img.youtube.com/vi/V5ACuj_jOnc/default.jpg",
+        "SongLink": "https://youtu.be/V5ACuj_jOnc?si=EggYwXaQ1wOW3LXn",
+        "ViewCount": "35M views"
+    },
+    {
+        "Name": "August 26, 2024",
+        "Artist": "OH MY GIRL ",
+        "Details": "Title Track: ‘Classified’ \nAlbum: 10TH MINI ALBUM [Dreamy Resonance]",
+        "ImageUrl": "https://img.youtube.com/vi/VPg-HtAUeRQ/default.jpg",
+        "SongLink": "https://youtu.be/VPg-HtAUeRQ?si=NXO4XswZcKFy-n0p",
+        "ViewCount": "11M views"
+    },
+    {
+        "Name": "August 26, 2024",
+        "Artist": "JUN. K",
+        "Details": " (2PM) \nTitle Track: “Paint this love”\nAlbum: Digital Single ”Paint this love”",
+        "ImageUrl": "https://img.youtube.com/vi/tT0dZs_IGtM/default.jpg",
+        "SongLink": "https://youtu.be/tT0dZs_IGtM?si=YpSV8g4gw1qCvVZK",
+        "ViewCount": "2M views"
+    },
+    {
+        "Name": "August 26, 2024",
+        "Artist": "JAEHYUN",
+        "Details": " (NCT)\nTitle Track: ‘Smoke’\nAlbum: The 1st Album “J”",
+        "ImageUrl": "https://img.youtube.com/vi/lJGCD3H9xcg/default.jpg",
+        "SongLink": "https://youtu.be/lJGCD3H9xcg?si=2I8hOi73Fbpe7IFv",
+        "ViewCount": "2M views"
+    },
+    {
+        "Name": "August 26, 2024",
+        "Artist": "1000°",
+        "Details": "(천도)\nTitle Track: “So obvious(티 나게)”\nAlbum: Single – So obvious",
+        "ImageUrl": "https://img.youtube.com/vi/tw0AoNvZwFY/default.jpg",
+        "SongLink": "https://youtu.be/tw0AoNvZwFY?si=e1fs0M4YiTGp-5Xu",
+        "ViewCount": "15K views"
+    },
+    {
+        "Name": "August 26, 2024",
+        "Artist": "ADYA",
+        "Details": " (에이디야)\nTitle Track: ‘RIZZ’ \nAlbum: Single – RIZZ",
+        "ImageUrl": "https://img.youtube.com/vi/YiSkz962VUQ/default.jpg",
+        "SongLink": "https://youtu.be/YiSkz962VUQ?si=stCsPp8M5VfqN9CL",
+        "ViewCount": "10K views"
+    },
+    {
+        "Name": "August 26, 2024",
+        "Artist": "SUNGHWI",
+        "Details": "(성휘)\nTitle Track: “Paper Airplane(종이비행기)”\nAlbum: Single Album [Paper Airplane]",
+        "ImageUrl": "https://img.youtube.com/vi/ni52n8dkZJU/default.jpg",
+        "SongLink": "https://youtu.be/ni52n8dkZJU?si=z07YhwFFhNookKpn",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 26, 2024",
+        "Artist": "SHAUN",
+        "Details": " (숀)\nTitle Track: “By Your Side(너의 곁에서)”\nOST: Romance in the House OST Part.3",
+        "ImageUrl": "https://img.youtube.com/vi/8mu_h2B3NII/default.jpg",
+        "SongLink": "https://youtu.be/8mu_h2B3NII?si=7zwSz1kDp8rYEvQP",
+        "ViewCount": "19K views"
+    },
+    {
+        "Name": "August 26, 2024",
+        "Artist": "The Godot",
+        "Details": " (더 고도)\nTitle Track: “Wasting Away”\nAlbum: Single – Wasting Away",
+        "ImageUrl": "https://img.youtube.com/vi/aM6CT2kbgzo/default.jpg",
+        "SongLink": "https://youtu.be/aM6CT2kbgzo?si=Sfk7coXqAVrgm8Gm",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 26, 2024",
+        "Artist": "OHAH",
+        "Details": "(오아)\nTitle Track: “The movie begins when the lights go out”\nAlbum: Single – The movie begins when the lights go out",
+        "ImageUrl": "https://img.youtube.com/vi/1PxMn11Ckgk/default.jpg",
+        "SongLink": "https://youtu.be/1PxMn11Ckgk?si=-37Qj8L6dsXpu1eQ",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 27, 2024",
+        "Artist": "NOWADAYS ",
+        "Details": "Title Track: ‘Why Not?’ \nAlbum: 2nd Single [NOWHERE]",
+        "ImageUrl": "https://img.youtube.com/vi/7bd-RJBSNBE/default.jpg",
+        "SongLink": "https://youtu.be/7bd-RJBSNBE?si=vhjtUSC3baYej1Nh",
+        "ViewCount": "21M views"
+    },
+    {
+        "Name": "August 27, 2024",
+        "Artist": "RESCENE ",
+        "Details": "Title Track: “LOVE ATTACK”\nAlbum: 1st Mini Album [SCENEDROME]",
+        "ImageUrl": "https://img.youtube.com/vi/9XttLI0oH0I/default.jpg",
+        "SongLink": "https://youtu.be/9XttLI0oH0I?si=SDnyW94WNy3YVMWD",
+        "ViewCount": "3M views"
+    },
+    {
+        "Name": "August 27, 2024",
+        "Artist": "Dong Wooseok",
+        "Details": " (동우석)\nTitle Track: “Break”\nOST: Your Honor OST Part.2",
+        "ImageUrl": "https://img.youtube.com/vi/M04WZa3eRXc/default.jpg",
+        "SongLink": "https://youtu.be/M04WZa3eRXc?si=2534A4ppfRiLVyYJ",
+        "ViewCount": "19K views"
+    },
+    {
+        "Name": "August 27, 2024",
+        "Artist": "1O’clock",
+        "Details": " (워너클락)\nTitle Track: “Halo (Feat. 오왼 (Owen))”\nAlbum: Single – Halo Feat. Owen",
+        "ImageUrl": "https://img.youtube.com/vi/nTnL9AEsel0/default.jpg",
+        "SongLink": "https://youtu.be/nTnL9AEsel0?si=86NIj1EFpDLzwLUX",
+        "ViewCount": "6K views"
+    },
+    {
+        "Name": "August 27, 2024",
+        "Artist": "UNXL ",
+        "Details": "(언오피셜)\nTitle Track: “Do I Like You”\nAlbum: Single – Do I Like You",
+        "ImageUrl": "https://img.youtube.com/vi/BOp-2QMSkJQ/default.jpg",
+        "SongLink": "https://youtu.be/BOp-2QMSkJQ?si=aUYCMGS7tVXOeXTZ",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 27, 2024",
+        "Artist": "DEAD CHANT",
+        "Details": "(데드챈트)\nTitle Track: “Hitchhiker under the moon(feat. Kidd King)”\nAlbum: 달밤의 히치하이커 (Hitchhiker under the moon)",
+        "ImageUrl": "https://img.youtube.com/vi/myk3dLvJD6c/default.jpg",
+        "SongLink": "https://youtu.be/myk3dLvJD6c?si=E3Lup4BVAhfCZqY8",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 28, 2024",
+        "Artist": "CHUNG HA",
+        "Details": "Title Track: “알고리즘 (Algorithm)”\nAlbum: Special Digital Single [알고리즘 (Algorithm)]",
+        "ImageUrl": "https://img.youtube.com/vi/dyMDOIMBlmc/default.jpg",
+        "SongLink": "https://youtu.be/dyMDOIMBlmc?si=pFEkiMytg6c4L2it",
+        "ViewCount": "3M views"
+    },
+    {
+        "Name": "August 28, 2024",
+        "Artist": "CHANYEOL",
+        "Details": " (EXO)\nTitle Track: “Black Out”\nAlbum: The 1st Mini Album ‘Black Out’",
+        "ImageUrl": "https://img.youtube.com/vi/YI_AM-mFCNk/default.jpg",
+        "SongLink": "https://youtu.be/YI_AM-mFCNk?si=ci5MCZpF9iYF9VI6",
+        "ViewCount": "1M views"
     },
     {
         "Name": "August 28, 2024",
         "Artist": "Hi-Fi Un!corn ",
         "Details": "Album: 1st ALBUM “FANTASIA”",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/jEp0-aF8Nww/default.jpg",
+        "SongLink": "https://youtu.be/jEp0-aF8Nww",
+        "ViewCount": "4M views"
     },
     {
         "Name": "August 28, 2024",
         "Artist": "IVE",
-        "Details": " (JP)\nAlbum: JAPAN 2nd EP – ALIVE",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": " (JP)\nTitle Track: ‘CRUSH’\nAlbum: JAPAN 2nd EP – ALIVE",
+        "ImageUrl": "https://img.youtube.com/vi/D-geLVTaBAo/default.jpg",
+        "SongLink": "https://youtu.be/D-geLVTaBAo?si=byN2SWYZvc5cJK7R",
+        "ViewCount": "3M views"
+    },
+    {
+        "Name": "August 28, 2024",
+        "Artist": "KIXO",
+        "Details": " (키조)\nTitle Track: “사랑이 죄야? (Love Dilemma Feat. 10CM, B.I)”\nAlbum: Single – LOVE DILEMMA (feat. 10CM & B.I)",
+        "ImageUrl": "https://img.youtube.com/vi/_BdlDFvajLM/default.jpg",
+        "SongLink": "https://youtu.be/_BdlDFvajLM?si=Mqn3Bkmr0n6Xv1ks",
+        "ViewCount": "444K views"
+    },
+    {
+        "Name": "August 28, 2024",
+        "Artist": "AEONIT",
+        "Details": "(이오닛) \nTitle Track: ‘LUMOS’\nAlbum: Single – LUMOS",
+        "ImageUrl": "https://img.youtube.com/vi/0GmL41KuSIY/default.jpg",
+        "SongLink": "https://youtu.be/0GmL41KuSIY?si=pABhez-r9mQz4qvT",
+        "ViewCount": "68K views"
+    },
+    {
+        "Name": "August 28, 2024",
+        "Artist": "DOHANSE",
+        "Details": " (도한세)\nTitle Track: “청야 (靑夜) (Blue Night)”\nAlbum: 2nd EP Album [BLUESSOM]",
+        "ImageUrl": "https://img.youtube.com/vi/Jh_823cJw_w/default.jpg",
+        "SongLink": "https://youtu.be/Jh_823cJw_w?si=k9VUP28PU4jcJjPC",
+        "ViewCount": "15K views"
+    },
+    {
+        "Name": "August 28, 2024",
+        "Artist": "YUNSEOKCHEOL TRIO",
+        "Details": " (윤석철트리오)\nTitle Track: “You and I had seen the same thing”",
+        "ImageUrl": "https://img.youtube.com/vi/2DdcuCkcZPk/default.jpg",
+        "SongLink": "https://youtu.be/2DdcuCkcZPk?si=I2DqNDCk-Xy2G3ha",
+        "ViewCount": "11K views"
+    },
+    {
+        "Name": "August 28, 2024",
+        "Artist": "Plat9",
+        "Details": "(플랏나인)\nTitle Track: “Love at last(너에게 고백할게) (Feat.Kim Yejoon(김예준))”",
+        "ImageUrl": "https://img.youtube.com/vi/G-_17tQqGdI/default.jpg",
+        "SongLink": "https://youtu.be/G-_17tQqGdI?si=7hM8MRpeqaoEtjZu",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 28, 2024",
+        "Artist": "An Nyeong",
+        "Details": " (안녕)\nTitle Track: “The warmth of you(따스하게)”\nAlbum: Single Album [The warmth of you]",
+        "ImageUrl": "https://img.youtube.com/vi/YL07rjwhv3E/default.jpg",
+        "SongLink": "https://youtu.be/YL07rjwhv3E?si=441YroOE2E7vmmYo",
+        "ViewCount": "5K views"
+    },
+    {
+        "Name": "August 28, 2024",
+        "Artist": "Jinwon",
+        "Details": " (진원)\nTitle Track: “니가 아닌 다른 누군가와 사랑할 수 있을까”\nAlbum: Single – 니가 아닌 다른 누군가와 사랑할 수 있을까",
+        "ImageUrl": "https://img.youtube.com/vi/d_xfQy4fNL8/default.jpg",
+        "SongLink": "https://youtu.be/d_xfQy4fNL8?si=PYMfthryJg3aaLZ5",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 29, 2024",
+        "Artist": "BANG YEDAM ",
+        "Details": "Title Track: ‘O-HE’\nAlbum: 2ND MiNi AlBUM 𝙂𝙊𝙊𝘿 𝙑𝙞𝘽𝙀𝙎",
+        "ImageUrl": "https://img.youtube.com/vi/A5fNZOwcDOw/default.jpg",
+        "SongLink": "https://youtu.be/A5fNZOwcDOw?si=nvrAwLuhCkTMBmFL",
+        "ViewCount": "113K views"
+    },
+    {
+        "Name": "August 29, 2024",
+        "Artist": "OVAN",
+        "Details": "(오반)\nTitle Track: “Nightmare(위태로울걸)”\nAlbum: Single – Nightmare",
+        "ImageUrl": "https://img.youtube.com/vi/_spAFBheXeE/default.jpg",
+        "SongLink": "https://youtu.be/_spAFBheXeE?si=ERT-gvOJBppckd2i",
+        "ViewCount": "65K views"
+    },
+    {
+        "Name": "August 29, 2024",
+        "Artist": "Yoon Joon Shin",
+        "Details": " (윤종신)\nTitle Track: “2024 Monthly Yoon August – GAKASRO”\nAlbum: Single – 2024 Monthly Yoon August – GAKASRO",
+        "ImageUrl": "https://img.youtube.com/vi/lsnSAyqvXwA/default.jpg",
+        "SongLink": "https://youtu.be/lsnSAyqvXwA?si=kY-FTSsYIy4D9IaB",
+        "ViewCount": "21K views"
+    },
+    {
+        "Name": "August 29, 2024",
+        "Artist": "IRIS",
+        "Details": " (이리스)\nTitle Track: ‘Destination’\nAlbum: Single – Destination",
+        "ImageUrl": "https://img.youtube.com/vi/LQ_A6tFVdcw/default.jpg",
+        "SongLink": "https://youtu.be/LQ_A6tFVdcw?si=2FGt7Ob9veynf0h2",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "LE SSERAFIM ",
+        "Details": "Title Track: “CRAZY”\nAlbum: 4th Mini Album ‘CRAZY’",
+        "ImageUrl": "https://img.youtube.com/vi/n6B5gQXlB-0/default.jpg",
+        "SongLink": "https://youtu.be/n6B5gQXlB-0?si=C9gGzsY0_VNZ08Y_",
+        "ViewCount": "28M views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "FIFTY FIFTY",
+        "Details": "Album: 2nd Mini Album 𝙇𝙊𝙑𝙀 𝙏𝙐𝙉𝙀",
+        "ImageUrl": "https://img.youtube.com/vi/lzm-7YfBJBU/default.jpg",
+        "SongLink": "https://youtu.be/lzm-7YfBJBU?si=KamO5ze3qEf9fdGj",
+        "ViewCount": "6M views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "CHA EUN-WOO x Peder Elias",
+        "Details": "Title Track: “Hey Hello”",
+        "ImageUrl": "https://img.youtube.com/vi/tO4iu7Xh8Vg/default.jpg",
+        "SongLink": "https://youtu.be/tO4iu7Xh8Vg?si=xBZ99BixpSV1LKsD",
+        "ViewCount": "199K views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "SM Jazz Trio ",
+        "Details": "Title Track: ‘Supernova (Jazz Ver.)’\nAlbum: Single ‘Supernova (Jazz Ver.)’",
+        "ImageUrl": "https://img.youtube.com/vi/HZNrWQmGWLQ/default.jpg",
+        "SongLink": "https://youtu.be/HZNrWQmGWLQ?si=RnqWYV21J-fyTN_z",
+        "ViewCount": "405K views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "HONEYZ ",
+        "Details": "Title Track: ‘Ready 2 Be Loved!’\nAlbum: Single – Ready 2 Be Loved",
+        "ImageUrl": "https://img.youtube.com/vi/Gr8O8fkRPpI/default.jpg",
+        "SongLink": "https://youtu.be/Gr8O8fkRPpI?si=pIENO4B8sIhjSGnZ",
+        "ViewCount": "283K views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "CHO JUNG SEOK",
+        "Details": "(조정석)\nTitle Track: “Champagne(샴페인)”",
+        "ImageUrl": "https://img.youtube.com/vi/ZfGim3f0RDY/default.jpg",
+        "SongLink": "https://youtu.be/ZfGim3f0RDY?si=BEJgONvzL_UkJc4G",
+        "ViewCount": "41K views"
     },
     {
         "Name": "August 30, 2024",
         "Artist": "WEi",
-        "Details": " (위아이)\nAlbum: Digital Single Album [LOVE2YOU]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": " (위아이)\nTitle Track: ‘LOVE2YOU’\nAlbum: Digital Single Album [LOVE2YOU]",
+        "ImageUrl": "https://img.youtube.com/vi/nquPPDu-I9U/default.jpg",
+        "SongLink": "https://youtu.be/nquPPDu-I9U?si=pSKXdoLtZfoaCoz9",
+        "ViewCount": "37K views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "AleXa",
+        "Details": "Title Track: “Joy of Missing Out”\nAlbum: Single – Joy of Missing Out",
+        "ImageUrl": "https://img.youtube.com/vi/tOK5FKH-Bys/default.jpg",
+        "SongLink": "https://youtu.be/tOK5FKH-Bys?si=3vWPQSotFgT27kin",
+        "ViewCount": "35K views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "Song Min Kyung",
+        "Details": " (송민경)\nTitle Track: ‘껐다 켜’ (Turn It Off and On)",
+        "ImageUrl": "https://img.youtube.com/vi/txrS1uO7ncw/default.jpg",
+        "SongLink": "https://youtu.be/txrS1uO7ncw?si=3HLbAxFSHtKlGuw0",
+        "ViewCount": "6K views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "Woody",
+        "Details": " (우디)\nTitle Track: “Always falling down(오래된 일기처럼)”\nOST: Good Partner OST Part.4",
+        "ImageUrl": "https://img.youtube.com/vi/qQr6cYpULSc/default.jpg",
+        "SongLink": "https://youtu.be/qQr6cYpULSc?si=iNjzcHHKHX_lH6j1",
+        "ViewCount": "6K views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "Song Min Kyung",
+        "Details": "(송민경)\nTitle Track: “Turn it off and on(껐다 켜)”\nAlbum: Single Album [Turn it off and on]",
+        "ImageUrl": "https://img.youtube.com/vi/lZArMM4djUI/default.jpg",
+        "SongLink": "https://youtu.be/lZArMM4djUI?si=nAEW1XWktZ139M_4",
+        "ViewCount": "3K views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "OmO",
+        "Details": " (오모)\nTitle Track: “30일 (30days)”\nAlbum: Single – 30 days",
+        "ImageUrl": "https://img.youtube.com/vi/witNYIB0ls0/default.jpg",
+        "SongLink": "https://youtu.be/witNYIB0ls0?si=n76Zy2bT_eKjED2p",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "August 30, 2024",
+        "Artist": "YOON HWAN",
+        "Details": "Title Track: “Something day”\nAlbum: Single Something day",
+        "ImageUrl": "https://img.youtube.com/vi/CnRUwTNn6xc/default.jpg",
+        "SongLink": "https://youtu.be/CnRUwTNn6xc?si=yzUX_9pmaSWQZgG5",
+        "ViewCount": "536 views"
     },
     {
         "Name": "August 31, 2024",
-        "Artist": "ZEROBASEONE",
-        "Details": "LE SSERAFIM\nSoompi",
-        "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1671152wpp/le-sserafim-reported-to-make-august-comeback",
-        "ViewCount": ""
+        "Artist": "FIESTAR",
+        "Details": " (피에스타)\nTitle Track: “You’re pitiful(짠해)”\nAlbum: Single Album [You’re pitiful 2024 ver.]",
+        "ImageUrl": "https://img.youtube.com/vi/lYgUwfCt51k/default.jpg",
+        "SongLink": "https://youtu.be/lYgUwfCt51k?si=hY2yaeEfRMB0nGkr",
+        "ViewCount": "116K views"
+    },
+    {
+        "Name": "August 31, 2024",
+        "Artist": "JINJIN",
+        "Details": "Title Track: ‘이별택배’\nAlbum: JIN LAB Project 5. [이별택배]",
+        "ImageUrl": "https://img.youtube.com/vi/Z6bmVPviW7A/default.jpg",
+        "SongLink": "https://youtu.be/Z6bmVPviW7A?si=PUlCs2dLKB0PgAoM",
+        "ViewCount": "19K views"
+    },
+    {
+        "Name": "August 31, 2024",
+        "Artist": "HA HYUNSANG",
+        "Details": " (하현상)\nTitle Track: “Sailing”\nOST: Cinderella at 2AM OST Pt.3",
+        "ImageUrl": "https://img.youtube.com/vi/xyn2QlK37Bw/default.jpg",
+        "SongLink": "https://youtu.be/xyn2QlK37Bw?si=VXBbNuiOSci7lPuM",
+        "ViewCount": "6K views"
+    },
+    {
+        "Name": "August 31, 2024",
+        "Artist": "Jimmy Brown",
+        "Details": " (지미 브라운)\nTitle Track: “Aroha”\nOST: Beauty and Romantic OST Pt.24",
+        "ImageUrl": "https://img.youtube.com/vi/XDCn6-8BAxI/default.jpg",
+        "SongLink": "https://youtu.be/XDCn6-8BAxI?si=hfAt_XsZ47joNlMV",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 31, 2024",
+        "Artist": "HWISEO",
+        "Details": " (H1-KEY)\nTitle Track: “Starshine”\nOST: DNA Lover OST Part.3",
+        "ImageUrl": "https://img.youtube.com/vi/3-Ex5XItT5I/default.jpg",
+        "SongLink": "https://youtu.be/3-Ex5XItT5I?si=7fgsDnVpheHh6aO5",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 31, 2024",
+        "Artist": "Moon Geontak",
+        "Details": " (문건탁)\nTitle Track: “외로이 빛나는 별 (Lonely Star)”\nAlbum: SIngle Lonely Star",
+        "ImageUrl": "https://img.youtube.com/vi/dMJr3xSjZRI/default.jpg",
+        "SongLink": "https://youtu.be/dMJr3xSjZRI?si=xYDH3zSXHlSYWqvi",
+        "ViewCount": "3K views"
+    },
+    {
+        "Name": "August 31, 2024",
+        "Artist": "My Story",
+        "Details": " (내 얘기)\nTitle Track: “축가 (Love Song)”\nAlbum: Single – Love Song",
+        "ImageUrl": "https://img.youtube.com/vi/GBYfo4_qLpo/default.jpg",
+        "SongLink": "https://youtu.be/GBYfo4_qLpo?si=3KSOiIZgNedm7_4d",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "August 31, 2024",
+        "Artist": "LMST ",
+        "Details": "Title Track: ‘Satellite’\nAlbum: Single – Satellite",
+        "ImageUrl": "https://img.youtube.com/vi/Qlyaw4PqKSs/default.jpg",
+        "SongLink": "https://youtu.be/Qlyaw4PqKSs?si=zGwWHLIKBYHCxtfb",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "August 31, 2024",
+        "Artist": "ChungSeul",
+        "Details": "(청슬)\nTitle Track: “Heaving Sea(너울)”\nAlbum: Single – Heaving Sea",
+        "ImageUrl": "https://img.youtube.com/vi/V1LgL3fVcDU/default.jpg",
+        "SongLink": "https://youtu.be/V1LgL3fVcDU?si=knYxtG0BpWEQadkp",
+        "ViewCount": "534 views"
     }
 ]
