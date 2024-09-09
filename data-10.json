@@ -1,10 +1,18 @@
 [
     {
-        "Name": "october",
-        "Artist": "No data yet",
-        "Details": "No data yet",
+        "Name": "October 4, 2024",
+        "Artist": "ASC2NT",
+        "Details": " (어센트)\nAlbum: 2nd Single Album 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐏𝐀𝐑𝐓.𝟏",
         "ImageUrl": "white.png",
-        "SongLink": "",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 31, 2024",
+        "Artist": "JENNIE (BLACKPINK)",
+        "Details": "Soompi",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.soompi.com/article/1686966wpp/blackpinks-jennie-to-make-october-comeback-after-signing-solo-deal-with-columbia-records",
         "ViewCount": ""
     }
 ]
