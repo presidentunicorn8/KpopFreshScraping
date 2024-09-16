@@ -50,7 +50,7 @@
     {
         "Name": "October 14, 2024",
         "Artist": "SEVENTEEN",
-        "Details": "Album: 12th Mini Album",
+        "Details": "Album: 12th Mini Album ‘SPILL THE FEELS’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -58,7 +58,7 @@
     {
         "Name": "October 15, 2024",
         "Artist": "ITZY",
-        "Details": "Album: GOLD",
+        "Details": "Title Track: “GOLD”; “Imaginary Friend”\nAlbum: GOLD",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -67,6 +67,14 @@
         "Name": "October 15, 2024",
         "Artist": "82MAJOR",
         "Details": "Album: 2ND MINI ALBUM [X-82]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 21, 2024",
+        "Artist": "POW",
+        "Details": "October 21: 2nd EP Album",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -90,7 +98,7 @@
     {
         "Name": "October 31, 2024",
         "Artist": "JENNIE (BLACKPINK)",
-        "Details": "Soompi\nSTAYC\nKISS OF LIFE\nPOW\nOctober: EP Album\nILLIT",
+        "Details": "Soompi\nSTAYC\nKISS OF LIFE\nILLIT",
         "ImageUrl": "https://img.youtube.com/vi/oRU9uGY93uY/default.jpg",
         "SongLink": "https://youtu.be/oRU9uGY93uY?si=wgZrT2H3ZMiy8LmS",
         "ViewCount": "16K views"
