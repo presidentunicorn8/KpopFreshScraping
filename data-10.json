@@ -1,5 +1,13 @@
 [
     {
+        "Name": "October 1, 2024",
+        "Artist": "DUSTIN",
+        "Details": " (더스틴)\nAlbum: 4th Album ",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 2, 2024",
         "Artist": "ATEEZ",
         "Details": " (JP)\nAlbum: JAPAN 4TH SINGLE「Birthday」",
@@ -19,6 +27,22 @@
         "Name": "October 4, 2024",
         "Artist": "WOOSUNG",
         "Details": "[4444]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 7, 2024",
+        "Artist": "LEE MU JIN",
+        "Details": " (이무진)\nAlbum: The 2nd Mini Album ‘만화 (滿花)’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 9, 2024",
+        "Artist": "NOMAD",
+        "Details": "Album: 1st Single Album “Call Me Back”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
