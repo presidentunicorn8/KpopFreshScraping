@@ -2,7 +2,15 @@
     {
         "Name": "October 1, 2024",
         "Artist": "DUSTIN",
-        "Details": " (더스틴)\nAlbum: 4th Album ",
+        "Details": " (더스틴)\nAlbum: 4th Album [Round A Round]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 2, 2024",
+        "Artist": "LEECHANGSUB",
+        "Details": "Album: 1ST ALBUM <1991>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -40,6 +48,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "October 4, 2024",
+        "Artist": "Min Jiwoon",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "October 7, 2024",
         "Artist": "LEE MU JIN",
         "Details": " (이무진)\nAlbum: The 2nd Mini Album ‘만화 (滿花)’",
@@ -50,7 +66,15 @@
     {
         "Name": "October 7, 2024",
         "Artist": "The Wind",
-        "Details": " (더윈드)\nAlbum: 3rd Mini Album ‘Hello : My First Love’",
+        "Details": " (더윈드)\nTitle Track: “반가워, 나의 첫사랑”\nAlbum: 3rd Mini Album ‘Hello : My First Love’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 7, 2024",
+        "Artist": "Yoon Seobin",
+        "Details": " (윤서빈)\nAlbum: Digital Single <Rizz>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -66,7 +90,7 @@
     {
         "Name": "October 9, 2024",
         "Artist": "NOMAD",
-        "Details": "Album: 1st Single Album “Call Me Back”",
+        "Details": "Title Track: “Call Me Back”\nAlbum: 1st Single Album “Call Me Back”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -89,8 +113,32 @@
     },
     {
         "Name": "October 10, 2024",
+        "Artist": "AB6IX",
+        "Details": "Album: 9TH EP  ‘BORN LIKE THIS’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 10, 2024",
+        "Artist": "BEWAVE",
+        "Details": " (비웨이브)\nAlbum: 1st Single Album ‘Be your Wave’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 10, 2024",
         "Artist": "SooYoung",
         "Details": " (JP)\nAlbum: JAPAN Solo Debut Single 『Unstoppable』",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 12, 2024",
+        "Artist": "JD1",
+        "Details": "Album: 3rd Digital Single Album \n[책임져]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -99,6 +147,14 @@
         "Name": "October 14, 2024",
         "Artist": "SEVENTEEN",
         "Details": "Album: 12th Mini Album ‘SPILL THE FEELS’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 14, 2024",
+        "Artist": "CNBLUE ",
+        "Details": "Album: 10TH MINI ALBUM [X]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -115,6 +171,22 @@
         "Name": "October 15, 2024",
         "Artist": "82MAJOR",
         "Details": "Album: 2ND MINI ALBUM [X-82]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 21, 2024",
+        "Artist": "aespa",
+        "Details": " (에스파)\nAlbum: The 5th Mini Album 〖Whiplash〗",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 21, 2024",
+        "Artist": "ILLIT",
+        "Details": "Album: 2nd Mini Album – I’LL LIKE YOU (GLLIT ver.)",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -138,7 +210,7 @@
     {
         "Name": "October 31, 2024",
         "Artist": "JENNIE (BLACKPINK)",
-        "Details": "Soompi\nSTAYC\nKISS OF LIFE\nILLIT",
+        "Details": "Soompi\nSTAYC\nKISS OF LIFE",
         "ImageUrl": "https://img.youtube.com/vi/oRU9uGY93uY/default.jpg",
         "SongLink": "https://youtu.be/oRU9uGY93uY?si=wgZrT2H3ZMiy8LmS",
         "ViewCount": "17K views"
