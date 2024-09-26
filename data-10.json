@@ -33,6 +33,14 @@
     },
     {
         "Name": "October 4, 2024",
+        "Artist": "KISS OF LIFE",
+        "Details": "Album: 3rd Mini Album [Lose Yourself]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 4, 2024",
         "Artist": "ASC2NT",
         "Details": " (어센트)\nAlbum: 2nd Single Album 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐏𝐀𝐑𝐓.𝟏",
         "ImageUrl": "white.png",
@@ -177,8 +185,24 @@
     },
     {
         "Name": "October 15, 2024",
+        "Artist": "KISS OF LIFE",
+        "Details": "Album: 3rd Mini Album [Lose Yourself]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 15, 2024",
         "Artist": "82MAJOR",
         "Details": "Album: 2ND MINI ALBUM [X-82]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 16, 2024",
+        "Artist": "SAYMYNAME",
+        "Details": " (세이마이네임)\n‘𝙎𝘼𝙔𝙈𝙔𝙉𝘼𝙈𝙀’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -190,6 +214,14 @@
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
+    },
+    {
+        "Name": "October 18, 2024",
+        "Artist": "sunwoojunga",
+        "Details": "Album: Album ‘너머 (Beyond) [2. White Shade]’\nInstagram",
+        "ImageUrl": "https://img.youtube.com/vi/JqVT20oLo0A/default.jpg",
+        "SongLink": "https://www.instagram.com/sunwoojunga_official",
+        "ViewCount": "5K views"
     },
     {
         "Name": "October 21, 2024",
@@ -226,7 +258,7 @@
     {
         "Name": "October 31, 2024",
         "Artist": "JENNIE (BLACKPINK)",
-        "Details": "Soompi\nSTAYC\nKISS OF LIFE",
+        "Details": "Soompi\nSTAYC",
         "ImageUrl": "https://img.youtube.com/vi/oRU9uGY93uY/default.jpg",
         "SongLink": "https://youtu.be/oRU9uGY93uY?si=wgZrT2H3ZMiy8LmS",
         "ViewCount": "17K views"
