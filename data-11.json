@@ -1,10 +1,42 @@
 [
     {
-        "Name": "november",
-        "Artist": "No data yet",
-        "Details": "No data yet",
+        "Name": "November 6, 2024",
+        "Artist": "MISAMO",
+        "Details": " (TWICE JP)\nAlbum: JAPAN 2nd MINI ALBUM 『HAUTE COUTURE』",
         "ImageUrl": "white.png",
-        "SongLink": "",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 11, 2024",
+        "Artist": "YUTA",
+        "Details": " (NCT/JP)\nAlbum: The 1st Mini Album ’Depth’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 13, 2024",
+        "Artist": "Stray Kids",
+        "Details": " (JP)\nAlbum: JAPAN 2nd Album『GIANT』",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 13, 2024",
+        "Artist": "OMEGA X",
+        "Details": " (JP)\nAlbum: Japan 2nd Mini Album 「To.」",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 30, 2024",
+        "Artist": "TXT",
+        "Details": "Class:y",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     }
 ]
