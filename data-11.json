@@ -40,6 +40,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "November 5, 2024",
+        "Artist": "YESUNG",
+        "Details": " (Super Junior)\nAlbum: The 6th Mini Album – It’s Complicated",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "November 6, 2024",
         "Artist": "MISAMO",
         "Details": " (TWICE JP)\nTitle Track: “New Look”\nAlbum: JAPAN 2nd MINI ALBUM 『HAUTE COUTURE』",
@@ -59,6 +67,14 @@
         "Name": "November 11, 2024",
         "Artist": "ENHYPEN ",
         "Details": "Album: ROMANCE: UNTOLD -daydream-",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 11, 2024",
+        "Artist": "NCT DREAM",
+        "Details": "Album: DREAMSCAPE",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -89,6 +105,14 @@
     },
     {
         "Name": "November 13, 2024",
+        "Artist": "STAYC",
+        "Details": " (JP)\nAlbum: Japan 5th Double A Side Single 『GPT -Japanese Ver.- / Tell Me Now』",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 13, 2024",
         "Artist": "OMEGA X",
         "Details": " (JP)\nAlbum: Japan 2nd Mini Album 「To.」",
         "ImageUrl": "white.png",
@@ -96,9 +120,17 @@
         "ViewCount": ""
     },
     {
+        "Name": "November 14, 2024",
+        "Artist": "PRIMROSE",
+        "Details": "Album: 3rd Mini Album [Steal Heart]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "November 15, 2024",
         "Artist": "JIN",
-        "Details": " (BTS)\nAlbum: 1st Album – Happy",
+        "Details": " (BTS)\nTitle Track: “Running Wild”\nAlbum: 1st Album – Happy",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
