@@ -2,7 +2,7 @@
     {
         "Name": "November 1, 2024",
         "Artist": "BABYMONSTER",
-        "Details": "Title Track: “DRIP”\nAlbum: 1st FULL ALBUM [DRIP]",
+        "Details": "Title Track: “DRIP”; “CLICK CLACK”\nAlbum: 1st FULL ALBUM [DRIP]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -131,6 +131,14 @@
         "Name": "November 13, 2024",
         "Artist": "OMEGA X",
         "Details": " (JP)\nAlbum: Japan 2nd Mini Album 「To.」",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 14, 2024",
+        "Artist": "CLASS:y",
+        "Details": " (클라씨)\nLove XX",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
