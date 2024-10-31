@@ -81,6 +81,14 @@
     },
     {
         "Name": "November 6, 2024",
+        "Artist": "Heize",
+        "Details": "Title Track: “FALLIN’”\nAlbum: The 9th Mini Album [FALLIN’]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 6, 2024",
         "Artist": "MISAMO",
         "Details": " (TWICE JP)\nTitle Track: “New Look”\nAlbum: JAPAN 2nd MINI ALBUM 『HAUTE COUTURE』",
         "ImageUrl": "https://img.youtube.com/vi/FJWLj1-kGC0/default.jpg",
@@ -115,6 +123,14 @@
         "Name": "November 11, 2024",
         "Artist": "YUTA",
         "Details": " (NCT/JP)\nAlbum: The 1st Mini Album ’Depth’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 11, 2024",
+        "Artist": "KAVE ",
+        "Details": "Album: The 2nd EP ‘Say My Name’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
