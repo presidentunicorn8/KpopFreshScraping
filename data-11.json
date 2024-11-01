@@ -3,16 +3,16 @@
         "Name": "November 1, 2024",
         "Artist": "BABYMONSTER",
         "Details": "Title Track: “DRIP”; “CLICK CLACK”\nAlbum: 1st FULL ALBUM [DRIP]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/o0oW3lPoOXM/default.jpg",
+        "SongLink": "https://youtu.be/o0oW3lPoOXM?si=q-BovKuLMfDqdrpn",
+        "ViewCount": "19M views"
     },
     {
         "Name": "November 1, 2024",
         "Artist": "Kep1er",
-        "Details": "Album: The 6th Mini Album <TIPI-TAP>",
+        "Details": "Title Track: ‘TIPI-TAP’\nAlbum: The 6th Mini Album <TIPI-TAP>",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@Kep1er_Offcl/videos",
         "ViewCount": ""
     },
     {
@@ -20,15 +20,15 @@
         "Artist": "ODD YOUTH",
         "Details": "Title Track: “THAT’S ME”\nAlbum: Debut Single [ Best Friendz ]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@TOPmediaStar/videos",
         "ViewCount": ""
     },
     {
         "Name": "November 4, 2024",
         "Artist": "TOMORROW X TOGETHER",
-        "Details": " (TXT)\nAlbum: 7th Mini Album – \nThe Star Chapter: SANCTUARY",
+        "Details": " (TXT)\nTitle Track: ‘Over The Moon’\nAlbum: 7th Mini Album – \nThe Star Chapter: SANCTUARY",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@HYBELABELS/videos",
         "ViewCount": ""
     },
     {
@@ -67,6 +67,14 @@
         "Name": "November 5, 2024",
         "Artist": "ToTh6y",
         "Details": "1st Project ‘𝑾𝑶𝑳𝑭’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 5, 2024",
+        "Artist": "THE FIX",
+        "Details": " (더 픽스)\nAlbum: 3rd Digital Single [TiCKi-TA]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -161,8 +169,8 @@
     },
     {
         "Name": "November 14, 2024",
-        "Artist": "CLASS:y",
-        "Details": " (클라씨)\nLove XX",
+        "Artist": "Yves",
+        "Details": "(이브) \nAlbum: 2nd EP [I Did]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -195,6 +203,14 @@
         "Name": "November 15, 2024",
         "Artist": "ATEEZ",
         "Details": "Album: 11TH MINI ALBUM [GOLDEN HOUR : Part.2]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 15, 2024",
+        "Artist": "CLASS:y",
+        "Details": " (클라씨)\nAlbum: 3RD MINI ALBUM [𝗟𝗢𝗩𝗘 𝗫𝗫]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
