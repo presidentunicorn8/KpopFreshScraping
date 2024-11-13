@@ -1,5 +1,13 @@
 [
     {
+        "Name": "December 3, 2024",
+        "Artist": "NINE.i",
+        "Details": " (JP)\nJAPAN 1st SINGLE 『蜃気楼』",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "December 5, 2024",
         "Artist": "CRAVITY",
         "Details": "Album: Single Album ‘FIND THE ORBIT’",
@@ -13,7 +21,7 @@
         "Details": " (BLACKPINK)\nOctober 18: ROSÉ x Bruno Mars “APT.”\nAlbum: 1st Studio Album – rosie",
         "ImageUrl": "https://img.youtube.com/vi/ekr2nIex040/default.jpg",
         "SongLink": "https://youtu.be/ekr2nIex040?si=SRDPaMeNg-AB4SWv",
-        "ViewCount": "322M views"
+        "ViewCount": "329M views"
     },
     {
         "Name": "December 6, 2024",
@@ -43,6 +51,14 @@
         "Name": "December 11, 2024",
         "Artist": "LE SSERAFIM",
         "Details": " (JP)\n3rd SG ‘CRAZY’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 11, 2024",
+        "Artist": "ORβIT",
+        "Details": "Album: 5th Single ‘Xmas-time’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
