@@ -29,7 +29,7 @@
         "Details": " (BLACKPINK)\nOctober 18: ROSÉ x Bruno Mars “APT.”\nAlbum: 1st Studio Album – rosie",
         "ImageUrl": "https://img.youtube.com/vi/ekr2nIex040/default.jpg",
         "SongLink": "https://youtu.be/ekr2nIex040?si=SRDPaMeNg-AB4SWv",
-        "ViewCount": "387M views"
+        "ViewCount": "394M views"
     },
     {
         "Name": "December 6, 2024",
@@ -67,6 +67,14 @@
         "Name": "December 11, 2024",
         "Artist": "ORβIT",
         "Details": "Album: 5th Single ‘Xmas-time’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 13, 2024",
+        "Artist": "Stray Kids",
+        "Details": "(스트레이 키즈)\n“合 (HOP)”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
