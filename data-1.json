@@ -1,10 +1,18 @@
 [
     {
-        "Name": "january",
-        "Artist": "No data yet",
-        "Details": "No data yet",
+        "Name": "January 6, 2025",
+        "Artist": "GFRIEND ",
+        "Details": "Album: Special Album <Season of Memories>",
         "ImageUrl": "white.png",
-        "SongLink": "",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "January 13, 2025",
+        "Artist": "GFRIEND ",
+        "Details": "Album: Special Album <Season of Memories>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     }
 ]
