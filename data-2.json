@@ -1,10 +1,178 @@
 [
     {
-        "Name": "february",
-        "Artist": "No data yet",
-        "Details": "No data yet",
+        "Name": "February 2, 2025",
+        "Artist": "D82",
+        "Details": "Title Track: “Vinasse”",
         "ImageUrl": "white.png",
-        "SongLink": "",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 2, 2025",
+        "Artist": "NTX",
+        "Details": "Title Track: “POP POP (Feat. Chrich)”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 3, 2025",
+        "Artist": "IVE",
+        "Details": "Title Track: “ATTITUDE”\nAlbum: THE 3rd EP < 𝐼𝑉𝐸 𝐸𝑀𝑃𝐴𝑇𝐻𝑌 >",
+        "ImageUrl": "https://img.youtube.com/vi/g36q0ZLvygQ/default.jpg",
+        "SongLink": "https://youtu.be/g36q0ZLvygQ?si=_TitTUyKAPrlaEV2",
+        "ViewCount": "20M views"
+    },
+    {
+        "Name": "February 3, 2025",
+        "Artist": "PLAVE ",
+        "Details": "Album: 3rd Mini Album ‘Caligo Pt.1’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 4, 2025",
+        "Artist": "ALL(H)OURS ",
+        "Details": "Album: 3rd MINI ALBUM [Smoke Point]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 5, 2025",
+        "Artist": "RESCENE ",
+        "Details": "Album: 2nd Mini Album [Glow Up]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 5, 2025",
+        "Artist": "NiziU",
+        "Details": " (니쥬) (JP)\nAlbum: 1st Mini Album “AWAKE”",
+        "ImageUrl": "https://img.youtube.com/vi/N1qWetE4AV4/default.jpg",
+        "SongLink": "https://youtu.be/N1qWetE4AV4?si=ZjHl3V5nYkuABzED",
+        "ViewCount": "2M views"
+    },
+    {
+        "Name": "February 5, 2025",
+        "Artist": "Moon Byul ",
+        "Details": "(JP)\nTitle Track: “ほしあかり”\nAlbum: Japan Debut Single [Aurora]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 7, 2025",
+        "Artist": "LISA",
+        "Details": " (BLACKPINK)\nAlbum: ALTER EGO",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 10, 2025",
+        "Artist": "EVNNE",
+        "Details": " \nTitle Track: “HOT MESS”\nAlbum: 4th MINI ALBUM  [HOT MESS]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 12, 2025",
+        "Artist": "CHUNG HA",
+        "Details": " (청하)\nAlbum: EP Album [Alivio]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 12, 2025",
+        "Artist": "JUST B",
+        "Details": "Digital Single [ ” ]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 14, 2025",
+        "Artist": "JISOO",
+        "Details": " (BLACKPINK)\nAlbum: MINI ALBUM [AMORTAGE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 14, 2025",
+        "Artist": "ONE PACT",
+        "Details": " (원팩트)\nAlbum: 3rd Mini Album ‘PINK CRUSH’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 14, 2025",
+        "Artist": "I:MOND",
+        "Details": "Album: 1st Mini Album [Under My]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 14, 2025",
+        "Artist": "MΛDEIN",
+        "Details": "Album: ‘MADEIN FOREVER’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 14, 2025",
+        "Artist": "ILLIT",
+        "Details": " (JP)\nJapan 1st Digital Single ‘Almond Chocolate’\nOST: \nIt Takes More Than a Pretty Face to Fall in Love\n (顔だけじゃ好きになりません)\nILLIT Japan Website",
+        "ImageUrl": "white.png",
+        "SongLink": "https://illit-official.jp/news/f172c22fa72d",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 18, 2025",
+        "Artist": "ONF",
+        "Details": " (온앤오프)\nAlbum: THE 2ND ALBUM PART.1 [ONF:MY IDENTITY]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 18, 2025",
+        "Artist": "XODIAC",
+        "Details": "Title Track: “TIME 2 SHINE”\nAlbum: 3RD SINGLE ALBUM – [𝐆𝐋𝐎𝐖𝐘 𝐃𝐀𝐘]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 24, 2025",
+        "Artist": "ZEROBASEONE ",
+        "Details": "February 24: 5th Mini Album",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 24, 2025",
+        "Artist": "Hearts2Hearts",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 28, 2025",
+        "Artist": "LISA",
+        "Details": " (BLACKPINK)\nAlbum: ALTER EGO",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     }
 ]

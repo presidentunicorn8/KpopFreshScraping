@@ -1,74 +1,514 @@
 [
     {
-        "Name": "January 6, 2025",
-        "Artist": "GFRIEND ",
-        "Details": "Album: Special Album <Season of Memories>",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Name": "January 1, 2025",
+        "Artist": "OVAN",
+        "Details": "(오반), \nJoosiq\n(주시크), \nLUNCH\n(런치), \nPIANO MAN\n(피아노맨), \nIm Soo\n(임수), \nKim Chang Woon\n(김창운)\nTitle Track: “The Year(연)”",
+        "ImageUrl": "https://img.youtube.com/vi/AjVc9jd-P2A/default.jpg",
+        "SongLink": "https://youtu.be/AjVc9jd-P2A?si=IGSur-hRoIipRUEo",
+        "ViewCount": "43K views"
+    },
+    {
+        "Name": "January 1, 2025",
+        "Artist": "Chae Won Bin",
+        "Details": "(채원빈)\nTitle Track: “Day with good feeling”\nOST: Who Is She OST Part.4",
+        "ImageUrl": "https://img.youtube.com/vi/iGd8n9Mp0tU/default.jpg",
+        "SongLink": "https://youtu.be/iGd8n9Mp0tU?si=oejFep_MYkIRxeav",
+        "ViewCount": "10K views"
+    },
+    {
+        "Name": "January 1, 2025",
+        "Artist": "Yoo Jin-Woo",
+        "Details": " (유진우)\nTitle Track: “난 행복해 I’m Happy”\nOST: Namib",
+        "ImageUrl": "https://img.youtube.com/vi/_3EfRXiC_oQ/default.jpg",
+        "SongLink": "https://youtu.be/_3EfRXiC_oQ?si=l2trthrVHas2Pcpg",
+        "ViewCount": "13K views"
+    },
+    {
+        "Name": "January 1, 2025",
+        "Artist": "Hong Ye-seong",
+        "Details": " (홍예성)\nTitle Track: “그물”\nAlbum: EP – 그물",
+        "ImageUrl": "https://img.youtube.com/vi/izqSWJXokes/default.jpg",
+        "SongLink": "https://youtu.be/izqSWJXokes?si=6ocdrVLnx0TbXFKs",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "January 1, 2025",
+        "Artist": "HONG SEOKMIN",
+        "Details": " (홍석민)\nTitle Track: “Be Your Man”",
+        "ImageUrl": "https://img.youtube.com/vi/_KSL74j_S9Y/default.jpg",
+        "SongLink": "https://youtu.be/_KSL74j_S9Y?si=OmLHwIj8EbOu5n3k",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "January 2, 2025",
+        "Artist": "RichRich",
+        "Details": "(리치리치)\nTitle Track: “Orange(오렌지)”",
+        "ImageUrl": "https://img.youtube.com/vi/l7VJhzFJUdM/default.jpg",
+        "SongLink": "https://youtu.be/l7VJhzFJUdM?si=WIVkitxFqjB9y9UF",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "January 2, 2025",
+        "Artist": "mcboil",
+        "Details": " (맥보일)\nTitle Track: “Poor Things”",
+        "ImageUrl": "https://img.youtube.com/vi/rJW8KZXck70/default.jpg",
+        "SongLink": "https://youtu.be/rJW8KZXck70?si=G_mvMbHDzsD_blu8",
+        "ViewCount": "985 views"
+    },
+    {
+        "Name": "January 3, 2025",
+        "Artist": "Out Of Place",
+        "Details": " (아웃 오브 플레이스)\nTitle Track: “그 겨울 (The Winter)”",
+        "ImageUrl": "https://img.youtube.com/vi/sCFNdTRo59k/default.jpg",
+        "SongLink": "https://youtu.be/sCFNdTRo59k?si=61c0ZQt1UFuPrmLm",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "January 3, 2025",
+        "Artist": "Ellie Lee",
+        "Details": " (이승형)\nTitle Track: ‘주 나의 모든 것 (Father, My Everything) (Feat. 이미쉘)‘",
+        "ImageUrl": "https://img.youtube.com/vi/DVWFBnp8TwU/default.jpg",
+        "SongLink": "https://youtu.be/DVWFBnp8TwU?si=tWxG3N_nZx_COW0_",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "January 3, 2025",
+        "Artist": "weloveproof",
+        "Details": "Title Track: “I Can Look Really Fine Sometimes”\nAlbum: Single – I Can Look Really Fine Sometimes",
+        "ImageUrl": "https://img.youtube.com/vi/QuPrXPXcNVk/default.jpg",
+        "SongLink": "https://youtu.be/QuPrXPXcNVk?si=cZ0St42AlPYVSXp1",
+        "ViewCount": "824 views"
+    },
+    {
+        "Name": "January 3, 2025",
+        "Artist": "Keepro, SUZNN",
+        "Details": "Title Track: “한바탕(한밭Time)”",
+        "ImageUrl": "https://img.youtube.com/vi/InKR0xC0jtE/default.jpg",
+        "SongLink": "https://youtu.be/InKR0xC0jtE?si=cPjQqqLEtd0O9ldc",
+        "ViewCount": "583 views"
+    },
+    {
+        "Name": "January 4, 2025",
+        "Artist": "M.O.N.T ",
+        "Details": "Title Track: ‘어딘가로 (OMW)’\nAlbum: 5th MINI ALBUM ‘Somewhere Out There’",
+        "ImageUrl": "https://img.youtube.com/vi/5OS5_KXxvnY/default.jpg",
+        "SongLink": "https://youtu.be/5OS5_KXxvnY?si=2V2r3tJRMBPb7GzL",
+        "ViewCount": "28K views"
+    },
+    {
+        "Name": "January 4, 2025",
+        "Artist": "Ari K",
+        "Details": "Title Track: “In the Wake of Losing You(널 잃은 후에)”",
+        "ImageUrl": "https://img.youtube.com/vi/bEcHeYx2m7g/default.jpg",
+        "SongLink": "https://youtu.be/bEcHeYx2m7g?si=UHROEp7Ss7WaYSnE",
+        "ViewCount": "18K views"
+    },
+    {
+        "Name": "January 5, 2025",
+        "Artist": "JUST B",
+        "Details": "Digital Single [Still I Luv You]",
+        "ImageUrl": "https://img.youtube.com/vi/CIPxgin0hxg/default.jpg",
+        "SongLink": "https://youtu.be/CIPxgin0hxg?si=g7r1qqp5UqsEjj4N",
+        "ViewCount": "25K views"
     },
     {
         "Name": "January 6, 2025",
         "Artist": "BOYNEXTDOOR",
-        "Details": "Album: 1st Digital Single [오늘만 I LOVE YOU]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: ‘오늘만 I LOVE YOU’\nAlbum: 1st Digital Single [오늘만 I LOVE YOU]",
+        "ImageUrl": "https://img.youtube.com/vi/B4mLKcVIERs/default.jpg",
+        "SongLink": "https://youtu.be/B4mLKcVIERs?si=6fc94TPQx3LWTK06",
+        "ViewCount": "33M views"
+    },
+    {
+        "Name": "January 6, 2025",
+        "Artist": "KickFlip",
+        "Details": "(킥플립)\nAlbum: The 1st Mini Album “Flip it, Kick it!”",
+        "ImageUrl": "https://img.youtube.com/vi/L__ITOj-g8E/default.jpg",
+        "SongLink": "https://youtu.be/L__ITOj-g8E?si=_RbwiwK7qonVIjwb",
+        "ViewCount": "14M views"
+    },
+    {
+        "Name": "January 6, 2025",
+        "Artist": "GFRIEND ",
+        "Details": "Album: Special Album <Season of Memories>",
+        "ImageUrl": "https://img.youtube.com/vi/-XxjUjbUF1o/default.jpg",
+        "SongLink": "https://youtu.be/-XxjUjbUF1o?si=b1_hXWiO5DLov5oU",
+        "ViewCount": "4M views"
     },
     {
         "Name": "January 6, 2025",
         "Artist": "ONEW",
-        "Details": " (SHINee)",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": " (SHINee)\nTitle Track: “Winner”\nAlbum: 4TH EP [CONNECTION]",
+        "ImageUrl": "https://img.youtube.com/vi/tS48SnvPFI0/default.jpg",
+        "SongLink": "https://youtu.be/tS48SnvPFI0?si=AfctahzEPNvSsJaV",
+        "ViewCount": "2M views"
+    },
+    {
+        "Name": "January 7, 2025",
+        "Artist": "MINNIE",
+        "Details": " ((G)I-DLE)\nAlbum: 1st Mini Album [𝑯𝑬𝑹]",
+        "ImageUrl": "https://img.youtube.com/vi/8KpvPHcXr1c/default.jpg",
+        "SongLink": "https://youtu.be/8KpvPHcXr1c?si=yN308B4pSsm5bHDv",
+        "ViewCount": "10M views"
+    },
+    {
+        "Name": "January 7, 2025",
+        "Artist": "KWON EUNBI",
+        "Details": "Title Track: ‘눈이 와 (Feat. Coogie)’ \nAlbum: Digital Single [눈이 와]",
+        "ImageUrl": "https://img.youtube.com/vi/0K_AesVexaw/default.jpg",
+        "SongLink": "https://youtu.be/0K_AesVexaw?si=RfYY4zen1Opm3XTZ",
+        "ViewCount": "168K views"
     },
     {
         "Name": "January 7, 2025",
         "Artist": "XLOV",
-        "Details": " (엑스러브)",
+        "Details": " (엑스러브)\nTitle Track: “I’mma Be”\nAlbum: 1st Single [I’mma Be]",
+        "ImageUrl": "https://img.youtube.com/vi/bgblQb-XFFY/default.jpg",
+        "SongLink": "https://youtu.be/bgblQb-XFFY?si=UdGfSNP7xOzl0NEQ",
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "January 8, 2025",
+        "Artist": "BSS",
+        "Details": " (SEVENTEEN)\nTitle Track: ‘청바지’ \nAlbum: 2nd Single Album ‘𝙏𝙀𝙇𝙀𝙋𝘼𝙍𝙏𝙔’",
+        "ImageUrl": "https://img.youtube.com/vi/Mt9SBZam4X4/default.jpg",
+        "SongLink": "https://youtu.be/Mt9SBZam4X4?si=5MUqhe2U_bmp8KY7",
+        "ViewCount": "22M views"
+    },
+    {
+        "Name": "January 8, 2025",
+        "Artist": "NiziU",
+        "Details": " (니쥬) (JP)\nAlbum: 1st Mini Album “AWAKE”",
+        "ImageUrl": "https://img.youtube.com/vi/N1qWetE4AV4/default.jpg",
+        "SongLink": "https://youtu.be/N1qWetE4AV4?si=ZjHl3V5nYkuABzED",
+        "ViewCount": "2M views"
+    },
+    {
+        "Name": "January 9, 2025",
+        "Artist": "Whee In",
+        "Details": " (MAMAMOO)\nTitle Track: “Aftertaste(이별의 맛)”\nAlbum: Single Album [Aftertaste]",
+        "ImageUrl": "https://img.youtube.com/vi/1AhQGtlTqiE/default.jpg",
+        "SongLink": "https://youtu.be/1AhQGtlTqiE?si=_HvvnQ02n4V8d1ZB",
+        "ViewCount": "123K views"
+    },
+    {
+        "Name": "January 10, 2025",
+        "Artist": "HUH YUNJIN",
+        "Details": " (LE SSERAFIM)\nTitle Track: “해파리 (Jellyfish)”",
+        "ImageUrl": "https://img.youtube.com/vi/z0QWWB-f5HI/default.jpg",
+        "SongLink": "https://youtu.be/z0QWWB-f5HI?si=tEJJGvg33nStewvx",
+        "ViewCount": "611K views"
+    },
+    {
+        "Name": "January 10, 2025",
+        "Artist": "VVUP",
+        "Details": "(비비업) \nTitle Track: ‘4 Life’\nAlbum: Special Digital Single [𝟰 𝗟𝗶𝗳𝗲]",
+        "ImageUrl": "https://img.youtube.com/vi/A-Hr8aYSEx0/default.jpg",
+        "SongLink": "https://youtu.be/A-Hr8aYSEx0?si=EoBglRbexPQV6oFx",
+        "ViewCount": "205K views"
+    },
+    {
+        "Name": "January 10, 2025",
+        "Artist": "WOOSUNG",
+        "Details": "Album: [4444: Reborn]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://youtube.com/playlist?list=OLAK5uy_lVn0LxtPuBtZwtttK5GB3mcOuLQfPO8-U&si=fe8m6uwzUORM8sPX",
         "ViewCount": ""
     },
     {
         "Name": "January 13, 2025",
+        "Artist": "IVE",
+        "Details": "Title Track: “ATTITUDE”\nAlbum: THE 3rd EP < 𝐼𝑉𝐸 𝐸𝑀𝑃𝐴𝑇𝐻𝑌 >",
+        "ImageUrl": "https://img.youtube.com/vi/g36q0ZLvygQ/default.jpg",
+        "SongLink": "https://youtu.be/g36q0ZLvygQ?si=_TitTUyKAPrlaEV2",
+        "ViewCount": "20M views"
+    },
+    {
+        "Name": "January 13, 2025",
         "Artist": "GFRIEND ",
-        "Details": "Album: Special Album <Season of Memories>",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: “우리의 다정한 계절 속에 (Season of Memories)”\nAlbum: Special Album <Season of Memories>",
+        "ImageUrl": "https://img.youtube.com/vi/DxMu1pv8b9Y/default.jpg",
+        "SongLink": "https://youtu.be/DxMu1pv8b9Y?si=Z_l0swZH0Pj701rn",
+        "ViewCount": "4M views"
+    },
+    {
+        "Name": "January 14, 2025",
+        "Artist": "ONEUS",
+        "Details": "Title Track: “IKUK”\nAlbum: Special Album [Dear.M]",
+        "ImageUrl": "https://img.youtube.com/vi/KeC8J-xV7fk/default.jpg",
+        "SongLink": "https://youtu.be/KeC8J-xV7fk?si=DL4-69aOhz6M3vbk",
+        "ViewCount": "635K views"
+    },
+    {
+        "Name": "January 14, 2025",
+        "Artist": "LYSON",
+        "Details": " (리슨)\nTitle Track: ‘Love Scenario’",
+        "ImageUrl": "https://img.youtube.com/vi/jgUgVbqELqI/default.jpg",
+        "SongLink": "https://youtu.be/jgUgVbqELqI?si=6CmDCsDgP0ErRXHD",
+        "ViewCount": "68K views"
+    },
+    {
+        "Name": "January 14, 2025",
+        "Artist": "ESEO",
+        "Details": " (HYUNJUNG)\nTitle Track: “Run for you (Prod. Matthew May) “",
+        "ImageUrl": "https://img.youtube.com/vi/gLhbcT3X5yE/default.jpg",
+        "SongLink": "https://youtu.be/gLhbcT3X5yE?si=rhEnoXxkKhHqsbpO",
+        "ViewCount": "526 views"
+    },
+    {
+        "Name": "January 14, 2025",
+        "Artist": "Sondia",
+        "Details": "Title Track: “내일도 오늘처럼 As Tomorrow”\nOST: Namib OST",
+        "ImageUrl": "https://img.youtube.com/vi/h_SzYoi-st8/default.jpg",
+        "SongLink": "https://youtu.be/h_SzYoi-st8?si=ivmyeJXjI13ODrcH",
+        "ViewCount": "20K views"
     },
     {
         "Name": "January 15, 2025",
         "Artist": "WEi",
-        "Details": " (위아이)\nAlbum: 7th Mini Album [The Feelings]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": " (위아이)\nTitle Track: ‘NOT ENOUGH’\nAlbum: 7th Mini Album [The Feelings]",
+        "ImageUrl": "https://img.youtube.com/vi/PGoeFdmkzhw/default.jpg",
+        "SongLink": "https://youtu.be/PGoeFdmkzhw?si=xKsGpo7ri-wfIqKg",
+        "ViewCount": "3M views"
+    },
+    {
+        "Name": "January 15, 2025",
+        "Artist": "Dynamicduo, GUMMY",
+        "Details": "Title Track: ‘Take Care’ ",
+        "ImageUrl": "https://img.youtube.com/vi/8y5RFHR1hhQ/default.jpg",
+        "SongLink": "https://youtu.be/8y5RFHR1hhQ?si=emK76Xecqf9d4OMC",
+        "ViewCount": "1M views"
     },
     {
         "Name": "January 15, 2025",
         "Artist": "BBGIRLS",
-        "Details": "",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: ‘LOVE 2’\nAlbum: 2nd Single Album “Love 2”",
+        "ImageUrl": "https://img.youtube.com/vi/a_0oh_RoGcw/default.jpg",
+        "SongLink": "https://youtu.be/a_0oh_RoGcw?si=mhgej0BxtfwC-Pkv",
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "January 15, 2025",
+        "Artist": "ODD YOUTH",
+        "Details": " (오드유스)\nTitle Track: “Best Friendz (English Ver.)”",
+        "ImageUrl": "https://img.youtube.com/vi/nrcuK_sRJmY/default.jpg",
+        "SongLink": "https://youtu.be/nrcuK_sRJmY?si=sr9isJ36Tc7WYKxW",
+        "ViewCount": "426K views"
+    },
+    {
+        "Name": "January 15, 2025",
+        "Artist": "An Shinae",
+        "Details": " (안신애)\nTitle Track: ‘South to the West’ \nAlbum: EP [Dear LIFE]",
+        "ImageUrl": "https://img.youtube.com/vi/kJ0BT7opYvM/default.jpg",
+        "SongLink": "https://youtu.be/kJ0BT7opYvM?si=BanIvjUpTHIv0d8H",
+        "ViewCount": "461K views"
+    },
+    {
+        "Name": "January 15, 2025",
+        "Artist": "HYNN",
+        "Details": "(박혜원) \nTitle Track: ‘영하 (Unspoken Goodbye)’",
+        "ImageUrl": "https://img.youtube.com/vi/b9FMKPWLj7Y/default.jpg",
+        "SongLink": "https://youtu.be/b9FMKPWLj7Y?si=Tkw-IfxnzuTrRuYm",
+        "ViewCount": "209K views"
+    },
+    {
+        "Name": "January 15, 2025",
+        "Artist": "VVUP",
+        "Details": "(비비업) \nTitle Track: ‘4 Life’\nAlbum: Special Digital Single [𝟰 𝗟𝗶𝗳𝗲]",
+        "ImageUrl": "https://img.youtube.com/vi/A-Hr8aYSEx0/default.jpg",
+        "SongLink": "https://youtu.be/A-Hr8aYSEx0?si=EoBglRbexPQV6oFx",
+        "ViewCount": "205K views"
+    },
+    {
+        "Name": "January 15, 2025",
+        "Artist": "&TEAM",
+        "Details": " (JP)\nTitle Track: “Deer Hunter”",
+        "ImageUrl": "https://img.youtube.com/vi/D1balyin1yE/default.jpg",
+        "SongLink": "https://youtu.be/D1balyin1yE?si=m4AGGIy_lDj-s-5x",
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "January 15, 2025",
+        "Artist": "Seol Hoseung",
+        "Details": " (설호승)(SURL)\nTitle Track: “For a moment”\nOST: Who Is She OST Part.8",
+        "ImageUrl": "https://img.youtube.com/vi/IZrX3Xnlibc/default.jpg",
+        "SongLink": "https://youtu.be/IZrX3Xnlibc?si=p81DxLRO45yzzp8Y",
+        "ViewCount": "13K views"
+    },
+    {
+        "Name": "January 16, 2025",
+        "Artist": "Kim Wan-sun, SEULGI",
+        "Details": "Title Track: “Lucky”",
+        "ImageUrl": "https://img.youtube.com/vi/YzBDrq1KBCM/default.jpg",
+        "SongLink": "https://youtu.be/YzBDrq1KBCM?si=QSkdxNyTaHnAc3Ka",
+        "ViewCount": "151K views"
+    },
+    {
+        "Name": "January 16, 2025",
+        "Artist": "ULUV",
+        "Details": " (유럽)\nTitle Track: “Winter Love”",
+        "ImageUrl": "https://img.youtube.com/vi/A-d3_u1Yhcw/default.jpg",
+        "SongLink": "https://youtu.be/A-d3_u1Yhcw?si=Y40tmsskhvoZSEp-",
+        "ViewCount": "3K views"
+    },
+    {
+        "Name": "January 16, 2025",
+        "Artist": "U_Chae",
+        "Details": "Title Track: “Winter (겨울)”",
+        "ImageUrl": "https://img.youtube.com/vi/7f-huvfmPWo/default.jpg",
+        "SongLink": "https://youtu.be/7f-huvfmPWo?si=gwkMGsznOy8ier_p",
+        "ViewCount": "852 views"
+    },
+    {
+        "Name": "January 16, 2025",
+        "Artist": "Zenho",
+        "Details": "Title Track: “Fate”",
+        "ImageUrl": "https://img.youtube.com/vi/WsDJFOMtqHo/default.jpg",
+        "SongLink": "https://youtu.be/WsDJFOMtqHo?si=F2Euw7uBZJ-xYuia",
+        "ViewCount": "795 views"
+    },
+    {
+        "Name": "January 17, 2025",
+        "Artist": "BABYMONSTER",
+        "Details": "Album: DRIP ",
+        "ImageUrl": "https://img.youtube.com/vi/XShaIZs7J7M/default.jpg",
+        "SongLink": "https://youtu.be/XShaIZs7J7M?si=6-jbQ8CeTsJyvyGI",
+        "ViewCount": "46M views"
+    },
+    {
+        "Name": "January 17, 2025",
+        "Artist": "Doh Kyung Soo ",
+        "Details": "Title Track: ‘밤에 내린 눈 (Snowfall at Night)’ \nAlbum: Digital Single ‘밤에 내린 눈 (Snowfall at Night)’",
+        "ImageUrl": "https://img.youtube.com/vi/KM-YzSbGT4s/default.jpg",
+        "SongLink": "https://youtu.be/KM-YzSbGT4s?si=58Rdcb0CSjRLYY9h",
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "January 17, 2025",
+        "Artist": "ALL(H)OURS ",
+        "Details": "Album: 3rd MINI ALBUM [Smoke Point]",
+        "ImageUrl": "https://img.youtube.com/vi/8YnbkzmpDqk/default.jpg",
+        "SongLink": "https://youtu.be/8YnbkzmpDqk?si=8d43D0UMJCLdSwJQ",
+        "ViewCount": "3M views"
+    },
+    {
+        "Name": "January 17, 2025",
+        "Artist": "KIM WOOJIN",
+        "Details": " (김우진)\nTitle Track: ‘5AM’",
+        "ImageUrl": "https://img.youtube.com/vi/WJf4FC5SaQk/default.jpg",
+        "SongLink": "https://youtu.be/WJf4FC5SaQk?si=-gbBFrD3H-7TdCGP",
+        "ViewCount": "92K views"
+    },
+    {
+        "Name": "January 17, 2025",
+        "Artist": "Seiren",
+        "Details": " (세이렌)\nTitle Track: “Late Night Calls”",
+        "ImageUrl": "https://img.youtube.com/vi/dU01B_uYAcI/default.jpg",
+        "SongLink": "https://youtu.be/dU01B_uYAcI?si=RUxERD9GZMjzPHEw",
+        "ViewCount": "6K views"
+    },
+    {
+        "Name": "January 18, 2025",
+        "Artist": "Jinjoo park",
+        "Details": "(박진주) \nAilee\n(에일리), \nMijoo\n(미주),\n Haewon\n(해원)(NMIXX)\nTitle Track: “Is it still beautiful(여전히 아름다운지)”\nAlbum: Hang Out With YOO Wintersong – Songs to sing in winter Pt. 1",
+        "ImageUrl": "https://img.youtube.com/vi/GS7O4LE9Pco/default.jpg",
+        "SongLink": "https://youtu.be/GS7O4LE9Pco?si=fzDwxYLgYEcq-8LJ",
+        "ViewCount": "876K views"
+    },
+    {
+        "Name": "January 20, 2025",
+        "Artist": "KickFlip",
+        "Details": "(킥플립)\nTitle Track: “Mama Said (뭐가 되려고?)”\nAlbum: The 1st Mini Album “Flip it, Kick it!”",
+        "ImageUrl": "https://img.youtube.com/vi/JY0UTOgh8M8/default.jpg",
+        "SongLink": "https://youtu.be/JY0UTOgh8M8?si=ljgeHFS-0nCc2bZv",
+        "ViewCount": "23M views"
+    },
+    {
+        "Name": "January 20, 2025",
+        "Artist": "ZEROBASEONE ",
+        "Details": "February 24: 5th Mini Album",
+        "ImageUrl": "https://img.youtube.com/vi/9BXF8gSpEwY/default.jpg",
+        "SongLink": "https://youtu.be/9BXF8gSpEwY?si=rqGzzWewv2duoZVu",
+        "ViewCount": "5M views"
     },
     {
         "Name": "January 20, 2025",
         "Artist": "GOT7",
-        "Details": "EP ‘WINTER HEPTAGON’",
+        "Details": "Title Track: ‘PYTHON’\nEP ‘WINTER HEPTAGON’",
+        "ImageUrl": "https://img.youtube.com/vi/4d5C_PQl8Tg/default.jpg",
+        "SongLink": "https://youtu.be/4d5C_PQl8Tg?si=Sap0kHVLvaxP5JF3",
+        "ViewCount": "10M views"
+    },
+    {
+        "Name": "January 21, 2025",
+        "Artist": "MINNIE",
+        "Details": " ((G)I-DLE)\nTitle Track: “HER”\nAlbum: 1st Mini Album [𝑯𝑬𝑹]",
+        "ImageUrl": "https://img.youtube.com/vi/UTHqh7Vpa64/default.jpg",
+        "SongLink": "https://youtu.be/UTHqh7Vpa64?si=w9y2k_yozVidVzxb",
+        "ViewCount": "28M views"
+    },
+    {
+        "Name": "January 22, 2025",
+        "Artist": "CATCH THE YOUNG ",
+        "Details": "Title Track: ‘넌 언제나(2025)’\nAlbum: 1st Digital Single ‘넌 언제나(2025)’",
+        "ImageUrl": "https://img.youtube.com/vi/B7_GataAI80/default.jpg",
+        "SongLink": "https://youtu.be/B7_GataAI80?si=5d-AahKpxS41T-oQ",
+        "ViewCount": "154K views"
+    },
+    {
+        "Name": "January 23, 2025",
+        "Artist": "CIX",
+        "Details": "Title Track: “THUNDER”\nAlbum: 7th EP ALBUM ‘THUNDER FEVER’",
+        "ImageUrl": "https://img.youtube.com/vi/d1ndYsGGWes/default.jpg",
+        "SongLink": "https://youtu.be/d1ndYsGGWes?si=KGA-yqUHd9RJKfUE",
+        "ViewCount": "10M views"
+    },
+    {
+        "Name": "January 23, 2025",
+        "Artist": "COiBLEN",
+        "Details": " (코이블렌)\nTitle Track: “約束(Promise)”\nAlbum: 3rd SINGLE ‘約束(Promise)’",
+        "ImageUrl": "https://img.youtube.com/vi/JtqjGtV-rqk/default.jpg",
+        "SongLink": "https://youtu.be/JtqjGtV-rqk?si=As_QW6H42VxAzdRu",
+        "ViewCount": "805 views"
+    },
+    {
+        "Name": "January 25, 2025",
+        "Artist": "JENNIE",
+        "Details": " (BLACKPINK)\nAlbum: 1st Studio Album RUBY",
+        "ImageUrl": "https://img.youtube.com/vi/cXmYNmQ4BuM/default.jpg",
+        "SongLink": "https://youtu.be/cXmYNmQ4BuM?si=rHOwf-f2ZVaVyII1",
+        "ViewCount": "19M views"
+    },
+    {
+        "Name": "January 27, 2025",
+        "Artist": "EUNHYUK",
+        "Details": " (Super Junior)\nTitle Track: ‘UP N DOWN’\nAlbum: THE 1ST MINI ALBUM [EXPLORER]",
+        "ImageUrl": "https://img.youtube.com/vi/6jfWILdI1xg/default.jpg",
+        "SongLink": "https://youtu.be/6jfWILdI1xg?si=1jV-psaIlinS4AiB",
+        "ViewCount": "283K views"
+    },
+    {
+        "Name": "January 29, 2025",
+        "Artist": "ZEROBASEONE",
+        "Details": " (JP)\nAlbum: Japan 1st EP 『PREZENT』",
+        "ImageUrl": "https://img.youtube.com/vi/Dj59_qETtks/default.jpg",
+        "SongLink": "https://youtu.be/Dj59_qETtks",
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "January 29, 2025",
+        "Artist": "KJRGL",
+        "Details": "2nd Digital Single  “Generation_Cloud” ",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
     },
     {
-        "Name": "January 29, 2025",
-        "Artist": "ZEROBASEONE",
-        "Details": " (JP)\nAlbum: Japan 1st EP 『PREZENT』\nIVE\nSoompi",
-        "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1707370wpp/ive-confirmed-to-make-january-comeback",
-        "ViewCount": ""
+        "Name": "January 31, 2025",
+        "Artist": "JENNIE",
+        "Details": " (BLACKPINK)\nAlbum: 1st Studio Album RUBY",
+        "ImageUrl": "https://img.youtube.com/vi/23urWKmHS6o/default.jpg",
+        "SongLink": "https://youtu.be/23urWKmHS6o?si=vEo8oYG36iqxOWw1",
+        "ViewCount": "6M views"
     }
 ]
