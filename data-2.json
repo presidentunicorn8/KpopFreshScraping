@@ -3,16 +3,16 @@
         "Name": "February 2, 2025",
         "Artist": "D82",
         "Details": "Title Track: “Vinasse”",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/hupnIavskyA/default.jpg",
+        "SongLink": "https://youtu.be/hupnIavskyA?si=YH2jNXqXl4FqV0vZ",
+        "ViewCount": "804 views"
     },
     {
         "Name": "February 2, 2025",
         "Artist": "NTX",
-        "Details": "Title Track: “POP POP (Feat. Chrich)”",
+        "Details": "Title Track: “POP POP (Feat. Chrich)”\nSoundcloud",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://on.soundcloud.com/AGMDDw48QwBNbAQK8",
         "ViewCount": ""
     },
     {
@@ -20,29 +20,37 @@
         "Artist": "IVE",
         "Details": "Title Track: “ATTITUDE”\nAlbum: THE 3rd EP < 𝐼𝑉𝐸 𝐸𝑀𝑃𝐴𝑇𝐻𝑌 >",
         "ImageUrl": "https://img.youtube.com/vi/g36q0ZLvygQ/default.jpg",
-        "SongLink": "https://youtu.be/g36q0ZLvygQ?si=_TitTUyKAPrlaEV2",
-        "ViewCount": "20M views"
+        "SongLink": "https://www.youtube.com/@STARSHIP_official/videos",
+        "ViewCount": "21M views"
     },
     {
         "Name": "February 3, 2025",
         "Artist": "PLAVE ",
-        "Details": "Album: 3rd Mini Album ‘Caligo Pt.1’",
+        "Details": "Title Track: “Dash”\nAlbum: 3rd Mini Album ‘Caligo Pt.1’",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@plave_official/videos",
         "ViewCount": ""
     },
     {
         "Name": "February 4, 2025",
         "Artist": "ALL(H)OURS ",
-        "Details": "Album: 3rd MINI ALBUM [Smoke Point]",
+        "Details": "Title Track: ‘GIMME GIMME’\nAlbum: 3rd MINI ALBUM [Smoke Point]",
+        "ImageUrl": "https://img.youtube.com/vi/8YnbkzmpDqk/default.jpg",
+        "SongLink": "https://www.youtube.com/@ALL_H_OURS/videos",
+        "ViewCount": "3M views"
+    },
+    {
+        "Name": "February 5, 2025",
+        "Artist": "RESCENE ",
+        "Details": "Album: 2nd Mini Album [Glow Up]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
     },
     {
         "Name": "February 5, 2025",
-        "Artist": "RESCENE ",
-        "Details": "Album: 2nd Mini Album [Glow Up]",
+        "Artist": "OnlyOneOf",
+        "Details": "Digital single [𝑺𝒕𝒂𝒚] <KIWEE ALBUM>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -82,7 +90,7 @@
     {
         "Name": "February 12, 2025",
         "Artist": "CHUNG HA",
-        "Details": " (청하)\nAlbum: EP Album [Alivio]",
+        "Details": " (청하)\nTitle Track: “STRESS”; “Thanks for The Memories”\nAlbum: EP Album [Alivio]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -91,6 +99,14 @@
         "Name": "February 12, 2025",
         "Artist": "JUST B",
         "Details": "Digital Single [ ” ]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 13, 2025",
+        "Artist": "Olivia Marsh",
+        "Details": " (Gyuna (규나))\nAlbum: EP [Meanwhile]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -136,6 +152,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "February 16, 2025",
+        "Artist": "AWIN ",
+        "Details": "Album: The First single album Another View Hashtag(cheese)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "February 18, 2025",
         "Artist": "ONF",
         "Details": " (온앤오프)\nAlbum: THE 2ND ALBUM PART.1 [ONF:MY IDENTITY]",
@@ -154,7 +178,7 @@
     {
         "Name": "February 24, 2025",
         "Artist": "ZEROBASEONE ",
-        "Details": "February 24: 5th Mini Album",
+        "Details": "February 24: 5th Mini Album「 𝗕𝗟𝗨𝗘 𝗣𝗔𝗥𝗔𝗗𝗜𝗦𝗘 」",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -162,7 +186,15 @@
     {
         "Name": "February 24, 2025",
         "Artist": "Hearts2Hearts",
-        "Details": "",
+        "Details": "Album: The 1st Single Album 【The Chase】",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 26, 2025",
+        "Artist": "NouerA ",
+        "Details": "Album: 1st Mini Album [Chapter: New is Now]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -170,7 +202,7 @@
     {
         "Name": "February 28, 2025",
         "Artist": "LISA",
-        "Details": " (BLACKPINK)\nAlbum: ALTER EGO",
+        "Details": " (BLACKPINK)\nAlbum: ALTER EGO\nLUN8 \nSINGLE ALBUM <나비>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
