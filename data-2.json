@@ -21,7 +21,7 @@
         "Details": "Title Track: “ATTITUDE”\nAlbum: THE 3rd EP < 𝐼𝑉𝐸 𝐸𝑀𝑃𝐴𝑇𝐻𝑌 >",
         "ImageUrl": "https://img.youtube.com/vi/38xYeot-ciM/default.jpg",
         "SongLink": "https://youtu.be/38xYeot-ciM?si=1d7yaL1N8C5gKhqO",
-        "ViewCount": "11M views"
+        "ViewCount": "12M views"
     },
     {
         "Name": "February 3, 2025",
@@ -29,31 +29,31 @@
         "Details": "Title Track: “Dash”\nAlbum: 3rd Mini Album ‘Caligo Pt.1’",
         "ImageUrl": "https://img.youtube.com/vi/b3GoZMfHJT4/default.jpg",
         "SongLink": "https://youtu.be/b3GoZMfHJT4?si=ziFZiDtk27zdp7uR",
-        "ViewCount": "3M views"
+        "ViewCount": "5M views"
     },
     {
         "Name": "February 4, 2025",
         "Artist": "ALL(H)OURS ",
         "Details": "Title Track: ‘GIMME GIMME’\nAlbum: 3rd MINI ALBUM [Smoke Point]",
-        "ImageUrl": "https://img.youtube.com/vi/8YnbkzmpDqk/default.jpg",
-        "SongLink": "https://www.youtube.com/@ALL_H_OURS/videos",
-        "ViewCount": "3M views"
+        "ImageUrl": "https://img.youtube.com/vi/qW_3HCrda58/default.jpg",
+        "SongLink": "https://youtu.be/qW_3HCrda58?si=Q_QW4qCbIEh72chO",
+        "ViewCount": "650K views"
     },
     {
         "Name": "February 5, 2025",
         "Artist": "RESCENE ",
-        "Details": "Album: 2nd Mini Album [Glow Up]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: ‘Glow Up’\nAlbum: 2nd Mini Album [Glow Up]",
+        "ImageUrl": "https://img.youtube.com/vi/h0xUtrb_JBc/default.jpg",
+        "SongLink": "https://youtu.be/h0xUtrb_JBc?si=bgpDOjdaavVodehL",
+        "ViewCount": "508K views"
     },
     {
         "Name": "February 5, 2025",
         "Artist": "OnlyOneOf",
-        "Details": "Digital single [𝑺𝒕𝒂𝒚] <KIWEE ALBUM>",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: ‘Stay’\nAlbum: Digital single [𝑺𝒕𝒂𝒚] <KIWEE ALBUM>",
+        "ImageUrl": "https://img.youtube.com/vi/hv1KgPDLcm8/default.jpg",
+        "SongLink": "https://youtu.be/hv1KgPDLcm8?si=M3ceNpRAhCGQWeDm",
+        "ViewCount": "8K views"
     },
     {
         "Name": "February 5, 2025",
@@ -67,16 +67,16 @@
         "Name": "February 5, 2025",
         "Artist": "Moon Byul ",
         "Details": "(JP)\nTitle Track: “ほしあかり”\nAlbum: Japan Debut Single [Aurora]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/lclAVNOpCHU/default.jpg",
+        "SongLink": "https://youtu.be/lclAVNOpCHU?si=93Luh2nZxf1TUltS",
+        "ViewCount": "69K views"
     },
     {
         "Name": "February 7, 2025",
         "Artist": "LISA",
         "Details": " (BLACKPINK)\nAlbum: ALTER EGO",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@wearelloud/videos",
         "ViewCount": ""
     },
     {
@@ -184,6 +184,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "February 19, 2025",
+        "Artist": "LUN8",
+        "Details": " \nSINGLE ALBUM <나비>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "February 24, 2025",
         "Artist": "ZEROBASEONE ",
         "Details": "February 24: 5th Mini Album「 𝗕𝗟𝗨𝗘 𝗣𝗔𝗥𝗔𝗗𝗜𝗦𝗘 」",
@@ -200,6 +208,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "February 25, 2025",
+        "Artist": "G-DRAGON",
+        "Details": "Album: 3RD ALBUM [Übermensch]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "February 26, 2025",
         "Artist": "NouerA ",
         "Details": "Album: 1st Mini Album [Chapter: New is Now]",
@@ -210,7 +226,7 @@
     {
         "Name": "February 28, 2025",
         "Artist": "LISA",
-        "Details": " (BLACKPINK)\nAlbum: ALTER EGO\nLUN8 \nSINGLE ALBUM <나비>",
+        "Details": " (BLACKPINK)\nAlbum: ALTER EGO",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
