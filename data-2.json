@@ -21,7 +21,7 @@
         "Details": "Title Track: “ATTITUDE”\nAlbum: THE 3rd EP < 𝐼𝑉𝐸 𝐸𝑀𝑃𝐴𝑇𝐻𝑌 >",
         "ImageUrl": "https://img.youtube.com/vi/38xYeot-ciM/default.jpg",
         "SongLink": "https://youtu.be/38xYeot-ciM?si=1d7yaL1N8C5gKhqO",
-        "ViewCount": "12M views"
+        "ViewCount": "13M views"
     },
     {
         "Name": "February 3, 2025",
@@ -29,7 +29,7 @@
         "Details": "Title Track: “Dash”\nAlbum: 3rd Mini Album ‘Caligo Pt.1’",
         "ImageUrl": "https://img.youtube.com/vi/b3GoZMfHJT4/default.jpg",
         "SongLink": "https://youtu.be/b3GoZMfHJT4?si=ziFZiDtk27zdp7uR",
-        "ViewCount": "5M views"
+        "ViewCount": "6M views"
     },
     {
         "Name": "February 4, 2025",
@@ -37,7 +37,15 @@
         "Details": "Title Track: ‘GIMME GIMME’\nAlbum: 3rd MINI ALBUM [Smoke Point]",
         "ImageUrl": "https://img.youtube.com/vi/qW_3HCrda58/default.jpg",
         "SongLink": "https://youtu.be/qW_3HCrda58?si=Q_QW4qCbIEh72chO",
-        "ViewCount": "650K views"
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "February 4, 2025",
+        "Artist": "Jukjae",
+        "Details": "Title Track: “A moment with you”\nOST: The Queen Who Crowns OST Part.4",
+        "ImageUrl": "https://img.youtube.com/vi/ma_PCjgdKxM/default.jpg",
+        "SongLink": "https://youtu.be/ma_PCjgdKxM?si=b2XWMZRgLy7VPR7y",
+        "ViewCount": "7K views"
     },
     {
         "Name": "February 5, 2025",
@@ -45,7 +53,7 @@
         "Details": "Title Track: ‘Glow Up’\nAlbum: 2nd Mini Album [Glow Up]",
         "ImageUrl": "https://img.youtube.com/vi/h0xUtrb_JBc/default.jpg",
         "SongLink": "https://youtu.be/h0xUtrb_JBc?si=bgpDOjdaavVodehL",
-        "ViewCount": "508K views"
+        "ViewCount": "1M views"
     },
     {
         "Name": "February 5, 2025",
@@ -53,7 +61,7 @@
         "Details": "Title Track: ‘Stay’\nAlbum: Digital single [𝑺𝒕𝒂𝒚] <KIWEE ALBUM>",
         "ImageUrl": "https://img.youtube.com/vi/hv1KgPDLcm8/default.jpg",
         "SongLink": "https://youtu.be/hv1KgPDLcm8?si=M3ceNpRAhCGQWeDm",
-        "ViewCount": "8K views"
+        "ViewCount": "11K views"
     },
     {
         "Name": "February 5, 2025",
@@ -69,22 +77,62 @@
         "Details": "(JP)\nTitle Track: “ほしあかり”\nAlbum: Japan Debut Single [Aurora]",
         "ImageUrl": "https://img.youtube.com/vi/lclAVNOpCHU/default.jpg",
         "SongLink": "https://youtu.be/lclAVNOpCHU?si=93Luh2nZxf1TUltS",
-        "ViewCount": "69K views"
+        "ViewCount": "88K views"
+    },
+    {
+        "Name": "February 5, 2025",
+        "Artist": "YB",
+        "Details": "Title Track: “Rebellion (feat. Xdinary Heroes)”",
+        "ImageUrl": "https://img.youtube.com/vi/Ht-ykmyS418/default.jpg",
+        "SongLink": "https://youtu.be/Ht-ykmyS418?si=AMi5wS19mmToayou",
+        "ViewCount": "57K views"
+    },
+    {
+        "Name": "February 5, 2025",
+        "Artist": "JANG DEOK CHEOL",
+        "Details": "(장덕철)\nTitle Track: “Starlight(별 헤는 밤)”",
+        "ImageUrl": "https://img.youtube.com/vi/nH7tU0Qd9bM/default.jpg",
+        "SongLink": "https://youtu.be/nH7tU0Qd9bM?si=F_DHteVKgKgvB-Po",
+        "ViewCount": "7K views"
+    },
+    {
+        "Name": "February 5, 2025",
+        "Artist": "JUN0",
+        "Details": " (주노)\nTitle Track: ‘느리게 흘러갔으면 해'(Feat.JAEJUN)",
+        "ImageUrl": "https://img.youtube.com/vi/tNmvqPB6aXY/default.jpg",
+        "SongLink": "https://youtu.be/tNmvqPB6aXY?si=N49d-R1ZIQdgtR-i",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "February 5, 2025",
+        "Artist": "015B",
+        "Details": "(공일오비)\nTitle Track: “Our Way (Feat. 정다영(Jeong Dayeong))”\nAlbum: Single Album New Edition 67",
+        "ImageUrl": "https://img.youtube.com/vi/a47q0IuOhgg/default.jpg",
+        "SongLink": "https://youtu.be/a47q0IuOhgg?si=7qqg_ELTvx10WTN1",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "February 5, 2025",
+        "Artist": "Rosanna",
+        "Details": " (로즈아나)\nTitle Track: “함께 가지 않을래 (Why don’t you come with me)”",
+        "ImageUrl": "https://img.youtube.com/vi/zh9xNGZigPk/default.jpg",
+        "SongLink": "https://youtu.be/zh9xNGZigPk?si=GvMWwxi8sLU4Eqnf",
+        "ViewCount": "1K views"
     },
     {
         "Name": "February 7, 2025",
         "Artist": "LISA",
         "Details": " (BLACKPINK)\nAlbum: ALTER EGO",
-        "ImageUrl": "white.png",
-        "SongLink": "https://www.youtube.com/@wearelloud/videos",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/kbEC-AGr9n0/default.jpg",
+        "SongLink": "https://youtu.be/kbEC-AGr9n0?si=mJ2KiwmOBcxvZCEQ",
+        "ViewCount": "1M views"
     },
     {
         "Name": "February 10, 2025",
         "Artist": "EVNNE",
         "Details": " \nTitle Track: “HOT MESS”\nAlbum: 4th MINI ALBUM  [HOT MESS]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@EVNNE/videos",
         "ViewCount": ""
     },
     {
@@ -157,6 +205,14 @@
         "Details": "Album: The First single album Another View Hashtag(cheese)",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "February 17, 2025",
+        "Artist": "Suzy",
+        "Details": "Digital single <come back>\nInstagram",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/skuukzky/",
         "ViewCount": ""
     },
     {
