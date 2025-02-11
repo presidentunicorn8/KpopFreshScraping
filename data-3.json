@@ -1,10 +1,42 @@
 [
     {
+        "Name": "March 6, 2025",
+        "Artist": "INFINITE",
+        "Details": " \nAlbum: 8th Mini Album [LIKE INFINITE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "March 7, 2025",
         "Artist": "JENNIE",
-        "Details": " (BLACKPINK)\nAlbum: 1st Studio Album RUBY\nXiumin (EXO)\nSoompi\nj-hope (BTS)\nSoompi\nLE SSERAFIM\nSoompi\nNMIXX\nSoompi\nSTAYC",
+        "Details": " (BLACKPINK)\nAlbum: 1st Studio Album RUBY",
         "ImageUrl": "https://img.youtube.com/vi/cXmYNmQ4BuM/default.jpg",
+        "SongLink": "https://youtu.be/cXmYNmQ4BuM?si=rHOwf-f2ZVaVyII1",
+        "ViewCount": "27M views"
+    },
+    {
+        "Name": "March 7, 2025",
+        "Artist": "TREASURE",
+        "Details": "Album: SPECIAL MINI ALBUM [PLEASURE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 10, 2025",
+        "Artist": "YEJI",
+        "Details": " (ITZY)\nAlbum: “AIR”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 12, 2025",
+        "Artist": "FANTASY BOYS",
+        "Details": " (JP)\nAlbum: JAPAN 1st ALBUM『SHINE THE WAY』\nTHE BOYZ\nSoompi\nXiumin (EXO)\nSoompi\nj-hope (BTS)\nSoompi\nLE SSERAFIM\nSoompi\nNMIXX\nSoompi\nSTAYC",
+        "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1717965wpp/nmixx-confirmed-to-be-gearing-up-for-march-comeback",
-        "ViewCount": "26M views"
+        "ViewCount": ""
     }
 ]
