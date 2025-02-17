@@ -8,9 +8,25 @@
         "ViewCount": ""
     },
     {
+        "Name": "March 5, 2025",
+        "Artist": "ONEWE",
+        "Details": "Title Track: “별 헤는 밤 (The Stary Night)”\nAlbum: 2ND FULL ALBUM [WE : Dream Chaser]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "March 6, 2025",
         "Artist": "INFINITE",
         "Details": " \nAlbum: 8th Mini Album [LIKE INFINITE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 6, 2025",
+        "Artist": "GENBLUE",
+        "Details": "(젠블루)\nAlbum: 1st EP Album [ACT LIKE THAT]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -32,6 +48,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "March 7, 2025",
+        "Artist": "W24",
+        "Details": " \nAlbum: 6th Mini Album <Seize The Day>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "March 10, 2025",
         "Artist": "YEJI",
         "Details": " (ITZY)\nAlbum: “AIR”",
@@ -40,9 +64,41 @@
         "ViewCount": ""
     },
     {
+        "Name": "March 11, 2025",
+        "Artist": "SHIN SOOHYUN",
+        "Details": "Album: 1st Single Album ‘i am’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "March 12, 2025",
         "Artist": "FANTASY BOYS",
-        "Details": " (JP)\nAlbum: JAPAN 1st ALBUM『SHINE THE WAY』\nTHE BOYZ\nSoompi\nXiumin (EXO)\nSoompi\nj-hope (BTS)\nSoompi\nLE SSERAFIM\nSoompi\nNMIXX\nSoompi\nSTAYC",
+        "Details": " (JP)\nAlbum: JAPAN 1st ALBUM『SHINE THE WAY』",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 14, 2025",
+        "Artist": "LE SSERAFIM",
+        "Details": "Album: 5th Mini Album ‘HOT’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 24, 2025",
+        "Artist": "KiiiKiii",
+        "Details": " (키키)\nAlbum: The 1st EP [UNCUT GEM]",
+        "ImageUrl": "https://img.youtube.com/vi/hAEfi_SKTEU/default.jpg",
+        "SongLink": "https://youtu.be/hAEfi_SKTEU?si=7UizplG-NyMVkmY4",
+        "ViewCount": "825K views"
+    },
+    {
+        "Name": "March 31, 2025",
+        "Artist": "THE BOYZ",
+        "Details": "Soompi\nXiumin (EXO)\nSoompi\nj-hope (BTS)\nSoompi\nNMIXX\nSoompi\nSTAYC",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1717965wpp/nmixx-confirmed-to-be-gearing-up-for-march-comeback",
         "ViewCount": ""
