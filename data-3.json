@@ -35,9 +35,9 @@
         "Name": "March 7, 2025",
         "Artist": "JENNIE",
         "Details": " (BLACKPINK)\nAlbum: 1st Studio Album RUBY",
-        "ImageUrl": "https://img.youtube.com/vi/cXmYNmQ4BuM/default.jpg",
-        "SongLink": "https://youtu.be/cXmYNmQ4BuM?si=rHOwf-f2ZVaVyII1",
-        "ViewCount": "29M views"
+        "ImageUrl": "https://img.youtube.com/vi/23urWKmHS6o/default.jpg",
+        "SongLink": "https://youtu.be/23urWKmHS6o?si=avh_EzUIEvVHAmOm",
+        "ViewCount": "27M views"
     },
     {
         "Name": "March 7, 2025",
@@ -59,6 +59,30 @@
         "Name": "March 10, 2025",
         "Artist": "YEJI",
         "Details": " (ITZY)\nAlbum: “AIR”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 10, 2025",
+        "Artist": "SEULGI",
+        "Details": " (Red Velvet)\nAlbum: The 2nd Mini Album 【Accidentally On Purpose】",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 10, 2025",
+        "Artist": "NTX",
+        "Details": "Album: 2ND ALBUM 𝐎𝐕𝐄𝐑 𝐓𝐑𝐀𝐂𝐊",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 10, 2025",
+        "Artist": "XIUMIN",
+        "Details": " (EXO)\nAlbum: The 2nd Mini Album ‘Interview X’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -93,12 +117,12 @@
         "Details": " (키키)\nAlbum: The 1st EP [UNCUT GEM]",
         "ImageUrl": "https://img.youtube.com/vi/hAEfi_SKTEU/default.jpg",
         "SongLink": "https://youtu.be/hAEfi_SKTEU?si=7UizplG-NyMVkmY4",
-        "ViewCount": "825K views"
+        "ViewCount": "2M views"
     },
     {
         "Name": "March 31, 2025",
         "Artist": "THE BOYZ",
-        "Details": "Soompi\nXiumin (EXO)\nSoompi\nj-hope (BTS)\nSoompi\nNMIXX\nSoompi\nSTAYC",
+        "Details": "Soompi\nj-hope (BTS)\nSoompi\nNMIXX\nSoompi\nSTAYC",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1717965wpp/nmixx-confirmed-to-be-gearing-up-for-march-comeback",
         "ViewCount": ""
