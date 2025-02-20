@@ -1,5 +1,13 @@
 [
     {
+        "Name": "March 2, 2025",
+        "Artist": "YOUNG POSSE",
+        "Details": "Album: COLD",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "March 4, 2025",
         "Artist": "8TURN ",
         "Details": "Album: 1st Single Album [LEGGO]",
@@ -57,6 +65,14 @@
     },
     {
         "Name": "March 10, 2025",
+        "Artist": "HOSHI X WOOZI",
+        "Details": " (SEVENTEEN)\nAlbum: 1st Single Album ‘𝗕𝗘𝗔𝗠’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 10, 2025",
         "Artist": "YEJI",
         "Details": " (ITZY)\nAlbum: “AIR”",
         "ImageUrl": "white.png",
@@ -104,9 +120,25 @@
         "ViewCount": ""
     },
     {
+        "Name": "March 13, 2025",
+        "Artist": "SAY MY NAME",
+        "Details": "Album: The 2nd EP <𝑴𝒚 𝑵𝒂𝒎𝒆 𝑰𝒔…>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "March 14, 2025",
         "Artist": "LE SSERAFIM",
         "Details": "Album: 5th Mini Album ‘HOT’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 17, 2025",
+        "Artist": "NMIXX",
+        "Details": "(엔믹스)\nAlbum: 4th EP “Fe3O4: FORWARD”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -117,14 +149,14 @@
         "Details": " (키키)\nAlbum: The 1st EP [UNCUT GEM]",
         "ImageUrl": "https://img.youtube.com/vi/hAEfi_SKTEU/default.jpg",
         "SongLink": "https://youtu.be/hAEfi_SKTEU?si=7UizplG-NyMVkmY4",
-        "ViewCount": "2M views"
+        "ViewCount": "3M views"
     },
     {
         "Name": "March 31, 2025",
         "Artist": "THE BOYZ",
-        "Details": "Soompi\nj-hope (BTS)\nSoompi\nNMIXX\nSoompi\nSTAYC",
+        "Details": "Soompi\nj-hope (BTS)\nSoompi\nSTAYC",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1717965wpp/nmixx-confirmed-to-be-gearing-up-for-march-comeback",
+        "SongLink": "https://www.soompi.com/article/1720935wpp/btss-j-hope-confirmed-to-make-march-comeback",
         "ViewCount": ""
     }
 ]
