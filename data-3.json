@@ -152,6 +152,22 @@
         "ViewCount": ""
     },
     {
+        "Name": "March 17, 2025",
+        "Artist": "THE BOYZ",
+        "Details": "Album: The 3rd Album ‘Unexpected’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 18, 2025",
+        "Artist": "STAYC",
+        "Details": "Album: The 5th Single Album [S]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "March 19, 2025",
         "Artist": "Dragon Pony",
         "Details": " (드래곤포니) \nAlbum: EP [Not Out]",
@@ -169,8 +185,8 @@
     },
     {
         "Name": "March 31, 2025",
-        "Artist": "THE BOYZ",
-        "Details": "Soompi\nj-hope (BTS)\nSoompi\nSTAYC",
+        "Artist": "j-hope (BTS)",
+        "Details": "Soompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1720935wpp/btss-j-hope-confirmed-to-make-march-comeback",
         "ViewCount": ""
