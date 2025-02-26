@@ -113,6 +113,14 @@
     },
     {
         "Name": "March 11, 2025",
+        "Artist": "SF9",
+        "Details": " \nTitle Track: “LOVE RACE”\nAlbum: MINI ALBUM [LOVE RACE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 11, 2025",
         "Artist": "SHIN SOOHYUN",
         "Details": "Album: 1st Single Album ‘i am’",
         "ImageUrl": "white.png",
@@ -171,6 +179,14 @@
         "Name": "March 19, 2025",
         "Artist": "Dragon Pony",
         "Details": " (드래곤포니) \nAlbum: EP [Not Out]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 20, 2025",
+        "Artist": "Ailee",
+        "Details": "Album: 7th Mini Album ‘(Me)moir’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
