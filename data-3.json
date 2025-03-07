@@ -2,73 +2,105 @@
     {
         "Name": "March 2, 2025",
         "Artist": "YOUNG POSSE",
-        "Details": "Album: COLD",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: ‘COLD (feat.10CM)’ \nAlbum: COLD",
+        "ImageUrl": "https://img.youtube.com/vi/2HZbPz-r2UA/default.jpg",
+        "SongLink": "https://youtu.be/2HZbPz-r2UA?si=Ewyt5WjL6m8CZXwJ",
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "March 3, 2025",
+        "Artist": "Yu Soohyun",
+        "Details": "Title Track: “짜릿하게(Thrilled)” ",
+        "ImageUrl": "https://img.youtube.com/vi/uDNDIhXZoVs/default.jpg",
+        "SongLink": "https://youtu.be/uDNDIhXZoVs?si=Nvav9VN_wVDQDqrt",
+        "ViewCount": "1K views"
     },
     {
         "Name": "March 4, 2025",
         "Artist": "8TURN ",
-        "Details": "Album: 1st Single Album [LEGGO]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "Title Track: ‘LEGGO’\nAlbum: 1st Single Album [LEGGO]",
+        "ImageUrl": "https://img.youtube.com/vi/li5H5D3Jd70/default.jpg",
+        "SongLink": "https://youtu.be/li5H5D3Jd70?si=e80XR5IAP6DXCLrC",
+        "ViewCount": "398K views"
+    },
+    {
+        "Name": "March 4, 2025",
+        "Artist": "tripleS",
+        "Details": "Title Track: “PainDrop (with SeoYeon, JiWoo, YuBin, SoHyun)”\nOST: Friendly Rivalry OST Part. 4",
+        "ImageUrl": "https://img.youtube.com/vi/EnvbIF1fgdk/default.jpg",
+        "SongLink": "https://youtu.be/EnvbIF1fgdk?si=xCRci8dKxyriZqSD",
+        "ViewCount": "38K views"
     },
     {
         "Name": "March 5, 2025",
         "Artist": "ONEWE",
         "Details": "Title Track: “별 헤는 밤 (The Stary Night)”\nAlbum: 2ND FULL ALBUM [WE : Dream Chaser]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@ONEWE/videos",
         "ViewCount": ""
     },
     {
         "Name": "March 5, 2025",
         "Artist": "BTOB ",
-        "Details": "Album: EP ALBUM [BTODAY]",
+        "Details": "Title Track: ‘LOVE TODAY’\nAlbum: EP ALBUM [BTODAY]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@BTOB_COMPANY/videos",
         "ViewCount": ""
+    },
+    {
+        "Name": "March 5, 2025",
+        "Artist": "NEWBEAT",
+        "Details": "(NBT/뉴비트)\nAlbum: 1st FULL ALBUM [RAW AND RAD]",
+        "ImageUrl": "https://img.youtube.com/vi/lxgzbRXQELQ/default.jpg",
+        "SongLink": "https://youtu.be/lxgzbRXQELQ",
+        "ViewCount": "23M views"
     },
     {
         "Name": "March 6, 2025",
         "Artist": "INFINITE",
-        "Details": " \nAlbum: 8th Mini Album [LIKE INFINITE]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": " \nTitle Track: ‘Dangerous’\nAlbum: 8th Mini Album [LIKE INFINITE]",
+        "ImageUrl": "https://img.youtube.com/vi/O4WQFp9oCRQ/default.jpg",
+        "SongLink": "https://youtu.be/O4WQFp9oCRQ?si=6F68xR1NeZrGBeB0",
+        "ViewCount": "3M views"
     },
     {
         "Name": "March 6, 2025",
         "Artist": "GENBLUE",
-        "Details": "(젠블루)\nAlbum: 1st EP Album [ACT LIKE THAT]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": "(젠블루)\nTitle Track: ‘ACT LIKE THAT’\nAlbum: 1st EP Album [ACT LIKE THAT]",
+        "ImageUrl": "https://img.youtube.com/vi/69QCKEYOAZs/default.jpg",
+        "SongLink": "https://youtu.be/69QCKEYOAZs?si=9NffPZMQoTleJ_8K",
+        "ViewCount": "1M views"
     },
     {
         "Name": "March 7, 2025",
         "Artist": "JENNIE",
-        "Details": " (BLACKPINK)\nAlbum: 1st Studio Album RUBY",
-        "ImageUrl": "https://img.youtube.com/vi/23urWKmHS6o/default.jpg",
-        "SongLink": "https://youtu.be/23urWKmHS6o?si=avh_EzUIEvVHAmOm",
-        "ViewCount": "32M views"
+        "Details": " (BLACKPINK)\nTitle Track: “Like JENNIE”\nAlbum: 1st Studio Album RUBY",
+        "ImageUrl": "https://img.youtube.com/vi/JSFG-IE8n_c/default.jpg",
+        "SongLink": "https://youtu.be/JSFG-IE8n_c?si=JFTlHssjABC2hQlC",
+        "ViewCount": "0 views"
+    },
+    {
+        "Name": "March 7, 2025",
+        "Artist": "j-hope",
+        "Details": " (BTS)\nTitle Track: ‘Sweet Dreams (feat. Miguel)’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@HYBELABELS/videos",
+        "ViewCount": ""
     },
     {
         "Name": "March 7, 2025",
         "Artist": "TREASURE",
-        "Details": "Album: SPECIAL MINI ALBUM [PLEASURE]",
+        "Details": "Title Track: ‘YELLOW’\nAlbum: SPECIAL MINI ALBUM [PLEASURE]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@TREASURE/videos",
         "ViewCount": ""
     },
     {
         "Name": "March 7, 2025",
         "Artist": "W24",
-        "Details": " \nAlbum: 6th Mini Album <Seize The Day>",
+        "Details": " \nTitle Track: ‘Seize The Day’\nAlbum: 6th Mini Album <Seize The Day>",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@W24hours_band/videos",
         "ViewCount": ""
     },
     {
@@ -82,17 +114,17 @@
     {
         "Name": "March 10, 2025",
         "Artist": "YEJI",
-        "Details": " (ITZY)\nAlbum: “AIR”",
+        "Details": " (ITZY)\nTitle Track: “Air”\nAlbum: “AIR”",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@JYPEntertainment/videos",
         "ViewCount": ""
     },
     {
         "Name": "March 10, 2025",
         "Artist": "SEULGI",
-        "Details": " (Red Velvet)\nAlbum: The 2nd Mini Album 【Accidentally On Purpose】",
+        "Details": " (Red Velvet)\nTitle Track: ‘Baby, Not Baby’\nAlbum: The 2nd Mini Album 【Accidentally On Purpose】",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@SMTOWN/videos",
         "ViewCount": ""
     },
     {
@@ -146,7 +178,23 @@
     {
         "Name": "March 14, 2025",
         "Artist": "LE SSERAFIM",
-        "Details": "Album: 5th Mini Album ‘HOT’",
+        "Details": "Title Track: “HOT”\nAlbum: 5th Mini Album ‘HOT’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 14, 2025",
+        "Artist": "AtHeart",
+        "Details": " (앳하트)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 15, 2025",
+        "Artist": "In A Minute",
+        "Details": "Album: 1st Single Album [UNBOXING: WHAT YOU WANTED]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -154,15 +202,23 @@
     {
         "Name": "March 17, 2025",
         "Artist": "NMIXX",
-        "Details": "(엔믹스)\nAlbum: 4th EP “Fe3O4: FORWARD”",
+        "Details": "(엔믹스)\nVideo: \nTitle Track: “KNOW ABOUT ME”\nAlbum: 4th EP “Fe3O4: FORWARD”",
+        "ImageUrl": "https://img.youtube.com/vi/H7XqQJeHBPk/default.jpg",
+        "SongLink": "https://youtu.be/H7XqQJeHBPk?si=Pq4pqUn_WhCko_4Y",
+        "ViewCount": "443K views"
+    },
+    {
+        "Name": "March 17, 2025",
+        "Artist": "THE BOYZ",
+        "Details": "Album: The 3rd Album ‘Unexpected’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
     },
     {
         "Name": "March 17, 2025",
-        "Artist": "THE BOYZ",
-        "Details": "Album: The 3rd Album ‘Unexpected’",
+        "Artist": "The Wind",
+        "Details": "Album: 2nd Single Album ‘Only One Story’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -192,19 +248,67 @@
         "ViewCount": ""
     },
     {
+        "Name": "March 20, 2025",
+        "Artist": "FANTASY BOYS",
+        "Details": "Album: 4th MINI ALBUM [ 𝐔𝐍𝐃𝐄𝐍𝐈𝐀𝐁𝐋𝐄 ]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "March 24, 2025",
         "Artist": "KiiiKiii",
         "Details": " (키키)\nAlbum: The 1st EP [UNCUT GEM]",
         "ImageUrl": "https://img.youtube.com/vi/hAEfi_SKTEU/default.jpg",
         "SongLink": "https://youtu.be/hAEfi_SKTEU?si=7UizplG-NyMVkmY4",
-        "ViewCount": "5M views"
+        "ViewCount": "7M views"
+    },
+    {
+        "Name": "March 24, 2025",
+        "Artist": "TEN",
+        "Details": " (NCT)\nAlbum: The 2nd Mini Album 【STUNNER】",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 24, 2025",
+        "Artist": "Xdinary Heroes",
+        "Details": "Album: 6th Mini Album <Beautiful Mind>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 24, 2025",
+        "Artist": "NEWBEAT",
+        "Details": "(NBT/뉴비트)\nAlbum: 1st FULL ALBUM [RAW AND RAD]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 26, 2025",
+        "Artist": "CRAVITY",
+        "Details": " (JP)\nAlbum: Japan 2nd EP＜Jelly Bean＞",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "March 28, 2025",
+        "Artist": "M.prism",
+        "Details": "Album: The 1st EP [Knock Down]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
     },
     {
         "Name": "March 31, 2025",
-        "Artist": "j-hope (BTS)",
-        "Details": "Soompi",
+        "Artist": "TEMPEST",
+        "Details": "Album: 6TH MINI ALBUM <RE: Full Of Youth>",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1720935wpp/btss-j-hope-confirmed-to-make-march-comeback",
+        "SongLink": "no",
         "ViewCount": ""
     }
 ]
