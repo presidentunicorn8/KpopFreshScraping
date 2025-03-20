@@ -1,8 +1,24 @@
 [
     {
         "Name": "April 2, 2025",
+        "Artist": "Solar",
+        "Details": " (MAMAMOO)\nAlbum: 2nd Single Album [WANT]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 2, 2025",
         "Artist": "CLOSE YOUR EYES",
         "Details": "Album: The 1st Mini Album [ETERNALT]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 4, 2025",
+        "Artist": "xikers",
+        "Details": "Title Track: “BREATHE”\nAlbum: 5TH MINI ALBUM ‘HOUSE OF TRICKY : SPUR’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -17,8 +33,24 @@
     },
     {
         "Name": "April 8, 2025",
+        "Artist": "DAESUNG",
+        "Details": " (BIGBANG)\nAlbum: 𝟭𝘀𝘁 𝗠𝗶𝗻𝗶 𝗔𝗹𝗯𝘂𝗺 [𝗗’𝘀 𝗪𝗔𝗩𝗘]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 8, 2025",
         "Artist": "ifeye",
         "Details": " \nAlbum: 1st Digital EP ‘ERLU BLUE’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 9, 2025",
+        "Artist": "WHIB",
+        "Details": " \nAlbum: 4TH SINGLE ALBUM [BANG OUT]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -49,6 +81,14 @@
     },
     {
         "Name": "April 23, 2025",
+        "Artist": "BAND LUCY",
+        "Details": "Album: 6th EP <와장창>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 23, 2025",
         "Artist": "KJRGL ",
         "Details": "Album: 1st mini album ＜Cloud_Six＞",
         "ImageUrl": "white.png",
@@ -58,7 +98,7 @@
     {
         "Name": "April 30, 2025",
         "Artist": "Kep1er",
-        "Details": " (JP)\nAlbum: Japan 1st EP <AGAINST THE WORLD>\nWHIB\nNCT WISH\nSoompi\nUNIS",
+        "Details": " (JP)\nAlbum: Japan 1st EP <AGAINST THE WORLD>\nNCT WISH\nSoompi\nUNIS",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1726581wpp/nct-wish-confirmed-to-make-full-group-comeback-in-april",
         "ViewCount": ""
