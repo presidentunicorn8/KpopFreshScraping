@@ -72,6 +72,22 @@
         "ViewCount": ""
     },
     {
+        "Name": "April 14, 2025",
+        "Artist": "NCT WISH",
+        "Details": "Album: The 2nd Mini Album – poppop",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 14, 2025",
+        "Artist": "82MAJOR",
+        "Details": " (82메이저) \nAlbum: 3RD MINI ALBUM [SILENCE SYNDROME]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "April 20, 2025",
         "Artist": "SWEET:CH",
         "Details": " (SWC)\nAlbum: 1st Single Album: SWEET DAY",
@@ -96,11 +112,19 @@
         "ViewCount": ""
     },
     {
+        "Name": "April 23, 2025",
+        "Artist": "YOUNITE ",
+        "Details": "Album: 7TH EP ‘YOUNI-T’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "April 30, 2025",
         "Artist": "Kep1er",
-        "Details": " (JP)\nAlbum: Japan 1st EP <AGAINST THE WORLD>\nNCT WISH\nSoompi\nUNIS",
+        "Details": " (JP)\nAlbum: Japan 1st EP <AGAINST THE WORLD>\nUNIS",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1726581wpp/nct-wish-confirmed-to-make-full-group-comeback-in-april",
+        "SongLink": "no",
         "ViewCount": ""
     }
 ]
