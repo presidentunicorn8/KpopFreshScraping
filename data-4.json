@@ -1,32 +1,64 @@
 [
     {
         "Name": "April 1, 2025",
+        "Artist": "CHEEZE",
+        "Details": " (치즈)\nTitle Track: “Home Date (집 데이트)”",
+        "ImageUrl": "https://img.youtube.com/vi/x9aTWqMoz_k/default.jpg",
+        "SongLink": "https://youtu.be/x9aTWqMoz_k?si=ge6VBJOj75qSPezH",
+        "ViewCount": "138K views"
+    },
+    {
+        "Name": "April 1, 2025",
+        "Artist": "Im Soo",
+        "Details": "(임수)\nTitle Track: “Love Letter(러브레터)”\nAlbum: Single – Love Letter",
+        "ImageUrl": "https://img.youtube.com/vi/QqTLV4P70Xc/default.jpg",
+        "SongLink": "https://youtu.be/QqTLV4P70Xc?si=a46EliZkUUSpQ7ie",
+        "ViewCount": "7K views"
+    },
+    {
+        "Name": "April 1, 2025",
         "Artist": "ShinEuiJin",
         "Details": "(신의진)\nTitle Track: “Anthem for You(이별찬가)(離別讚歌)”",
-        "ImageUrl": "https://img.youtube.com/vi/FYkaaCeEKDw/default.jpg",
-        "SongLink": "https://youtu.be/FYkaaCeEKDw?si=D9t0Y3cWX5Bt8rr1",
-        "ViewCount": "819 views"
+        "ImageUrl": "https://img.youtube.com/vi/bewXzQ3nlY4/default.jpg",
+        "SongLink": "https://youtu.be/bewXzQ3nlY4?si=HwK5EiaffjRa_qNM",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "April 1, 2025",
+        "Artist": "Jin clobert",
+        "Details": "(진 클로베르)\nTitle Track: “Aurora(오로라)”",
+        "ImageUrl": "https://img.youtube.com/vi/SNfpIrmEgPw/default.jpg",
+        "SongLink": "https://youtu.be/SNfpIrmEgPw?si=4YIyCVkDbpv5oGnT",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "April 1, 2025",
+        "Artist": "Shin Seong",
+        "Details": " (신성)\nTitle Track: “얼큰한 당신”",
+        "ImageUrl": "https://img.youtube.com/vi/dsMiEuMPyyQ/default.jpg",
+        "SongLink": "https://youtu.be/dsMiEuMPyyQ?si=iQo1lGooGt22j4LW",
+        "ViewCount": "1K views"
     },
     {
         "Name": "April 2, 2025",
         "Artist": "Solar",
-        "Details": " (MAMAMOO)\nAlbum: 2nd Single Album [WANT]",
+        "Details": " (MAMAMOO)\nTitle Track: ‘WANT’\nAlbum: 2nd Single Album [WANT]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@MAMAMOO_OFFICIAL/videos",
         "ViewCount": ""
     },
     {
         "Name": "April 2, 2025",
         "Artist": "CLOSE YOUR EYES",
-        "Details": "Album: The 1st Mini Album [ETERNALT]",
+        "Details": "Title Track: ‘내 안의 모든 시와 소설은’\nAlbum: The 1st Mini Album [ETERNALT]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@close.your.eyes.official",
         "ViewCount": ""
     },
     {
         "Name": "April 2, 2025",
         "Artist": "RAVN ",
-        "Details": "PRE-DEBUT DIGITAL SINGLE ‘Comedy’\nInstagram",
+        "Details": "Title Track: ‘Comedy’\nPRE-DEBUT DIGITAL SINGLE ‘Comedy’\nInstagram",
         "ImageUrl": "white.png",
         "SongLink": "https://www.instagram.com/pls9ravn/following/?hl=en",
         "ViewCount": ""
@@ -40,17 +72,57 @@
         "ViewCount": ""
     },
     {
+        "Name": "April 2, 2025",
+        "Artist": "Dragon Pony",
+        "Details": " (드래곤포니)\nAlbum: EP [Not Out] ",
+        "ImageUrl": "https://img.youtube.com/vi/5XqnY47-meY/default.jpg",
+        "SongLink": "https://youtu.be/5XqnY47-meY?si=s88hAEmK_1Y4742d",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "April 4, 2025",
+        "Artist": "ENHYPEN",
+        "Details": "Digital Single “Loose”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "April 4, 2025",
         "Artist": "xikers",
         "Details": "Title Track: “BREATHE”\nAlbum: 5TH MINI ALBUM ‘HOUSE OF TRICKY : SPUR’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@KQENT/videos",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 4, 2025",
+        "Artist": "Young-hoon",
+        "Details": "(장영훈)\nTitle Track: “Stay For A While(잠시 머물다)”",
+        "ImageUrl": "https://img.youtube.com/vi/pgJzv9Nv7QI/default.jpg",
+        "SongLink": "https://youtu.be/pgJzv9Nv7QI?si=kA4bYyFPFTSNm8CI",
+        "ViewCount": "278 views"
+    },
+    {
+        "Name": "April 7, 2025",
+        "Artist": "MARK",
+        "Details": " (NCT)\nTitle Track: “1999”\nAlbum: The 1st Album “The Firstfruit”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
     },
     {
         "Name": "April 7, 2025",
-        "Artist": "MARK",
-        "Details": " (NCT)\nTitle Track: “1999”\nAlbum: The 1st Album “The Firstfruit”",
+        "Artist": "FIFTY FIFTY",
+        "Details": "PERFECT CRIME",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 7, 2025",
+        "Artist": "Moonsua x Siyoon",
+        "Details": " (Billlie)\nTitle Track: ‘SNAP (feat. ?)’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -66,9 +138,9 @@
     {
         "Name": "April 8, 2025",
         "Artist": "ifeye",
-        "Details": " \nAlbum: 1st Digital EP ‘ERLU BLUE’",
+        "Details": " \nTitle Track: ‘NERDY’\nAlbum: 1st Digital EP ‘ERLU BLUE’",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@ifeye/videos",
         "ViewCount": ""
     },
     {
@@ -91,6 +163,14 @@
         "Name": "April 9, 2025",
         "Artist": "NCHIVE",
         "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 9, 2025",
+        "Artist": "OH MY GIRL",
+        "Details": "10th Anniversary Special Single [Oh My]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -121,6 +201,14 @@
     },
     {
         "Name": "April 15, 2025",
+        "Artist": "UNIS",
+        "Details": " \nAlbum: 2nd Mini Album [SWICY]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 15, 2025",
         "Artist": "ODD YOUTH",
         "Details": " \nAlbum: The 1st Mini Album < I LIKE YOU >",
         "ImageUrl": "white.png",
@@ -136,9 +224,25 @@
         "ViewCount": ""
     },
     {
+        "Name": "April 17, 2025",
+        "Artist": "TIOT",
+        "Details": "(티아이오티) \nAlbum: 3rd MINI ALBUM 𝑭𝑳𝑬𝑿 𝑳𝑰𝑵𝑬",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "April 20, 2025",
         "Artist": "SWEET:CH",
         "Details": " (SWC)\nAlbum: 1st Single Album: SWEET DAY",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "April 20, 2025",
+        "Artist": "Big Ocean ",
+        "Details": "Title Track: “Attention”\nAlbum: 2nd Mini Album <UNDERWATER>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -168,6 +272,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "April 21, 2025",
+        "Artist": "KAI",
+        "Details": " (EXO)\nTitle Track: ‘Adult Swim’\nAlbum: The 4th Mini Album 【Wait On Me】",
+        "ImageUrl": "https://img.youtube.com/vi/Y0Tasq_nyP8/default.jpg",
+        "SongLink": "https://youtu.be/Y0Tasq_nyP8?si=yLbBEAAJopJGsXP5",
+        "ViewCount": "72K views"
+    },
+    {
         "Name": "April 22, 2025",
         "Artist": "VVS",
         "Details": "",
@@ -194,15 +306,23 @@
     {
         "Name": "April 23, 2025",
         "Artist": "YOUNITE ",
-        "Details": "Album: 7TH EP ‘YOUNI-T’",
+        "Details": "Title Track: “Rock Steady’\nAlbum: 7TH EP ‘YOUNI-T’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
     },
     {
+        "Name": "April 25, 2025",
+        "Artist": "Kwon Jinah",
+        "Details": "Album: 3rd Album [The Dreamest]\nInstagram",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/kwonhodoo/",
+        "ViewCount": ""
+    },
+    {
         "Name": "April 30, 2025",
         "Artist": "Kep1er",
-        "Details": " (JP)\nAlbum: Japan 1st EP <AGAINST THE WORLD>\nUNIS",
+        "Details": " (JP)\nAlbum: Japan 1st EP <AGAINST THE WORLD>",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
