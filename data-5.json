@@ -1,10 +1,234 @@
 [
     {
-        "Name": "may",
-        "Artist": "No data yet",
-        "Details": "No data yet",
+        "Name": "May 1, 2025",
+        "Artist": "TRENDZ",
+        "Details": "Album: 5TH SINGLE ALBUM [Chameleon]",
         "ImageUrl": "white.png",
-        "SongLink": "",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "JANG HANEUM",
+        "Details": "Title Track: “SHINE”\nAlbum: 1st MINI ALBUM [LUCID DREAM]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@JANGHANEUM_Official/videos",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "KJRGL ",
+        "Details": "Title Track: “Cloud_Six”\nAlbum: 1st mini album ＜Cloud_Six＞",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@KJRGL_Official/shorts",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "HyeRim",
+        "Details": " (김혜림)\nTitle Track: “서로의 오늘 (Each our own today)”",
+        "ImageUrl": "https://img.youtube.com/vi/tPzl0jbVA4E/default.jpg",
+        "SongLink": "https://youtu.be/tPzl0jbVA4E?si=ns9INiVXlKSAx9Ey",
+        "ViewCount": "414 views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "TXT",
+        "Details": "Digital Single ‘Love Language’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "TABLO",
+        "Details": " (Epik High) X \nRM\n (BTS)\nTitle Track: “Stop The Rain”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 5, 2025",
+        "Artist": "CHENLE",
+        "Details": " (NCT)\nAlbum: Chinese Special EP – ‘灿 (Lucid)’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 6, 2025",
+        "Artist": "EPEX & joan ",
+        "Details": "Album: 1st Digital Single ‘so nice’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 7, 2025",
+        "Artist": "E’LAST",
+        "Details": "Album: 5th Mini Album [Versus]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 7, 2025",
+        "Artist": "DAY6",
+        "Details": "(데이식스) \nAlbum: Digital Single ＜Maybe Tomorrow＞",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 8, 2025",
+        "Artist": "P1Harmony",
+        "Details": "Album: 8th Mini Album DUH!",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 9, 2025",
+        "Artist": "ablume",
+        "Details": "(어블룸) \nAlbum: 1st Single Album ‘Echo’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 12, 2025",
+        "Artist": "MEOVV",
+        "Details": "Album: 1st EP ALBUM [MY EYES OPEN VVIDE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 12, 2025",
+        "Artist": "tripleS",
+        "Details": "Album: ASSEMBLE25",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 13, 2025",
+        "Artist": "BOYNEXTDOOR ",
+        "Details": "Album: 4th EP [No Genre]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 14, 2025",
+        "Artist": "BIBI",
+        "Details": "Album: THE 2ND ALBUM EVE: ROMANCE",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 14, 2025",
+        "Artist": "TWICE",
+        "Details": " (JP)\nAlbum: 5th Best Album “#TWICE5”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 14, 2025",
+        "Artist": "YUTA",
+        "Details": " (NCT JP)\nAlbum: The 1st Single『TWISTED PARADISE』",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 15, 2025",
+        "Artist": "JEONG SEWOON",
+        "Details": "Album: EP [𝐁𝐫𝐮𝐭]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 16, 2025",
+        "Artist": "Jin",
+        "Details": " (BTS)\nTitle Track: “Don’t Say You Love Me”\nAlbum: 2nd Mini Album ‘Echo’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 16, 2025",
+        "Artist": "LIM SEJUN",
+        "Details": " (임세준)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 16, 2025",
+        "Artist": "JAECHAN",
+        "Details": " (DKZ)\nAlbum: 2nd Mini Album [JCFACTORY vol.2]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 17, 2025",
+        "Artist": "X:IN ",
+        "Details": "Album: 3rd Mini Album [𝐃𝐞𝐟𝐞𝐧𝐝 𝐌𝐲𝐬𝐞𝐥𝐟]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 19, 2025",
+        "Artist": "RIIZE",
+        "Details": " (라이즈)\nAlbum: The 1st Album 【ODYSSEY】",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 19, 2025",
+        "Artist": "BAEKHYUN",
+        "Details": " (EXO)\nAlbum: The 5th Mini Album – Essence of Reverie",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 19, 2025",
+        "Artist": "KIM JAE JOONG",
+        "Details": "Album: 𝐄𝐏 𝐀𝐥𝐛𝐮𝐦 ‘𝐁𝐞𝐚𝐮𝐭𝐲 𝐢𝐧 𝐂𝐡𝐚𝐨𝐬’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 26, 2025",
+        "Artist": "SEVENTEEN",
+        "Details": "Album: 5th Album 𝐇𝐀𝐏𝐏𝐘 𝐁𝐔𝐑𝐒𝐓𝐃𝐀𝐘",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 29, 2025",
+        "Artist": "KIIRAS",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 31, 2025",
+        "Artist": "Irene & Seulgi (Red Velvet)",
+        "Details": "Soompi",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.soompi.com/article/1736377wpp/red-velvets-irene-seulgi-confirmed-to-be-making-1st-comeback-in-5-years-in-may",
         "ViewCount": ""
     }
 ]
