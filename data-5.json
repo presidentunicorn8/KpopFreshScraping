@@ -2,39 +2,47 @@
     {
         "Name": "May 1, 2025",
         "Artist": "TRENDZ",
-        "Details": "Album: 5TH SINGLE ALBUM [Chameleon]",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
-    },
-    {
-        "Name": "May 1, 2025",
-        "Artist": "JANG HANEUM",
-        "Details": "Title Track: “SHINE”\nAlbum: 1st MINI ALBUM [LUCID DREAM]",
-        "ImageUrl": "white.png",
-        "SongLink": "https://www.youtube.com/@JANGHANEUM_Official/videos",
-        "ViewCount": ""
+        "Details": "Title Track: “Chameleon (카멜레온)’\nAlbum: 5TH SINGLE ALBUM [Chameleon]",
+        "ImageUrl": "https://img.youtube.com/vi/1kh5PYaw_gQ/default.jpg",
+        "SongLink": "https://youtu.be/1kh5PYaw_gQ?si=p4_wIV1YS_1qcqOZ",
+        "ViewCount": "17K views"
     },
     {
         "Name": "May 1, 2025",
         "Artist": "KJRGL ",
         "Details": "Title Track: “Cloud_Six”\nAlbum: 1st mini album ＜Cloud_Six＞",
-        "ImageUrl": "white.png",
-        "SongLink": "https://www.youtube.com/@KJRGL_Official/shorts",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/nbNHg9wYToc/default.jpg",
+        "SongLink": "https://youtu.be/nbNHg9wYToc?si=Db22v5DS8yQZMOmP",
+        "ViewCount": "34K views"
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "JANG HANEUM",
+        "Details": "Title Track: “SHINE”\nAlbum: 1st MINI ALBUM [LUCID DREAM]",
+        "ImageUrl": "https://img.youtube.com/vi/1GKBBjft0X0/default.jpg",
+        "SongLink": "https://youtu.be/1GKBBjft0X0?si=LbkLMx0LBN_KxVst",
+        "ViewCount": "1K views"
     },
     {
         "Name": "May 1, 2025",
         "Artist": "HyeRim",
         "Details": " (김혜림)\nTitle Track: “서로의 오늘 (Each our own today)”",
-        "ImageUrl": "https://img.youtube.com/vi/tPzl0jbVA4E/default.jpg",
-        "SongLink": "https://youtu.be/tPzl0jbVA4E?si=ns9INiVXlKSAx9Ey",
-        "ViewCount": "601 views"
+        "ImageUrl": "https://img.youtube.com/vi/lsuSzybBIpw/default.jpg",
+        "SongLink": "https://youtu.be/lsuSzybBIpw?si=IVbU0ID0rhYs_ybO",
+        "ViewCount": "1K views"
     },
     {
         "Name": "May 2, 2025",
         "Artist": "TXT",
-        "Details": "Digital Single ‘Love Language’",
+        "Details": "Title Track: ‘Love Language’\nAlbum: Digital Single ‘Love Language’",
+        "ImageUrl": "https://img.youtube.com/vi/8aRTMQvbODs/default.jpg",
+        "SongLink": "https://youtu.be/8aRTMQvbODs?si=2-Gl0BAgmjBwkoiF",
+        "ViewCount": "7M views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "i-dle",
+        "Details": " (아이들)",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -43,9 +51,17 @@
         "Name": "May 2, 2025",
         "Artist": "TABLO",
         "Details": " (Epik High) X \nRM\n (BTS)\nTitle Track: “Stop The Rain”",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/ZXAcTToLy_Y/default.jpg",
+        "SongLink": "https://youtu.be/ZXAcTToLy_Y?si=YkneLXtUsyIeVDWW",
+        "ViewCount": "875K views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "Maroon 5 ft. Lisa",
+        "Details": "Title Track: “Priceless”",
+        "ImageUrl": "https://img.youtube.com/vi/vaGf8fmtBr4/default.jpg",
+        "SongLink": "https://youtu.be/vaGf8fmtBr4?si=lQqlh6o1KhjyK1LR",
+        "ViewCount": "3M views"
     },
     {
         "Name": "May 5, 2025",
@@ -59,6 +75,14 @@
         "Name": "May 6, 2025",
         "Artist": "EPEX & joan ",
         "Details": "Album: 1st Digital Single ‘so nice’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 7, 2025",
+        "Artist": "KISS OF LIFE",
+        "Details": "Title Track: “Live, Love, Laugh”\nAlbum: Special Digital Single [KISS ROAD]",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -106,9 +130,9 @@
     {
         "Name": "May 12, 2025",
         "Artist": "tripleS",
-        "Details": "Album: ASSEMBLE25",
+        "Details": "Title Track: “깨이 (Are You Alive)”\nAlbum: ASSEMBLE25",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@triplescosmos/videos",
         "ViewCount": ""
     },
     {
@@ -185,6 +209,14 @@
     },
     {
         "Name": "May 19, 2025",
+        "Artist": "i-dle",
+        "Details": " (아이들)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 19, 2025",
         "Artist": "RIIZE",
         "Details": " (라이즈)\nAlbum: The 1st Album 【ODYSSEY】",
         "ImageUrl": "white.png",
@@ -208,9 +240,25 @@
         "ViewCount": ""
     },
     {
+        "Name": "May 19, 2025",
+        "Artist": "VVS",
+        "Details": "Album: 1st EP [D.I.M.M]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "May 26, 2025",
         "Artist": "SEVENTEEN",
         "Details": "Album: 5th Album 𝐇𝐀𝐏𝐏𝐘 𝐁𝐔𝐑𝐒𝐓𝐃𝐀𝐘",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 26, 2025",
+        "Artist": "KickFlip",
+        "Details": " \nAlbum: The 2nd Mini Album “Kick Out, Flip Now!”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
