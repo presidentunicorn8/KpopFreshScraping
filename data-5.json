@@ -1,11 +1,19 @@
 [
     {
         "Name": "May 1, 2025",
-        "Artist": "TRENDZ",
-        "Details": "Title Track: “Chameleon (카멜레온)’\nAlbum: 5TH SINGLE ALBUM [Chameleon]",
-        "ImageUrl": "https://img.youtube.com/vi/1kh5PYaw_gQ/default.jpg",
-        "SongLink": "https://youtu.be/1kh5PYaw_gQ?si=p4_wIV1YS_1qcqOZ",
-        "ViewCount": "26K views"
+        "Artist": "RIIZE",
+        "Details": " (라이즈)\nAlbum: The 1st Album 【ODYSSEY】",
+        "ImageUrl": "https://img.youtube.com/vi/vmL-XgxwQZU/default.jpg",
+        "SongLink": "https://youtu.be/vmL-XgxwQZU?si=QTOuonwBY4wJePMk",
+        "ViewCount": "7M views"
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "YOUNG POSSE",
+        "Details": " (영파씨)\nAlbum: COLD",
+        "ImageUrl": "https://img.youtube.com/vi/r374CxtQHpM/default.jpg",
+        "SongLink": "https://youtu.be/r374CxtQHpM?si=E8gKD_HRBlM2gB_D",
+        "ViewCount": "251K views"
     },
     {
         "Name": "May 1, 2025",
@@ -13,7 +21,55 @@
         "Details": "Title Track: “Cloud_Six”\nAlbum: 1st mini album ＜Cloud_Six＞",
         "ImageUrl": "https://img.youtube.com/vi/nbNHg9wYToc/default.jpg",
         "SongLink": "https://youtu.be/nbNHg9wYToc?si=Db22v5DS8yQZMOmP",
-        "ViewCount": "84K views"
+        "ViewCount": "110K views"
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "MVP",
+        "Details": " (엠브이피)\nTitle Track: ‘Clock It (Feat. E SENS)’",
+        "ImageUrl": "https://img.youtube.com/vi/nTocbiU-vH8/default.jpg",
+        "SongLink": "https://youtu.be/nTocbiU-vH8?si=v5JPVs59d9XI0PLU",
+        "ViewCount": "33K views"
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "TRENDZ",
+        "Details": "Title Track: “Chameleon (카멜레온)’\nAlbum: 5TH SINGLE ALBUM [Chameleon]",
+        "ImageUrl": "https://img.youtube.com/vi/1kh5PYaw_gQ/default.jpg",
+        "SongLink": "https://youtu.be/1kh5PYaw_gQ?si=p4_wIV1YS_1qcqOZ",
+        "ViewCount": "30K views"
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "Hwang InWook",
+        "Details": "(황인욱)\nTitle Track: “you deserve it(잘하고 있어)”",
+        "ImageUrl": "https://img.youtube.com/vi/lfswIwmVxlc/default.jpg",
+        "SongLink": "https://youtu.be/lfswIwmVxlc?si=q6DFrrj9SW-cu46z",
+        "ViewCount": "12K views"
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "2001",
+        "Details": " (스무공일)\nTitle Track: “니가 좋아 (Like you)”\nAlbum: DS [Like you]",
+        "ImageUrl": "https://img.youtube.com/vi/CaADUGoZSk4/default.jpg",
+        "SongLink": "https://youtu.be/CaADUGoZSk4?si=d8yY9yjOst5GgH8o",
+        "ViewCount": "73K views"
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "HanHeeJae",
+        "Details": " (한희재)\nTitle Track: “너의 계절 (Your season)”\nAlbum: Single – Your Season",
+        "ImageUrl": "https://img.youtube.com/vi/pvuCJSLsI0Q/default.jpg",
+        "SongLink": "https://youtu.be/pvuCJSLsI0Q?si=V8imPw9DCLWFsFVh",
+        "ViewCount": "9K views"
+    },
+    {
+        "Name": "May 1, 2025",
+        "Artist": "SEFO",
+        "Details": "(세포)\n, POY, LOKI\nTitle Track: “Choo Choo Boom (feat. Boombeat)”",
+        "ImageUrl": "https://img.youtube.com/vi/VnppaMOXLLA/default.jpg",
+        "SongLink": "https://youtu.be/VnppaMOXLLA?si=V2v2Lh7HPtcgDBBM",
+        "ViewCount": "8K views"
     },
     {
         "Name": "May 1, 2025",
@@ -25,6 +81,14 @@
     },
     {
         "Name": "May 1, 2025",
+        "Artist": "Kim Feelsun",
+        "Details": " (김필선)\nTitle Track: “Wish (Kim Feelsun X WEEKEND IN TAIPEI)”\nAlbum: Single – Wish (Kim Feelsun X WEEKEND IN TAIPEI)",
+        "ImageUrl": "https://img.youtube.com/vi/IlmBRiQdOc0/default.jpg",
+        "SongLink": "https://youtu.be/IlmBRiQdOc0?si=4HEx-QgYEeAf6oXr",
+        "ViewCount": "2K views"
+    },
+    {
+        "Name": "May 1, 2025",
         "Artist": "HyeRim",
         "Details": " (김혜림)\nTitle Track: “서로의 오늘 (Each our own today)”",
         "ImageUrl": "https://img.youtube.com/vi/lsuSzybBIpw/default.jpg",
@@ -32,20 +96,36 @@
         "ViewCount": "1K views"
     },
     {
+        "Name": "May 1, 2025",
+        "Artist": "YerieL",
+        "Details": " (예리엘)\nTitle Track: “On cloud nine”\nAlbum: Single – On cloud nine",
+        "ImageUrl": "https://img.youtube.com/vi/lz8MEWu-W9w/default.jpg",
+        "SongLink": "https://youtu.be/lz8MEWu-W9w?si=7koZ9inQA-V7vrW8",
+        "ViewCount": "647 views"
+    },
+    {
         "Name": "May 2, 2025",
         "Artist": "TXT",
         "Details": "Title Track: ‘Love Language’\nAlbum: Digital Single ‘Love Language’",
         "ImageUrl": "https://img.youtube.com/vi/8aRTMQvbODs/default.jpg",
         "SongLink": "https://youtu.be/8aRTMQvbODs?si=2-Gl0BAgmjBwkoiF",
-        "ViewCount": "11M views"
+        "ViewCount": "12M views"
     },
     {
         "Name": "May 2, 2025",
         "Artist": "i-dle",
         "Details": " (아이들)",
-        "ImageUrl": "https://img.youtube.com/vi/8ttz1wdViys/default.jpg",
-        "SongLink": "https://youtu.be/8ttz1wdViys",
-        "ViewCount": "185M views"
+        "ImageUrl": "https://img.youtube.com/vi/8AN66zZYLw8/default.jpg",
+        "SongLink": "https://youtu.be/8AN66zZYLw8",
+        "ViewCount": "1M views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "Music Video: ",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "https://youtube.com/playlist?list=OLAK5uy_lHfVnkXYbsGBtLuZuxbTmnanPR8WYyyFs&si=aN-KMxO17HmdiRdq",
+        "ViewCount": ""
     },
     {
         "Name": "May 2, 2025",
@@ -61,22 +141,158 @@
         "Details": "Title Track: “Priceless”",
         "ImageUrl": "https://img.youtube.com/vi/vaGf8fmtBr4/default.jpg",
         "SongLink": "https://youtu.be/vaGf8fmtBr4?si=lQqlh6o1KhjyK1LR",
-        "ViewCount": "8M views"
+        "ViewCount": "9M views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "YOUNITE ",
+        "Details": "Album: YOUNI-T",
+        "ImageUrl": "https://img.youtube.com/vi/dL4Kt2-Vsa0/default.jpg",
+        "SongLink": "https://youtu.be/dL4Kt2-Vsa0?si=qQs9U6p98VXghcJz",
+        "ViewCount": "171K views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "Kwon Jin Ah ",
+        "Details": "Album: 3rd Album [The Dreamest]",
+        "ImageUrl": "https://img.youtube.com/vi/FPlOfqiKD64/default.jpg",
+        "SongLink": "https://youtu.be/FPlOfqiKD64?si=fCFBXMII2WIfKcvt",
+        "ViewCount": "63K views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "pH-1 ",
+        "Details": "Title Track: ‘GOSHA (Feat. Karencici)’ \nAlbum: DS [GOSHA]",
+        "ImageUrl": "https://img.youtube.com/vi/H8MutZ54wXc/default.jpg",
+        "SongLink": "https://youtu.be/H8MutZ54wXc?si=4VwPuLAdyMt4J3zw",
+        "ViewCount": "25K views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "Jung Seung Hwan",
+        "Details": "(정승환)\nTitle Track: “What else(내가 뭘 더)”\nOST: Crushology 101 OST Part.5",
+        "ImageUrl": "https://img.youtube.com/vi/8VhLZJF722c/default.jpg",
+        "SongLink": "https://youtu.be/8VhLZJF722c?si=j6dVaXpZue1LiDm7",
+        "ViewCount": "20K views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "Bae Yuna",
+        "Details": "(배유나)\nTitle Track: “Self-Elasticity Game(자아탄력성 연습)”\nAlbum: EP – 자각조합소 (Realization Factory)",
+        "ImageUrl": "https://img.youtube.com/vi/c2P88f-jWRw/default.jpg",
+        "SongLink": "https://youtu.be/c2P88f-jWRw?si=iBfLKe8P4Tcoorkm",
+        "ViewCount": "515 views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "LEE HYO JE",
+        "Details": "Title Track: “Get Out Now”\nOST: 퍼스트 러브 에피소드3",
+        "ImageUrl": "https://img.youtube.com/vi/NprV_HAyJxA/default.jpg",
+        "SongLink": "https://youtu.be/NprV_HAyJxA?si=39XOKCsAgvxLepoE",
+        "ViewCount": "257 views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "HooniYongi",
+        "Details": "(후니용이)\nTitle Track: “The Way of a Man(남자답게 사는 법)”",
+        "ImageUrl": "https://img.youtube.com/vi/un4HQmB2FNc/default.jpg",
+        "SongLink": "https://youtu.be/un4HQmB2FNc?si=3htWYuzmEOgrpY1b",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "May 2, 2025",
+        "Artist": "BLSG",
+        "Details": "(분리수거밴드)\nTitle Track: “MAIL TO HEAVEN(그곳에 가져갈 오늘을 살아요)”",
+        "ImageUrl": "https://img.youtube.com/vi/pAwb1NYIC0I/default.jpg",
+        "SongLink": "https://youtu.be/pAwb1NYIC0I?si=twMMiWgH38XFDgOZ",
+        "ViewCount": "803 views"
+    },
+    {
+        "Name": "May 3, 2025",
+        "Artist": "Dragon Pony",
+        "Details": " (드래곤포니)\nTitle Track: “You pour down on me(네가 쏟아진다)”\nOST: Crushology 101 OST Part.6",
+        "ImageUrl": "https://img.youtube.com/vi/WUEzw5Z6W34/default.jpg",
+        "SongLink": "https://youtu.be/WUEzw5Z6W34?si=MyvDJAhPUaZ7nxwz",
+        "ViewCount": "8K views"
+    },
+    {
+        "Name": "May 3, 2025",
+        "Artist": "DDOA Friends",
+        "Details": "(또아프렌즈)\nTitle Track: “Magic Tidy-Up Spell(정리정돈 마법주문)”\nAlbum: DDOA Friends vol.2 House is Fun",
+        "ImageUrl": "https://img.youtube.com/vi/TaWE2C6A248/default.jpg",
+        "SongLink": "https://youtu.be/TaWE2C6A248?si=PSTYep5vOCNL2qKq",
+        "ViewCount": "4K views"
+    },
+    {
+        "Name": "May 3, 2025",
+        "Artist": "MOONLIGHT",
+        "Details": " (문라이트)\nTitle Track: “Blar Some (Feat.Nahyun)”",
+        "ImageUrl": "https://img.youtube.com/vi/ZpFjZPzE8Wg/default.jpg",
+        "SongLink": "https://youtu.be/ZpFjZPzE8Wg?si=hUB23UXiJSvg95jm",
+        "ViewCount": "3K views"
+    },
+    {
+        "Name": "May 3, 2025",
+        "Artist": "Feel Heon",
+        "Details": " (필헌)\nTitle Track: “한계 No Limits”",
+        "ImageUrl": "https://img.youtube.com/vi/AImz6MBiUsU/default.jpg",
+        "SongLink": "https://youtu.be/AImz6MBiUsU?si=msJIZsiz8jN_TGLb",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "May 3, 2025",
+        "Artist": "HADOL",
+        "Details": "(하돌)\nTitle Track: “Rest(쉼)”\nAlbum: 이대로는 안되겠어 (Not Like This)",
+        "ImageUrl": "https://img.youtube.com/vi/ZjmDQNWaVds/default.jpg",
+        "SongLink": "https://youtu.be/ZjmDQNWaVds?si=elGZ-PhuZEGrHzwn",
+        "ViewCount": "572 views"
+    },
+    {
+        "Name": "May 4, 2025",
+        "Artist": "ROCKHOON",
+        "Details": " (록훈)\nTitle Track: “너의 세상이 온다 Your World Is Coming”",
+        "ImageUrl": "https://img.youtube.com/vi/XCE-HxFA9Is/default.jpg",
+        "SongLink": "https://youtu.be/XCE-HxFA9Is?si=ecSqmu-Op3QFKJZS",
+        "ViewCount": "1K views"
+    },
+    {
+        "Name": "May 4, 2025",
+        "Artist": "nochexintoma",
+        "Details": "Title Track: “slowluv”",
+        "ImageUrl": "https://img.youtube.com/vi/2xKqpUbx3l0/default.jpg",
+        "SongLink": "https://youtu.be/2xKqpUbx3l0?si=JD65ahh2ng_1flLm",
+        "ViewCount": "784 views"
+    },
+    {
+        "Name": "May 5, 2025",
+        "Artist": "JANNABI",
+        "Details": " (잔나비) \nTitle Track: “Dream is Beautiful(아름다운 꿈)”\nAlbum: JANNABI x HYUNDAI 2nd New Single ‘아름다운 꿈’",
+        "ImageUrl": "https://img.youtube.com/vi/-AVt_sCBFuE/default.jpg",
+        "SongLink": "https://youtu.be/-AVt_sCBFuE?si=5U2MxoD-Xt2XNHMm",
+        "ViewCount": "11K views"
     },
     {
         "Name": "May 5, 2025",
         "Artist": "CHENLE",
-        "Details": " (NCT)\nAlbum: Chinese Special EP – ‘灿 (Lucid)’",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Details": " (NCT)\nTitle Track: ‘灿 (Lucid)’\nAlbum: Chinese Special EP – ‘灿 (Lucid)’",
+        "ImageUrl": "https://img.youtube.com/vi/aGkJCRax498/default.jpg",
+        "SongLink": "https://youtu.be/aGkJCRax498?si=aLj_Bzcl5mqC2EDw",
+        "ViewCount": "62K views"
     },
     {
         "Name": "May 6, 2025",
         "Artist": "EPEX & joan ",
-        "Details": "Album: 1st Digital Single ‘so nice’",
+        "Details": "Title Track: “so nice”\nAlbum: 1st Digital Single ‘so nice’",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@EPEXofficial/videos",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 6, 2025",
+        "Artist": "XION",
+        "Details": " (ONEUS)\nTitle Track: “누구나 말하는 사랑은 아니야 (Camellia)”",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@ONEUS/videos",
         "ViewCount": ""
     },
     {
@@ -104,11 +320,19 @@
         "ViewCount": ""
     },
     {
-        "Name": "May 8, 2025",
-        "Artist": "P1Harmony",
-        "Details": "Album: 8th Mini Album DUH!",
+        "Name": "May 7, 2025",
+        "Artist": "BABYMONSTER",
+        "Details": " (JP)\nTitle Track: “Ghost”\nOST: Japanese film ‘\nMieruko-chan\n‘",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 8, 2025",
+        "Artist": "P1Harmony",
+        "Details": "Title Track: “DUH!”\nAlbum: 8th Mini Album DUH!",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@P1Harmonyofficial/videos",
         "ViewCount": ""
     },
     {
@@ -216,12 +440,20 @@
         "ViewCount": ""
     },
     {
+        "Name": "May 2, 2025",
+        "Artist": "Music Video: ",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "https://youtube.com/playlist?list=OLAK5uy_lHfVnkXYbsGBtLuZuxbTmnanPR8WYyyFs&si=aN-KMxO17HmdiRdq",
+        "ViewCount": ""
+    },
+    {
         "Name": "May 19, 2025",
         "Artist": "RIIZE",
         "Details": " (라이즈)\nAlbum: The 1st Album 【ODYSSEY】",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/vmL-XgxwQZU/default.jpg",
+        "SongLink": "https://youtu.be/vmL-XgxwQZU?si=QTOuonwBY4wJePMk",
+        "ViewCount": "7M views"
     },
     {
         "Name": "May 19, 2025",
@@ -258,7 +490,7 @@
     {
         "Name": "May 26, 2025",
         "Artist": "KickFlip",
-        "Details": " \nAlbum: The 2nd Mini Album “Kick Out, Flip Now!”",
+        "Details": " \nTitle Track: ‘FREEZE’\nAlbum: The 2nd Mini Album “Kick Out, Flip Now!”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
