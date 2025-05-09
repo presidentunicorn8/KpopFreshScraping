@@ -1,10 +1,50 @@
 [
     {
-        "Name": "june",
-        "Artist": "No data yet",
-        "Details": "No data yet",
+        "Name": "June 1, 2025",
+        "Artist": "B.I",
+        "Details": " \nTitle Track: “(관람차) Ferris Wheel (feat.Heize)”\nAlbum: 3rd Album ‘WONDERLAND’",
         "ImageUrl": "white.png",
-        "SongLink": "",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 5, 2025",
+        "Artist": "ENHYPEN",
+        "Details": "Album: 6th Mini Album “DESIRE: UNLEASH”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 9, 2025",
+        "Artist": "DOYOUNG",
+        "Details": " (NCT)\nSoompi",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.soompi.com/article/1738019wpp/ncts-doyoung-to-make-1st-solo-comeback-hold-concert-in-june",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 18, 2025",
+        "Artist": "Stray Kids",
+        "Details": " (JP)\nAlbum: JAPAN 3rd Mini Album『Hollow』",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 24, 2025",
+        "Artist": "LE SSERAFIM",
+        "Details": " (JP)\nAlbum: Japan 4th SG ‘DIFFERENT’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 27, 2025",
+        "Artist": "KATSEYE",
+        "Details": "Album: 2nd EP “BEAUTIFUL CHAOS”",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     }
 ]
