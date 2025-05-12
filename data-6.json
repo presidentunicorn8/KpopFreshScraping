@@ -17,10 +17,26 @@
     },
     {
         "Name": "June 9, 2025",
+        "Artist": "ITZY",
+        "Details": "Album: ‘Girls Will Be Girls’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 9, 2025",
         "Artist": "DOYOUNG",
         "Details": " (NCT)\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1738019wpp/ncts-doyoung-to-make-1st-solo-comeback-hold-concert-in-june",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 13, 2025",
+        "Artist": "XLOV",
+        "Details": " \nAlbum: 2nd SINGLE [I ONE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
         "ViewCount": ""
     },
     {
