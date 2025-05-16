@@ -32,6 +32,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "June 12, 2025",
+        "Artist": "Double 0ne",
+        "Details": " (BAE173 x Fantasy Boys)\nTitle Track: ‘On the Rocks with Kiss’\nAlbum: 1st Mini Album [Xpert]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "June 13, 2025",
         "Artist": "XLOV",
         "Details": " \nAlbum: 2nd SINGLE [I ONE]",
@@ -66,9 +74,9 @@
     {
         "Name": "June 27, 2025",
         "Artist": "KATSEYE",
-        "Details": "Album: 2nd EP “BEAUTIFUL CHAOS”",
+        "Details": "Album: 2nd EP “BEAUTIFUL CHAOS”\naespa\nSoompi\n; \nizna(이즈나)",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.soompi.com/article/1745023wpp/aespa-confirmed-to-make-highly-anticipated-comeback-in-june",
         "ViewCount": ""
     }
 ]
