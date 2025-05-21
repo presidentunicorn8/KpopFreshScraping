@@ -34,7 +34,7 @@
     {
         "Name": "June 9, 2025",
         "Artist": "DOYOUNG",
-        "Details": " (NCT)\nAlbum: The 2nd Album “Soar”",
+        "Details": " (NCT)\nTitle Track: “안녕, 우주 (Memory)”\nAlbum: The 2nd Album “Soar”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -43,6 +43,22 @@
         "Name": "June 9, 2025",
         "Artist": "KISS OF LIFE ",
         "Details": "Album: 4th Mini Album [224]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 9, 2025",
+        "Artist": "QWER",
+        "Details": "Album: The 3rd Mini Album ‘난 네 편이야, 온 세상이 불협일지라도’",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 11, 2025",
+        "Artist": "DAYCHILD",
+        "Details": "Album: 3rd Single Album ‘Click Clack’",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -59,6 +75,22 @@
         "Name": "June 13, 2025",
         "Artist": "XLOV",
         "Details": " \nAlbum: 2nd SINGLE [I ONE]",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 13, 2025",
+        "Artist": "ARTMS",
+        "Details": "<Club Icarus>",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 16, 2025",
+        "Artist": "ILLIT",
+        "Details": "Album: 3rd Mini Album “bomb”",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
@@ -90,7 +122,7 @@
     {
         "Name": "June 27, 2025",
         "Artist": "KATSEYE",
-        "Details": "Album: 2nd EP “BEAUTIFUL CHAOS”\naespa\nSoompi\n; \nizna(이즈나)",
+        "Details": "Album: 2nd EP “BEAUTIFUL CHAOS”\nfromis_9\naespa\nSoompi\n; \nizna(이즈나)",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1745023wpp/aespa-confirmed-to-make-highly-anticipated-comeback-in-june",
         "ViewCount": ""
