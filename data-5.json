@@ -1256,6 +1256,14 @@
         "ViewCount": "0 views"
     },
     {
+        "Name": "May 24, 2025",
+        "Artist": "NiziU",
+        "Details": " (JP)\nAlbum: 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝙀𝙋 『𝙇𝙊𝙑𝙀 𝙇𝙄𝙉𝙀 -𝙅𝙖𝙥𝙖𝙣𝙚𝙨𝙚 𝙫𝙚𝙧.-／𝙎𝙝𝙞𝙣𝙞𝙣𝙜 𝙙𝙖𝙮』",
+        "ImageUrl": "https://img.youtube.com/vi/F4x5hyXjnlM/default.jpg",
+        "SongLink": "https://youtu.be/F4x5hyXjnlM?si=AnrMR2Z52kFWH4FC",
+        "ViewCount": "0 views"
+    },
+    {
         "Name": "May 25, 2025",
         "Artist": "SHINee",
         "Details": "Title Track:  ‘Poet | Artist’\nAlbum: Single “Poet | Artist”",
@@ -1294,6 +1302,22 @@
         "ImageUrl": "white.png",
         "SongLink": "https://www.youtube.com/@SMTOWN/videos",
         "ViewCount": ""
+    },
+    {
+        "Name": "May 26, 2025",
+        "Artist": "Haechan",
+        "Details": " (NCT)\nTitle Track: ‘니가 좋은 이유’\nOST: Second Shot at Love (금주를 부탁해) Part 3",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "May 26, 2025",
+        "Artist": "at 6 PM JST",
+        "Details": "NiziU\n (JP)\nAlbum: 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝙀𝙋 『𝙇𝙊𝙑𝙀 𝙇𝙄𝙉𝙀 -𝙅𝙖𝙥𝙖𝙣𝙚𝙨𝙚 𝙫𝙚𝙧.-／𝙎𝙝𝙞𝙣𝙞𝙣𝙜 𝙙𝙖𝙮』",
+        "ImageUrl": "https://img.youtube.com/vi/F4x5hyXjnlM/default.jpg",
+        "SongLink": "https://youtu.be/F4x5hyXjnlM?si=AnrMR2Z52kFWH4FC",
+        "ViewCount": "0 views"
     },
     {
         "Name": "May 27, 2025",
@@ -1378,9 +1402,9 @@
     {
         "Name": "May 29, 2025",
         "Artist": "Hwanwoong",
-        "Details": " (ONEUS)\nAlbum: SOLO SINGLE [RADAR]",
+        "Details": " (ONEUS)\nTitle Track: “RADAR”\nAlbum: SOLO SINGLE [RADAR]",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.youtube.com/@ONEUS/videos",
         "ViewCount": ""
     },
     {
