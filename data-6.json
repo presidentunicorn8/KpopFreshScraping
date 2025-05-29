@@ -85,7 +85,7 @@
         "Details": " (한희)\nTitle Track: ‘삐(BBI)’",
         "ImageUrl": "https://img.youtube.com/vi/2UPLMUgTQUo/default.jpg",
         "SongLink": "https://x.com/hanheexe",
-        "ViewCount": "652 views"
+        "ViewCount": "0 views"
     },
     {
         "Name": "June 11, 2025",
@@ -114,9 +114,17 @@
     {
         "Name": "June 13, 2025",
         "Artist": "ATEEZ",
-        "Details": " (에이티즈)\nGOLDEN HOUR : Part.3",
+        "Details": " (에이티즈)\nAlbum: 12th Mini Album GOLDEN HOUR: Part.3",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/ATEEZofficial",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 13, 2025",
+        "Artist": "j-hope",
+        "Details": " (BTS)\nTitle Track: ‘Killin’ It Girl (feat. GloRilla)’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/BIGHIT_MUSIC",
         "ViewCount": ""
     },
     {
@@ -178,7 +186,7 @@
     {
         "Name": "June 18, 2025",
         "Artist": "BE BOYS",
-        "Details": " (비보이즈)\nAlbum: 1st Mini Album [BE:1]",
+        "Details": " (비보이즈)\nTitle Track: “I’m So Sorry But I Love You”\nAlbum: 1st Mini Album [BE:1]",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/beboys_official",
         "ViewCount": ""
