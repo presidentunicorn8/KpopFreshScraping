@@ -26,7 +26,7 @@
     {
         "Name": "June 4, 2025",
         "Artist": "USPEER",
-        "Details": " (유스피어) \nAlbum: 1st SINGLE ALBUM [SPEED ZONE]",
+        "Details": " (유스피어) \nTitle Track: ‘ZOOM’\nAlbum: 1st SINGLE ALBUM [SPEED ZONE]",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/USPEER_official",
         "ViewCount": ""
@@ -58,7 +58,7 @@
     {
         "Name": "June 9, 2025",
         "Artist": "KISS OF LIFE ",
-        "Details": "Album: 4th Mini Album [224]",
+        "Details": "Title Track: ‘Lips Hips Kiss’\nAlbum: 4th Mini Album [224]",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/KISSOFLIFE_S2",
         "ViewCount": ""
@@ -85,7 +85,7 @@
         "Details": " (한희)\nTitle Track: ‘삐(BBI)’",
         "ImageUrl": "https://img.youtube.com/vi/2UPLMUgTQUo/default.jpg",
         "SongLink": "https://x.com/hanheexe",
-        "ViewCount": "0 views"
+        "ViewCount": "703 views"
     },
     {
         "Name": "June 11, 2025",
@@ -114,7 +114,7 @@
     {
         "Name": "June 13, 2025",
         "Artist": "ATEEZ",
-        "Details": " (에이티즈)\nAlbum: 12th Mini Album GOLDEN HOUR: Part.3",
+        "Details": " (에이티즈)\nTitle Track: “Lemon Drop”\nAlbum: 12th Mini Album GOLDEN HOUR: Part.3",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/ATEEZofficial",
         "ViewCount": ""
@@ -138,7 +138,7 @@
     {
         "Name": "June 13, 2025",
         "Artist": "ARTMS",
-        "Details": "<Club Icarus>",
+        "Details": "Title Track: “Icarus”\nAlbum: <Club Icarus>",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/official_artms",
         "ViewCount": ""
@@ -205,6 +205,14 @@
         "Details": " \nAlbum: 𝟣𝗌𝗍 𝖬𝗂𝗇𝗂 𝖠𝗅𝖻𝗎𝗆 𝐀𝐥𝐥 𝐀𝐛𝐨𝐮𝐭 𝐁𝐥𝐮𝐞",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/YookSJ_official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 20, 2025",
+        "Artist": "OX:N ",
+        "Details": "(OMEGA X Subunit)\nAlbum: THE 1st EP ALBUM",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/OmegaX_official",
         "ViewCount": ""
     },
     {
