@@ -3,22 +3,30 @@
         "Name": "June 1, 2025",
         "Artist": "B.I",
         "Details": " \nTitle Track: “(관람차) Ferris Wheel (feat.Heize)”\nAlbum: 3rd Album ‘WONDERLAND’",
-        "ImageUrl": "white.png",
+        "ImageUrl": "https://img.youtube.com/vi/59zaEicCZbU/default.jpg",
         "SongLink": "https://x.com/BI_131official",
-        "ViewCount": ""
+        "ViewCount": "86K views"
     },
     {
         "Name": "June 1, 2025",
         "Artist": "TMC",
-        "Details": "Album: 𝖩𝖺𝗉𝖺𝗇 𝟤𝗇𝖽 𝖲𝗂𝗇𝗀𝗅𝖾 [ 𝐁𝐥𝐮𝐞 𝐑𝐨𝐬𝐞 ]",
+        "Details": " (JP)\nAlbum: 𝖩𝖺𝗉𝖺𝗇 𝟤𝗇𝖽 𝖲𝗂𝗇𝗀𝗅𝖾 [ 𝐁𝐥𝐮𝐞 𝐑𝐨𝐬𝐞 ]",
         "ImageUrl": "white.png",
-        "SongLink": "https://x.com/tmc_official_jp",
+        "SongLink": "https://x.com/tmc_official_kr/",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 2, 2025",
+        "Artist": "BAEKHYUN",
+        "Details": " (백현)\nAlbum: The 5th Mini Album ‘Essence of Reverie’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/BAEKHYUN_INB100",
         "ViewCount": ""
     },
     {
         "Name": "June 2, 2025",
         "Artist": "HITGS ",
-        "Details": "Album: The 1st Digital Single 【GROSS】",
+        "Details": "Title Track: ‘GROSS’ \nAlbum: The 1st Digital Single 【GROSS】",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/HITGS_offcl",
         "ViewCount": ""
@@ -85,7 +93,15 @@
         "Details": " (한희)\nTitle Track: ‘삐(BBI)’",
         "ImageUrl": "https://img.youtube.com/vi/2UPLMUgTQUo/default.jpg",
         "SongLink": "https://x.com/hanheexe",
-        "ViewCount": "733 views"
+        "ViewCount": "748 views"
+    },
+    {
+        "Name": "June 10, 2025",
+        "Artist": "COOING",
+        "Details": " (쿠잉)\nAlbum: EP ALBUM [DREAMER]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/cooing___official",
+        "ViewCount": ""
     },
     {
         "Name": "June 11, 2025",
@@ -104,11 +120,27 @@
         "ViewCount": ""
     },
     {
+        "Name": "June 11, 2025",
+        "Artist": "CRAZANGEL",
+        "Details": "(크레이즈엔젤)",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/CRAZANGEL_",
+        "ViewCount": ""
+    },
+    {
         "Name": "June 12, 2025",
         "Artist": "Double 0ne",
         "Details": " (BAE173 x Fantasy Boys)\nTitle Track: ‘On the Rocks with Kiss’\nAlbum: 1st Mini Album [Xpert]",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/PocketDolStudio",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 12, 2025",
+        "Artist": "PRIMROSE",
+        "Details": "Album: Digital Single ‘CINEMA’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/PRIMROSE_AO",
         "ViewCount": ""
     },
     {
