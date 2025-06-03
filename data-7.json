@@ -1,5 +1,13 @@
 [
     {
+        "Name": "July 28, 2023",
+        "Artist": "Song Criteria",
+        "Details": "Please use the \nTable of Contents",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 1, 2025",
         "Artist": "BABYMONSTER",
         "Details": "More Info: ",
@@ -37,6 +45,22 @@
         "Details": " (JP)\nAlbum: JAPAN ALBUM “LOVE RACE”",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/SF9_official_jp/status/1925114346864259439",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 16, 2025",
+        "Artist": "xikers",
+        "Details": " (JP)\nAlbum: JAPAN 2ND SINGLE「Up All Night」",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/xikers_jp",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 16, 2025",
+        "Artist": "NEXZ",
+        "Details": " (JP)\nAlbum: Japan 2nd EP『One Bite』",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/NEXZ_official",
         "ViewCount": ""
     },
     {
