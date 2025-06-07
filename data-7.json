@@ -3,9 +3,9 @@
         "Name": "July 28, 2023",
         "Artist": "Song Criteria",
         "Details": "Please use the \nTable of Contents",
-        "ImageUrl": "https://img.youtube.com/vi/o5ITMCwXMMI/default.jpg",
-        "SongLink": "https://youtu.be/o5ITMCwXMMI",
-        "ViewCount": "352K views"
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
     },
     {
         "Name": "July 1, 2025",
@@ -70,6 +70,14 @@
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/NEXZ_official",
         "ViewCount": ""
+    },
+    {
+        "Name": "July 18, 2025",
+        "Artist": "Jackson Wang",
+        "Details": " (GOT7)",
+        "ImageUrl": "https://img.youtube.com/vi/Fd71HoHirUI/default.jpg",
+        "SongLink": "https://x.com/JacksonWang852",
+        "ViewCount": "0 views"
     },
     {
         "Name": "July 30, 2025",
