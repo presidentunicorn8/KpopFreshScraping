@@ -3,9 +3,9 @@
         "Name": "July 28, 2023",
         "Artist": "Song Criteria",
         "Details": "Please use the \nTable of Contents",
-        "ImageUrl": "https://img.youtube.com/vi/o5ITMCwXMMI/default.jpg",
-        "SongLink": "https://youtu.be/o5ITMCwXMMI",
-        "ViewCount": "356K views"
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
     },
     {
         "Name": "July 1, 2025",
@@ -13,6 +13,14 @@
         "Details": "More Info: ",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/YGBABYMONSTER_",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 2, 2025",
+        "Artist": "KARD",
+        "Details": " \nAlbum: 8th Mini Album [DRIFT]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/KARD_Official",
         "ViewCount": ""
     },
     {
@@ -26,9 +34,17 @@
     {
         "Name": "July 2, 2025",
         "Artist": "MYNAME",
-        "Details": " (JP)\nAlbum: mini-album “VIVID”",
+        "Details": " (JP)\nTitle Track: “BAD BAD HIGHER”\nAlbum: mini-album “VIVID”",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/myname_jp",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 7, 2025",
+        "Artist": "Doh Kyung Soo",
+        "Details": " (EXO D.O.)\nAlbum: The 1st full album [BLISS]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/companysoosoo_",
         "ViewCount": ""
     },
     {
@@ -77,7 +93,7 @@
         "Details": " (GOT7)",
         "ImageUrl": "https://img.youtube.com/vi/Fd71HoHirUI/default.jpg",
         "SongLink": "https://x.com/JacksonWang852",
-        "ViewCount": "383K views"
+        "ViewCount": "0 views"
     },
     {
         "Name": "July 30, 2025",
