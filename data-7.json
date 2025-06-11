@@ -5,7 +5,7 @@
         "Details": "Please use the \nTable of Contents",
         "ImageUrl": "https://img.youtube.com/vi/o5ITMCwXMMI/default.jpg",
         "SongLink": "https://youtu.be/o5ITMCwXMMI",
-        "ViewCount": "360K views"
+        "ViewCount": "361K views"
     },
     {
         "Name": "July 1, 2025",
@@ -13,6 +13,14 @@
         "Details": "More Info: ",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/YGBABYMONSTER_",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 1, 2025",
+        "Artist": "AHOF",
+        "Details": " (아홉)",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/AHOF_official",
         "ViewCount": ""
     },
     {
@@ -106,9 +114,9 @@
     {
         "Name": "July 31, 2025",
         "Artist": "Tomorrow X Together",
-        "Details": "혜윤(HEYOON)\nSports Seoul\nAHOF (아홉)",
+        "Details": "혜윤(HEYOON)\nSports Seoul",
         "ImageUrl": "white.png",
-        "SongLink": "https://x.com/fnfent_official/status/1925365083133419842",
+        "SongLink": "https://m.entertain.naver.com/now/article/468/0001152079",
         "ViewCount": ""
     }
 ]
