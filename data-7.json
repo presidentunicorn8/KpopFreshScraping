@@ -3,9 +3,9 @@
         "Name": "July 28, 2023",
         "Artist": "Song Criteria",
         "Details": "Please use the \nTable of Contents",
-        "ImageUrl": "https://img.youtube.com/vi/o5ITMCwXMMI/default.jpg",
-        "SongLink": "https://youtu.be/o5ITMCwXMMI",
-        "ViewCount": "363K views"
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
     },
     {
         "Name": "July 1, 2025",
@@ -72,6 +72,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 15, 2025",
+        "Artist": "ONEW",
+        "Details": " (SHINee)\nAlbum: 2ND ALBUM [PERCENT]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/ONEW_GRIFFIN",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 16, 2025",
         "Artist": "SF9",
         "Details": " (JP)\nAlbum: JAPAN ALBUM “LOVE RACE”",
@@ -101,7 +109,7 @@
         "Details": " (GOT7)",
         "ImageUrl": "https://img.youtube.com/vi/Fd71HoHirUI/default.jpg",
         "SongLink": "https://x.com/JacksonWang852",
-        "ViewCount": "2M views"
+        "ViewCount": "0 views"
     },
     {
         "Name": "July 30, 2025",
