@@ -3,9 +3,9 @@
         "Name": "July 28, 2023",
         "Artist": "Song Criteria",
         "Details": "Please use the \nTable of Contents",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/o5ITMCwXMMI/default.jpg",
+        "SongLink": "https://youtu.be/o5ITMCwXMMI",
+        "ViewCount": "366K views"
     },
     {
         "Name": "July 1, 2025",
@@ -26,9 +26,17 @@
     {
         "Name": "July 2, 2025",
         "Artist": "KARD",
-        "Details": " \nAlbum: 8th Mini Album [DRIFT]",
+        "Details": " \nTitle Track: “Touch”\nAlbum: 8th Mini Album [DRIFT]",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/KARD_Official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 2, 2025",
+        "Artist": "RESCENE",
+        "Details": "Album: 2nd Single Album <Dearest>",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/RESCENEofficial",
         "ViewCount": ""
     },
     {
@@ -109,7 +117,15 @@
         "Details": " (GOT7)",
         "ImageUrl": "https://img.youtube.com/vi/Fd71HoHirUI/default.jpg",
         "SongLink": "https://x.com/JacksonWang852",
-        "ViewCount": "0 views"
+        "ViewCount": "6M views"
+    },
+    {
+        "Name": "July 29, 2025",
+        "Artist": "ENHYPEN",
+        "Details": " (JP)\nAlbum: JAPAN 4th SINGLE ‘宵 -YOI-‘",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/ENHYPEN_JP/status/1933346973052219470",
+        "ViewCount": ""
     },
     {
         "Name": "July 30, 2025",
