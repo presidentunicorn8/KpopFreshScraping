@@ -5,7 +5,7 @@
         "Details": "Please use the \nTable of Contents",
         "ImageUrl": "https://img.youtube.com/vi/o5ITMCwXMMI/default.jpg",
         "SongLink": "https://youtu.be/o5ITMCwXMMI",
-        "ViewCount": "369K views"
+        "ViewCount": "370K views"
     },
     {
         "Name": "July 1, 2025",
@@ -18,9 +18,17 @@
     {
         "Name": "July 1, 2025",
         "Artist": "AHOF",
-        "Details": " (아홉)",
+        "Details": " (아홉)\nAlbum: The 1st Mini Album [WHO WE ARE]",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/AHOF_official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 1, 2025",
+        "Artist": "ONE PACT",
+        "Details": "(원팩트)\nAlbum: 4th Mini Album ‘ONE FACT’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/onepact_",
         "ViewCount": ""
     },
     {
@@ -88,6 +96,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 9, 2025",
+        "Artist": "PLAVE",
+        "Details": " (JP)\nTitle Track: ‘かくれんぼ (Hide and Seek)’\nAlbum: JP 1ST SINGLE 「かくれんぼ」",
+        "ImageUrl": "https://img.youtube.com/vi/5eCFXT6Gnio/default.jpg",
+        "SongLink": "https://youtu.be/5eCFXT6Gnio?si=NjeyT44ZKV4URnJO",
+        "ViewCount": "1M views"
+    },
+    {
         "Name": "July 11, 2025",
         "Artist": "TWICE",
         "Details": "Album: 4TH FULL ALBUM “THIS IS FOR”",
@@ -133,7 +149,15 @@
         "Details": " (GOT7)",
         "ImageUrl": "https://img.youtube.com/vi/Fd71HoHirUI/default.jpg",
         "SongLink": "https://x.com/JacksonWang852",
-        "ViewCount": "9M views"
+        "ViewCount": "10M views"
+    },
+    {
+        "Name": "July 22, 2025",
+        "Artist": "ONE PACT",
+        "Details": "(원팩트)\nAlbum: 4th Mini Album ‘ONE FACT’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/onepact_",
+        "ViewCount": ""
     },
     {
         "Name": "July 29, 2025",
@@ -153,8 +177,8 @@
     },
     {
         "Name": "July 31, 2025",
-        "Artist": "Tomorrow X Together",
-        "Details": "혜윤(HEYOON)\nSports Seoul",
+        "Artist": "ifeye",
+        "Details": "Tomorrow X Together\n혜윤(HEYOON)\nSports Seoul",
         "ImageUrl": "white.png",
         "SongLink": "https://m.entertain.naver.com/now/article/468/0001152079",
         "ViewCount": ""
