@@ -5,7 +5,7 @@
         "Details": "Please use the \nTable of Contents",
         "ImageUrl": "https://img.youtube.com/vi/o5ITMCwXMMI/default.jpg",
         "SongLink": "https://youtu.be/o5ITMCwXMMI",
-        "ViewCount": "370K views"
+        "ViewCount": "371K views"
     },
     {
         "Name": "July 1, 2025",
@@ -64,6 +64,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 3, 2025",
+        "Artist": "Jung Yong Hwa",
+        "Details": " (CNBLUE)\nAlbum: 3rd Mini Album [One Last Day]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/official_CNBLUE",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 5, 2025",
         "Artist": "YOU DAYEON",
         "Details": " (유다연)\nAlbum: 1st Mini Album",
@@ -80,6 +88,14 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 7, 2025",
+        "Artist": "Song Min Jun",
+        "Details": "Album: The 1st Mini Album [Prologue]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/official_songminjun/",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 8, 2025",
         "Artist": "VIVIZ",
         "Details": "Album: The 1st Album ‘A Montage of ( )’",
@@ -90,7 +106,7 @@
     {
         "Name": "July 8, 2025",
         "Artist": "SUPER JUNIOR",
-        "Details": "Album: The 12th Album 【Super Junior25】",
+        "Details": "Title Track: “Express Mode”\nAlbum: The 12th Album 【Super Junior25】",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/SJofficial",
         "ViewCount": ""
@@ -101,7 +117,7 @@
         "Details": " (JP)\nTitle Track: ‘かくれんぼ (Hide and Seek)’\nAlbum: JP 1ST SINGLE 「かくれんぼ」",
         "ImageUrl": "https://img.youtube.com/vi/5eCFXT6Gnio/default.jpg",
         "SongLink": "https://youtu.be/5eCFXT6Gnio?si=NjeyT44ZKV4URnJO",
-        "ViewCount": "1M views"
+        "ViewCount": "6M views"
     },
     {
         "Name": "July 11, 2025",
@@ -149,7 +165,7 @@
         "Details": " (GOT7)",
         "ImageUrl": "https://img.youtube.com/vi/Fd71HoHirUI/default.jpg",
         "SongLink": "https://x.com/JacksonWang852",
-        "ViewCount": "10M views"
+        "ViewCount": "12M views"
     },
     {
         "Name": "July 22, 2025",
@@ -177,8 +193,8 @@
     },
     {
         "Name": "July 31, 2025",
-        "Artist": "ifeye",
-        "Details": "Tomorrow X Together\n혜윤(HEYOON)\nSports Seoul",
+        "Artist": "YOUNGTAK",
+        "Details": "ifeye\nTomorrow X Together\n혜윤(HEYOON)\nSports Seoul",
         "ImageUrl": "white.png",
         "SongLink": "https://m.entertain.naver.com/now/article/468/0001152079",
         "ViewCount": ""
