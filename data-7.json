@@ -5,7 +5,7 @@
         "Details": "Please use the \nTable of Contents",
         "ImageUrl": "https://img.youtube.com/vi/o5ITMCwXMMI/default.jpg",
         "SongLink": "https://youtu.be/o5ITMCwXMMI",
-        "ViewCount": "373K views"
+        "ViewCount": "374K views"
     },
     {
         "Name": "July 1, 2025",
@@ -72,11 +72,27 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 4, 2025",
+        "Artist": "1VERSE",
+        "Details": " (유니버스)",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/1VERSE_official",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 5, 2025",
         "Artist": "YOU DAYEON",
         "Details": " (유다연)\nAlbum: 1st Mini Album",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/dayeon_you_",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 7, 2025",
+        "Artist": "JEON SOMI",
+        "Details": "DIGITAL SINGLE ‘EXTRA’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/somi_official_",
         "ViewCount": ""
     },
     {
@@ -117,7 +133,7 @@
         "Details": " (JP)\nTitle Track: ‘かくれんぼ (Hide and Seek)’\nAlbum: JP 1ST SINGLE 「かくれんぼ」",
         "ImageUrl": "https://img.youtube.com/vi/5eCFXT6Gnio/default.jpg",
         "SongLink": "https://youtu.be/5eCFXT6Gnio?si=NjeyT44ZKV4URnJO",
-        "ViewCount": "9M views"
+        "ViewCount": "10M views"
     },
     {
         "Name": "July 11, 2025",
@@ -165,7 +181,15 @@
         "Details": " (GOT7)",
         "ImageUrl": "https://img.youtube.com/vi/Fd71HoHirUI/default.jpg",
         "SongLink": "https://x.com/JacksonWang852",
-        "ViewCount": "13M views"
+        "ViewCount": "14M views"
+    },
+    {
+        "Name": "July 18, 2025",
+        "Artist": "1VERSE",
+        "Details": " (유니버스)",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/1VERSE_official",
+        "ViewCount": ""
     },
     {
         "Name": "July 22, 2025",
