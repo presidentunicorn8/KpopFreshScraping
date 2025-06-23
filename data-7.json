@@ -10,7 +10,7 @@
     {
         "Name": "July 1, 2025",
         "Artist": "BABYMONSTER",
-        "Details": "More Info: ",
+        "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/YGBABYMONSTER_",
         "ViewCount": ""
@@ -98,7 +98,7 @@
     {
         "Name": "July 7, 2025",
         "Artist": "Doh Kyung Soo",
-        "Details": " (EXO D.O.)\nAlbum: The 1st full album [BLISS]",
+        "Details": " (EXO D.O.)\nTitle Track: ‘SING ALONG!’ \nAlbum: The 1st full album [BLISS]",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/companysoosoo_",
         "ViewCount": ""
@@ -129,6 +129,14 @@
     },
     {
         "Name": "July 9, 2025",
+        "Artist": "CLOSE YOUR EYES",
+        "Details": "Album: The 2nd Mini Album ‘𝑺𝒏𝒐𝒘𝒚 𝑺𝒖𝒎𝒎𝒆𝒓’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/closeyoureyes_7",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 9, 2025",
         "Artist": "PLAVE",
         "Details": " (JP)\nTitle Track: ‘かくれんぼ (Hide and Seek)’\nAlbum: JP 1ST SINGLE 「かくれんぼ」",
         "ImageUrl": "https://img.youtube.com/vi/5eCFXT6Gnio/default.jpg",
@@ -144,11 +152,27 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 14, 2025",
+        "Artist": "NCT DREAM ",
+        "Details": "‘Go Back To The Future’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/NCTsmtown_DREAM",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 15, 2025",
         "Artist": "ONEW",
         "Details": " (SHINee)\nAlbum: 2ND ALBUM [PERCENT]",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/ONEW_GRIFFIN",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 16, 2025",
+        "Artist": "ifeye",
+        "Details": "Album: 2nd EP ‘sweet tang’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/ifeye_official",
         "ViewCount": ""
     },
     {
@@ -218,7 +242,7 @@
     {
         "Name": "July 31, 2025",
         "Artist": "YOUNGTAK",
-        "Details": "ifeye\nTomorrow X Together\n혜윤(HEYOON)\nSports Seoul",
+        "Details": "Tomorrow X Together\n혜윤(HEYOON)\nSports Seoul",
         "ImageUrl": "white.png",
         "SongLink": "https://m.entertain.naver.com/now/article/468/0001152079",
         "ViewCount": ""
