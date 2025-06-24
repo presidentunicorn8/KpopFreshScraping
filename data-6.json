@@ -1036,8 +1036,24 @@
         "Artist": "DIVA-X",
         "Details": "Title Track: “I Make My Choice”\nAlbum: Debut Digital Single [I Make My Choice]",
         "ImageUrl": "https://img.youtube.com/vi/esp_gUf2CK0/default.jpg",
-        "SongLink": "https://x.com/official_diva_x",
+        "SongLink": "https://youtu.be/esp_gUf2CK0?si=jJZNaOVQjvDOGKm1",
         "ViewCount": "0 views"
+    },
+    {
+        "Name": "June 28, 2023",
+        "Artist": "Music Video: ",
+        "Details": "",
+        "ImageUrl": "https://img.youtube.com/vi/3kk2OuJ-tjg/default.jpg",
+        "SongLink": "https://youtu.be/3kk2OuJ-tjg?si=DvULK5PCP6rFkm-x",
+        "ViewCount": "0 views"
+    },
+    {
+        "Name": "June 28, 2023",
+        "Artist": "DIVA-X Official X",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/official_diva_x",
+        "ViewCount": ""
     },
     {
         "Name": "June 22, 2025",
@@ -1051,41 +1067,33 @@
         "Name": "June 22, 2025",
         "Artist": "B:MY BOYZ",
         "Details": "Title Track: “‘Be My Boyz’”",
-        "ImageUrl": "https://img.youtube.com/vi/V8aO1-f9QKA/default.jpg",
-        "SongLink": "https://youtu.be/V8aO1-f9QKA?si=KxbN65lwLqohraJz",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.youtube.com/@bemyboyz_official/videos",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 23, 2025",
+        "Artist": "ALLDAY PROJECT",
+        "Details": "Title Track: ‘WICKED’\nAlbum: Debut Single ‘FAMOUS’",
+        "ImageUrl": "https://img.youtube.com/vi/mhKCRnUKp5U/default.jpg",
+        "SongLink": "https://x.com/ALLDAY_PROJECT",
         "ViewCount": "0 views"
     },
     {
         "Name": "June 23, 2025",
         "Artist": "CRAVITY",
         "Details": "Title Track: ‘SET NET G0?!’\nAlbum: The 2nd Album ‘Dare to Crave’",
-        "ImageUrl": "white.png",
+        "ImageUrl": "https://img.youtube.com/vi/IV6yrrLyhCA/default.jpg",
         "SongLink": "https://x.com/CRAVITYstarship",
-        "ViewCount": ""
+        "ViewCount": "0 views"
     },
     {
         "Name": "June 23, 2025",
         "Artist": "Baby DONT Cry",
         "Details": "Title Track: “F Girl]”\nAlbum: Debut Single [F Girl]",
-        "ImageUrl": "https://img.youtube.com/vi/uWT79Qq52sU/default.jpg",
+        "ImageUrl": "https://img.youtube.com/vi/KEUlytSqlsU/default.jpg",
         "SongLink": "https://x.com/BabyDONTCry_BDC",
         "ViewCount": "0 views"
-    },
-    {
-        "Name": "June 23, 2025",
-        "Artist": "ALLDAY PROJECT",
-        "Details": "",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
-    },
-    {
-        "Name": "June 23, 2025",
-        "Artist": "Title Track: ‘FAMOUS’",
-        "Details": "Album: Debut Single ‘FAMOUS’",
-        "ImageUrl": "white.png",
-        "SongLink": "https://x.com/ALLDAY_PROJECT",
-        "ViewCount": ""
     },
     {
         "Name": "June 23, 2025",
@@ -1099,9 +1107,9 @@
         "Name": "June 23, 2025",
         "Artist": "Jang Wooyoung",
         "Details": " (2PM)\nTitle Track: “Simple dance”\nAlbum: Digital Single “Simple dance”",
-        "ImageUrl": "white.png",
+        "ImageUrl": "https://img.youtube.com/vi/XCRV94FmzzE/default.jpg",
         "SongLink": "https://x.com/followwooyoung",
-        "ViewCount": ""
+        "ViewCount": "0 views"
     },
     {
         "Name": "June 23, 2025",
@@ -1109,6 +1117,46 @@
         "Details": "Title Track: “Summer Booming”; “애니메이션 (Animation)”\nAlbum: 2nd Digital EP [MEMO-LEE’s]",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/truesol__",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 23, 2025",
+        "Artist": "DIVA-X",
+        "Details": "Title Track: “I Make My Choice”\nAlbum: Debut Digital Single [I Make My Choice]",
+        "ImageUrl": "https://img.youtube.com/vi/esp_gUf2CK0/default.jpg",
+        "SongLink": "https://youtu.be/esp_gUf2CK0?si=jJZNaOVQjvDOGKm1",
+        "ViewCount": "0 views"
+    },
+    {
+        "Name": "June 28, 2023",
+        "Artist": "Music Video: ",
+        "Details": "",
+        "ImageUrl": "https://img.youtube.com/vi/3kk2OuJ-tjg/default.jpg",
+        "SongLink": "https://youtu.be/3kk2OuJ-tjg?si=DvULK5PCP6rFkm-x",
+        "ViewCount": "0 views"
+    },
+    {
+        "Name": "June 28, 2023",
+        "Artist": "DIVA-X Official X",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/official_diva_x",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 23, 2025",
+        "Artist": "izna",
+        "Details": " (JP)",
+        "ImageUrl": "https://img.youtube.com/vi/LiZAgfmoQwc/default.jpg",
+        "SongLink": "https://youtu.be/LiZAgfmoQwc?si=OXlJfiQfhFD-Cucp",
+        "ViewCount": "0 views"
+    },
+    {
+        "Name": "June 24, 2025",
+        "Artist": "ONEW",
+        "Details": " (SHINee)\nAlbum: 2ND ALBUM [PERCENT]",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/ONEW_GRIFFIN",
         "ViewCount": ""
     },
     {
@@ -1145,6 +1193,14 @@
     },
     {
         "Name": "June 26, 2025",
+        "Artist": "CATCH THE YOUNG",
+        "Details": "Title Track: “이상형(Ideal Type)”",
+        "ImageUrl": "https://img.youtube.com/vi/Zxzb44dARLQ/default.jpg",
+        "SongLink": "https://x.com/catch_theyoung",
+        "ViewCount": "0 views"
+    },
+    {
+        "Name": "June 26, 2025",
         "Artist": "Lim Hyun-jung",
         "Details": "Album: Extraordinary (엑스트라오디너리)",
         "ImageUrl": "white.png",
@@ -1169,6 +1225,14 @@
     },
     {
         "Name": "June 27, 2025",
+        "Artist": "d4vd",
+        "Details": "Title Track: “Always Love ft. Hyunjin (Stray Kids)”",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/d4vddd",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 27, 2025",
         "Artist": "POW",
         "Details": " \nTitle Track: “다정해지는 법 (Being Tender)”\nAlbum: 3rd EP [Being Tender]",
         "ImageUrl": "white.png",
@@ -1189,6 +1253,14 @@
         "Details": "Album: Digital Single [Better Than Me]",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/official__wonho",
+        "ViewCount": ""
+    },
+    {
+        "Name": "June 27, 2025",
+        "Artist": "JESSI",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/jessicah_o/",
         "ViewCount": ""
     },
     {
