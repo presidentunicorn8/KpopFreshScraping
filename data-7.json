@@ -3,9 +3,9 @@
         "Name": "July 28, 2023",
         "Artist": "Song Criteria",
         "Details": "Please use the \nTable of Contents",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/o5ITMCwXMMI/default.jpg",
+        "SongLink": "https://youtu.be/o5ITMCwXMMI",
+        "ViewCount": "380K views"
     },
     {
         "Name": "July 1, 2025",
@@ -149,7 +149,7 @@
         "Details": " (JP)\nTitle Track: ‘かくれんぼ (Hide and Seek)’\nAlbum: JP 1ST SINGLE 「かくれんぼ」",
         "ImageUrl": "https://img.youtube.com/vi/5eCFXT6Gnio/default.jpg",
         "SongLink": "https://youtu.be/5eCFXT6Gnio?si=NjeyT44ZKV4URnJO",
-        "ViewCount": "0 views"
+        "ViewCount": "10M views"
     },
     {
         "Name": "July 11, 2025",
@@ -160,11 +160,27 @@
         "ViewCount": ""
     },
     {
+        "Name": "July 11, 2025",
+        "Artist": "ATEEZ",
+        "Details": "Album: GOLDEN HOUR : Part.3 ‘In Your Fantasy Edition’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/ATEEZofficial",
+        "ViewCount": ""
+    },
+    {
         "Name": "July 14, 2025",
         "Artist": "NCT DREAM ",
         "Details": "‘Go Back To The Future’",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/NCTsmtown_DREAM",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 14, 2025",
+        "Artist": "JO YURI",
+        "Details": "Title Track: “이제 안녕! (Farewell for now!)”\nAlbum: The 3rd Mini Album ‘Episode 25’",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/JOYURI_offcl",
         "ViewCount": ""
     },
     {
@@ -221,7 +237,7 @@
         "Details": " (GOT7)",
         "ImageUrl": "https://img.youtube.com/vi/Fd71HoHirUI/default.jpg",
         "SongLink": "https://x.com/JacksonWang852",
-        "ViewCount": "0 views"
+        "ViewCount": "16M views"
     },
     {
         "Name": "July 18, 2025",
@@ -257,8 +273,8 @@
     },
     {
         "Name": "July 31, 2025",
-        "Artist": "YOUNGTAK",
-        "Details": "Tomorrow X Together\n혜윤(HEYOON)\nSports Seoul",
+        "Artist": "EPEX",
+        "Details": "Album: 3rd Album: Youth Chapter 3 : ROMANTIC YOUTH)\nYOUNGTAK\nTomorrow X Together\n혜윤(HEYOON)\nSports Seoul",
         "ImageUrl": "white.png",
         "SongLink": "https://m.entertain.naver.com/now/article/468/0001152079",
         "ViewCount": ""
