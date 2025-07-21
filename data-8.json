@@ -65,18 +65,26 @@
     },
     {
         "Name": "August 7, 2025",
-        "Artist": "Friday",
-        "Details": "",
+        "Artist": "Yves",
+        "Details": "Album: 3rd EP [Soft Error]\nFriday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/Yves___official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 8, 2025",
+        "Artist": "MUU",
+        "Details": " (뮤)",
         "ImageUrl": "white.png",
         "SongLink": "no",
         "ViewCount": ""
     },
     {
-        "Name": "August 8, 2025",
-        "Artist": "Saturday",
-        "Details": "",
+        "Name": "June 19, 2025",
+        "Artist": "Album: Single – ‘ContiNEW’",
+        "Details": "Saturday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://www.instagram.com/lim_muu/",
         "ViewCount": ""
     },
     {
@@ -97,10 +105,26 @@
     },
     {
         "Name": "August 11, 2025",
-        "Artist": "Tuesday",
+        "Artist": "JEON SOMI",
         "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "July 7, 2025",
+        "Artist": "Music Video: ",
+        "Details": "",
+        "ImageUrl": "https://img.youtube.com/vi/zq5mr3ePY1I/default.jpg",
+        "SongLink": "https://youtu.be/zq5mr3ePY1I?si=NdUGzBKc95uWbgoQ",
+        "ViewCount": "14M views"
+    },
+    {
+        "Name": "August 11, 2025",
+        "Artist": "Album: 2nd EP ALBUM 𝑪𝒉𝒂𝒐𝒕𝒊𝒄 & 𝑪𝒐𝒏𝐟𝒖𝒔𝒆𝒅",
+        "Details": "Tuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/somi_official_",
         "ViewCount": ""
     },
     {
@@ -141,7 +165,7 @@
         "Details": "",
         "ImageUrl": "https://img.youtube.com/vi/7KH-kY1IbKI/default.jpg",
         "SongLink": "https://youtu.be/7KH-kY1IbKI?si=srTg5VCvZkKds9qb",
-        "ViewCount": "225K views"
+        "ViewCount": "226K views"
     },
     {
         "Name": "August 15, 2025",
