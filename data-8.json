@@ -10,7 +10,7 @@
     {
         "Name": "August 1, 2025",
         "Artist": "SAY MY NAME",
-        "Details": "Album: 1st SINGLE [iLy]\nSaturday",
+        "Details": "Title Track: ‘iLy’ \nAlbum: 1st SINGLE [iLy]\nSaturday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/sa2m2nam3",
         "ViewCount": ""
@@ -122,9 +122,25 @@
     {
         "Name": "August 11, 2025",
         "Artist": "Album: 2nd EP ALBUM 𝑪𝒉𝒂𝒐𝒕𝒊𝒄 & 𝑪𝒐𝒏𝐟𝒖𝒔𝒆𝒅",
-        "Details": "Tuesday",
+        "Details": "Monday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/somi_official_",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 11, 2025",
+        "Artist": "KEY",
+        "Details": " (SHINee)\nAlbum: The 3rd Album 【HUNTER】\nMonday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/SHINee",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 11, 2025",
+        "Artist": "YUJU",
+        "Details": "Album: 3RD MINI ALBUM 소나무르 (SONAMOUR)\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/YUJU__OFFlCIAL",
         "ViewCount": ""
     },
     {
@@ -138,17 +154,17 @@
     {
         "Name": "August 13, 2025",
         "Artist": "AtHeart",
-        "Details": "Album: Debut EP – Plot Twist\nThursday",
+        "Details": "Title Track: ‘Plot Twist’\nAlbum: Debut 1st EP ‘Plot Twist’\nThursday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/atheart_titan",
         "ViewCount": ""
     },
     {
         "Name": "August 14, 2025",
-        "Artist": "Friday",
-        "Details": "",
+        "Artist": "YOUNG POSSE",
+        "Details": "Album: 4th EP〈Growing Pain pt1 : FREE〉\nFriday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/youngposseup/",
         "ViewCount": ""
     },
     {
@@ -165,7 +181,7 @@
         "Details": "",
         "ImageUrl": "https://img.youtube.com/vi/7KH-kY1IbKI/default.jpg",
         "SongLink": "https://youtu.be/7KH-kY1IbKI?si=srTg5VCvZkKds9qb",
-        "ViewCount": "226K views"
+        "ViewCount": "227K views"
     },
     {
         "Name": "August 15, 2025",
@@ -306,7 +322,7 @@
     {
         "Name": "August 31, 2025",
         "Artist": "KiiiKiii",
-        "Details": "YOUNG POSSE\nKep1er\nSoompi",
+        "Details": "Kep1er\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1755134wpp/kep1er-confirmed-to-make-august-comeback",
         "ViewCount": ""
