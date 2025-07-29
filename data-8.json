@@ -42,9 +42,17 @@
     {
         "Name": "August 4, 2025",
         "Artist": "BoA",
-        "Details": " (보아)\nTitle Track: ‘Crazier’\nAlbum: The 11th Album 〖Crazier〗\nTuesday",
+        "Details": " (보아)\nTitle Track: ‘Crazier’\nAlbum: The 11th Album 〖Crazier〗\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/BoA_Official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 4, 2025",
+        "Artist": "YOUNITE",
+        "Details": "Album: 2ND SINGLE ‘BOMBA’\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/YOUNITE_offcl",
         "ViewCount": ""
     },
     {
@@ -77,7 +85,7 @@
         "Details": "Album: 3rd EP [Soft Error]\nThursday",
         "ImageUrl": "https://img.youtube.com/vi/XuBE8ns_Ato/default.jpg",
         "SongLink": "https://x.com/Yves___official",
-        "ViewCount": "453K views"
+        "ViewCount": "552K views"
     },
     {
         "Name": "August 7, 2025",
@@ -90,10 +98,18 @@
     {
         "Name": "August 7, 2025",
         "Artist": "Queenz Eye",
-        "Details": " (퀸즈아이)\nAlbum: 1st Mini Album [ PRISM EP.01 ]\nFriday",
+        "Details": " (퀸즈아이)\nAlbum: 1st Mini Album [ PRISM EP.01 ]\nThursday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/Queenz_Eye",
         "ViewCount": ""
+    },
+    {
+        "Name": "August 7, 2025",
+        "Artist": "KARDI",
+        "Details": "(카디)\nTitle Track: “Burning My Heart”\nOST: 열혈강호 귀환 OST\nFriday",
+        "ImageUrl": "https://img.youtube.com/vi/LEBpAxIX1VQ/default.jpg",
+        "SongLink": "https://youtu.be/LEBpAxIX1VQ?si=9oSouOuSyexT6gra",
+        "ViewCount": "1K views"
     },
     {
         "Name": "August 8, 2025",
@@ -106,9 +122,17 @@
     {
         "Name": "June 19, 2025",
         "Artist": "Album: Single – ‘ContiNEW’",
-        "Details": "Saturday",
+        "Details": "Friday",
         "ImageUrl": "white.png",
         "SongLink": "https://www.instagram.com/lim_muu/",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 8, 2025",
+        "Artist": "RE:WIND",
+        "Details": " (리:와인드)\nAlbum: The Debut EP\nSaturday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/REWINDMEMBERS",
         "ViewCount": ""
     },
     {
@@ -161,10 +185,10 @@
     },
     {
         "Name": "August 12, 2025",
-        "Artist": "Wednesday",
-        "Details": "",
+        "Artist": "AMPERS&ONE",
+        "Details": " (앰퍼샌드원)\nAlbum: 3rd Mini Album [LOUD & PROUD]\nWednesday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/_AMPERSANDONE_",
         "ViewCount": ""
     },
     {
@@ -197,7 +221,7 @@
         "Details": "",
         "ImageUrl": "https://img.youtube.com/vi/7KH-kY1IbKI/default.jpg",
         "SongLink": "https://youtu.be/7KH-kY1IbKI?si=srTg5VCvZkKds9qb",
-        "ViewCount": "287K views"
+        "ViewCount": "309K views"
     },
     {
         "Name": "August 15, 2025",
@@ -265,10 +289,10 @@
     },
     {
         "Name": "August 21, 2025",
-        "Artist": "Friday",
-        "Details": "",
+        "Artist": "8TURN",
+        "Details": "Album: 2nd Single Album [Electric Heart : 찬란하게 빛날]\nFriday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/8TURN_official",
         "ViewCount": ""
     },
     {
@@ -357,6 +381,14 @@
         "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 31, 2025",
+        "Artist": "R.Tee x Jeon So-yeon (i-dle)",
+        "Details": "Single – ‘담다디’\nJTBC\nIVE (End of August)\nYTN\nKep1er\nSoompi",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.soompi.com/article/1755134wpp/kep1er-confirmed-to-make-august-comeback",
         "ViewCount": ""
     }
 ]
