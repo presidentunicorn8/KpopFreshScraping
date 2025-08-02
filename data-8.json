@@ -18,18 +18,50 @@
     {
         "Name": "August 1, 2025",
         "Artist": "xikers",
-        "Details": "‘ICONIC’\nFriday",
-        "ImageUrl": "white.png",
+        "Details": "Title Track: ‘ICONIC’\nAlbum: Single – ‘ICONIC’\nFriday",
+        "ImageUrl": "https://img.youtube.com/vi/NooXgf3Nt1Q/default.jpg",
         "SongLink": "https://x.com/xikers_official",
-        "ViewCount": ""
+        "ViewCount": "40K views"
     },
     {
         "Name": "August 1, 2025",
         "Artist": "TAEHYUN",
-        "Details": " (TOMORROW X TOGETHER)\nAlbum: 4th Studio Album The Star Chapter: TOGETHER\nSaturday",
+        "Details": " (TOMORROW X TOGETHER)\nAlbum: 4th Studio Album The Star Chapter: TOGETHER\nFriday",
         "ImageUrl": "https://img.youtube.com/vi/0NpyuuGqK9k/default.jpg",
         "SongLink": "https://youtu.be/0NpyuuGqK9k?si=PLWhLqX7wkST9hY5",
-        "ViewCount": "268K views"
+        "ViewCount": "489K views"
+    },
+    {
+        "Name": "August 1, 2025",
+        "Artist": "ILLIT x Sophie Powers",
+        "Details": "Title Track: “jellyous (Feat. Sophie Powers)”\nAlbum: Single – jellyous (Feat. Sophie Powers)\nFriday",
+        "ImageUrl": "https://img.youtube.com/vi/omlhd5Xm-zU/default.jpg",
+        "SongLink": "https://youtu.be/omlhd5Xm-zU?si=P5UQwGHQGYIm6pQT",
+        "ViewCount": "25K views"
+    },
+    {
+        "Name": "August 1, 2025",
+        "Artist": "fromis_9",
+        "Details": " (프로미스나인)\nTitle Track: “Touchdown”\nOST: The Winning Try OST Part 2\nFriday",
+        "ImageUrl": "https://img.youtube.com/vi/peoZYyEvY-k/default.jpg",
+        "SongLink": "https://youtu.be/peoZYyEvY-k?si=QXgW7z6dQk6we-Dk",
+        "ViewCount": "11K views"
+    },
+    {
+        "Name": "August 1, 2025",
+        "Artist": "Park Bo Gum",
+        "Details": "Title Track: “Uphill Road” [feat. Yoon Jong Shin]\nAlbum: Single – Uphill Road (The Seasons: Cantabile of Park Bo Gum) [feat. Yoon Jong Shin]\nFriday",
+        "ImageUrl": "https://img.youtube.com/vi/pxFRMiVXFDo/default.jpg",
+        "SongLink": "https://youtu.be/pxFRMiVXFDo?si=S9yiv7RIm921mE1_",
+        "ViewCount": "8K views"
+    },
+    {
+        "Name": "August 1, 2025",
+        "Artist": "Rainbow18",
+        "Details": "Title Track: “FESTIVAL”\nAlbum: EP – FESTIVAL\nSaturday",
+        "ImageUrl": "https://img.youtube.com/vi/AYJ6G8z9rCM/default.jpg",
+        "SongLink": "https://youtu.be/AYJ6G8z9rCM?si=rlzP060VDyxsBs7o",
+        "ViewCount": "3K views"
     },
     {
         "Name": "August 2, 2025",
@@ -109,7 +141,7 @@
         "Details": "Title Track: “Call Me”\nThursday",
         "ImageUrl": "https://img.youtube.com/vi/jcZ7yG0BEjE/default.jpg",
         "SongLink": "https://youtu.be/jcZ7yG0BEjE?si=kBXY14BtS9kAppuS",
-        "ViewCount": "1K views"
+        "ViewCount": "44K views"
     },
     {
         "Name": "August 7, 2025",
@@ -117,7 +149,7 @@
         "Details": "Album: 3rd EP [Soft Error]\nThursday",
         "ImageUrl": "https://img.youtube.com/vi/XuBE8ns_Ato/default.jpg",
         "SongLink": "https://x.com/Yves___official",
-        "ViewCount": "835K views"
+        "ViewCount": "1M views"
     },
     {
         "Name": "August 7, 2025",
@@ -277,7 +309,7 @@
         "Details": "",
         "ImageUrl": "https://img.youtube.com/vi/7KH-kY1IbKI/default.jpg",
         "SongLink": "https://youtu.be/7KH-kY1IbKI?si=srTg5VCvZkKds9qb",
-        "ViewCount": "378K views"
+        "ViewCount": "405K views"
     },
     {
         "Name": "August 15, 2025",
@@ -306,9 +338,17 @@
     {
         "Name": "August 18, 2025",
         "Artist": "JOY",
-        "Details": " (Red Velvet)\nAlbum: The 1st Mini Album 【From JOY, with Love】\nTuesday",
+        "Details": " (Red Velvet)\nAlbum: The 1st Mini Album 【From JOY, with Love】\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/RVsmtown",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 18, 2025",
+        "Artist": "Vince ",
+        "Details": "Title Track: ‘차차차 (CHA CHA CHA) (feat. G-DRAGON)’\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/THEBLACKLABEL",
         "ViewCount": ""
     },
     {
@@ -346,9 +386,17 @@
     {
         "Name": "August 21, 2025",
         "Artist": "8TURN",
-        "Details": "Album: 2nd Single Album [Electric Heart : 찬란하게 빛날]\nFriday",
+        "Details": "Album: 2nd Single Album [Electric Heart : 찬란하게 빛날]\nThursday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/8TURN_official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "August 21, 2025",
+        "Artist": "TEEN TOP",
+        "Details": "Album: < Just 15, Just Teen Top >\nFriday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/TEEN_TOP",
         "ViewCount": ""
     },
     {
