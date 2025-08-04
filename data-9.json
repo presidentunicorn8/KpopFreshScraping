@@ -17,6 +17,14 @@
     },
     {
         "Name": "September 1, 2025",
+        "Artist": "TREASURE",
+        "Details": "Album: 3rd MINI ALBUM [LOVE PULSE]\nMonday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/ygent_official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 1, 2025",
         "Artist": "MONSTA X",
         "Details": "Album: MINI ALBUM 𝑻𝑯𝑬 𝑿\nMonday",
         "ImageUrl": "white.png",
@@ -57,10 +65,18 @@
     },
     {
         "Name": "September 5, 2025",
-        "Artist": "Saturday",
-        "Details": "",
+        "Artist": "aespa",
+        "Details": "Album: The 6th Mini Album 〖Rich Man〗\nFriday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/aespa_official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 5, 2025",
+        "Artist": "DAY6",
+        "Details": "Album: 4th Full Album <The DECADE>\nSaturday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/day6official",
         "ViewCount": ""
     },
     {
@@ -274,9 +290,9 @@
     {
         "Name": "September 30, 2025",
         "Artist": "Wendy (Red Velvet)",
-        "Details": "Lee Jun Young\nSoompi\naespa\nSoompi\nBABYMONSTER\nSeptember: Second Single",
+        "Details": "Lee Jun Young\nSoompi\nBABYMONSTER\nSeptember: Second Single",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1759828wpp/aespa-confirmed-to-be-gearing-up-for-september-comeback",
+        "SongLink": "https://www.soompi.com/article/1761360wpp/lee-jun-young-confirmed-to-make-solo-comeback",
         "ViewCount": ""
     },
     {
