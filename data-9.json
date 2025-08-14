@@ -3,14 +3,14 @@
         "Name": "September 28, 2023",
         "Artist": "Song Criteria",
         "Details": "Please use the \nTable of Contents\nMonday",
-        "ImageUrl": "https://img.youtube.com/vi/Il_3G44jaT8/default.jpg",
-        "SongLink": "https://youtu.be/Il_3G44jaT8",
-        "ViewCount": "13 views"
+        "ImageUrl": "https://img.youtube.com/vi/e6vZuBGFp9I/default.jpg",
+        "SongLink": "https://youtu.be/e6vZuBGFp9I",
+        "ViewCount": "1M views"
     },
     {
         "Name": "September 1, 2025",
         "Artist": "ZEROBASEONE",
-        "Details": "Album: The 1st Full Album “NEVER SAY NEVER”\nMonday",
+        "Details": "Title Track: “ICONIK”\nAlbum: The 1st Full Album “NEVER SAY NEVER”\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/zb1_official?s=21&t=Uez8n_4ZGeUUYhX2TKBlgQ",
         "ViewCount": ""
@@ -29,6 +29,22 @@
         "Details": "Album: MINI ALBUM 𝑻𝑯𝑬 𝑿\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/OfficialMONSTAX",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 1, 2025",
+        "Artist": "NCT WISH",
+        "Details": "Album: The 3rd Mini Album – COLOR\nMonday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/nctwishofficial",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 1, 2025",
+        "Artist": "JUN. K",
+        "Details": " (2PM)\nAlbum: 4th Mini Album “Dear my muse”\nMonday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/follow_jun_k",
         "ViewCount": ""
     },
     {
@@ -97,10 +113,26 @@
     },
     {
         "Name": "September 8, 2025",
-        "Artist": "Tuesday",
-        "Details": "",
+        "Artist": "CORTIS",
+        "Details": "– “What You Want” (Title Track)\n– “What You Want (ENG Ver.)” feat. Teezo Touchdown\nAlbum: 1st EP “COLOR OUTSIDE THE LINES”\nMonday",
+        "ImageUrl": "https://img.youtube.com/vi/WXS-o57VJ5w/default.jpg",
+        "SongLink": "https://x.com/cortis_bighit",
+        "ViewCount": "3M views"
+    },
+    {
+        "Name": "September 8, 2025",
+        "Artist": "CIX",
+        "Details": "(씨아이엑스)\nAlbum: 8th EP ALBUM ‘GO’ Chapter 1: GO Together\nMonday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/CIX_Official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 8, 2025",
+        "Artist": "JINNY",
+        "Details": " (Former SECRET NUMBER)\nAlbum: Solo Debut Mini Album “ Towards the Light “\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/jinny_music",
         "ViewCount": ""
     },
     {
@@ -129,10 +161,10 @@
     },
     {
         "Name": "September 12, 2025",
-        "Artist": "Saturday",
-        "Details": "",
+        "Artist": "CHAEYOUNG",
+        "Details": " (TWICE)\nAlbum: THE FIRST ALBUM “LIL FANTASY vol.1”\nSaturday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/JYPETWICE",
         "ViewCount": ""
     },
     {
@@ -186,9 +218,17 @@
     {
         "Name": "September 17, 2025",
         "Artist": "ORβIT",
-        "Details": " (JP\nAlbum: 2nd Full Album”ROAR”\nThursday",
+        "Details": " (JP\nAlbum: 2nd Full Album”ROAR”\nWednesday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/official7orbit",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 17, 2025",
+        "Artist": "ATEEZ",
+        "Details": " (JP)\nAlbum: JAPAN 2ND FULL ALBUM「Ashes to Light」\nThursday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/ATEEZofficialjp",
         "ViewCount": ""
     },
     {
