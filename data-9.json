@@ -35,9 +35,9 @@
         "Name": "September 1, 2025",
         "Artist": "NCT WISH",
         "Details": "Album: The 3rd Mini Album – COLOR\nMonday",
-        "ImageUrl": "white.png",
+        "ImageUrl": "https://img.youtube.com/vi/FBr4hA9L90s/default.jpg",
         "SongLink": "https://x.com/nctwishofficial",
-        "ViewCount": ""
+        "ViewCount": "211K views"
     },
     {
         "Name": "September 1, 2025",
@@ -61,7 +61,7 @@
         "Details": " (한희)\nTitle Track: ‘파랑주의보(So Blue)’\nWednesday",
         "ImageUrl": "https://img.youtube.com/vi/QP9hIbbbFwY/default.jpg",
         "SongLink": "https://x.com/hanheexe",
-        "ViewCount": "480 views"
+        "ViewCount": "501 views"
     },
     {
         "Name": "September 3, 2025",
@@ -117,7 +117,7 @@
         "Details": "– “What You Want” (Title Track)\n– “What You Want (ENG Ver.)” feat. Teezo Touchdown\nAlbum: 1st EP “COLOR OUTSIDE THE LINES”\nMonday",
         "ImageUrl": "https://img.youtube.com/vi/WXS-o57VJ5w/default.jpg",
         "SongLink": "https://x.com/cortis_bighit",
-        "ViewCount": "6M views"
+        "ViewCount": "7M views"
     },
     {
         "Name": "September 8, 2025",
@@ -161,10 +161,10 @@
     },
     {
         "Name": "September 10, 2025",
-        "Artist": "Thursday",
-        "Details": "",
+        "Artist": "WENDY",
+        "Details": " (Red Velvet)\nAlbum: The 3rd Mini Album [Cerulean Verge]\nThursday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/WENDY_offcl",
         "ViewCount": ""
     },
     {
@@ -210,9 +210,17 @@
     {
         "Name": "September 15, 2025",
         "Artist": "Album: 1st Mini Album I DID IT",
-        "Details": "Debut Date \nTuesday",
+        "Details": "Debut Date \nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/IDID_starship",
+        "ViewCount": ""
+    },
+    {
+        "Name": "September 15, 2025",
+        "Artist": "JANG WOOYOUNG",
+        "Details": " (2PM)\nAlbum: 3rd Mini Album “I’m into”\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/followwooyoung",
         "ViewCount": ""
     },
     {
@@ -346,7 +354,7 @@
     {
         "Name": "September 30, 2025",
         "Artist": "BADVILLAIN",
-        "Details": "S.Coups X Mingyu (SEVENTEEN)\nSUHO (EXO)\nBae Jin-young (former CIX)\n10Asia\nWendy (Red Velvet)\nLee Jun Young\nSoompi",
+        "Details": "S.Coups X Mingyu (SEVENTEEN)\nSUHO (EXO)\nBae Jin-young (former CIX)\n10Asia\nLee Jun Young\nSoompi",
         "ImageUrl": "white.png",
         "SongLink": "https://www.soompi.com/article/1761360wpp/lee-jun-young-confirmed-to-make-solo-comeback",
         "ViewCount": ""
