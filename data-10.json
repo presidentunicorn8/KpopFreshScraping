@@ -125,7 +125,7 @@
         "Details": "Album: 4th Mini Album ‘play hard’\nMonday",
         "ImageUrl": "https://img.youtube.com/vi/zvlaUeJ_qFw/default.jpg",
         "SongLink": "https://x.com/TWS_PLEDIS",
-        "ViewCount": "405K views"
+        "ViewCount": "406K views"
     },
     {
         "Name": "October 13, 2025",
@@ -186,9 +186,17 @@
     {
         "Name": "October 20, 2025",
         "Artist": "Hearts2Hearts ",
-        "Details": "Album: The 1st Mini Album 【FOCUS】\nTuesday",
+        "Details": "Album: The 1st Mini Album 【FOCUS】\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/Hearts2Hearts",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 20, 2025",
+        "Artist": "BOYNEXTDOOR",
+        "Details": "Album: 5th EP [The Action]\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/BOYNEXTDOOR_KOZ",
         "ViewCount": ""
     },
     {
@@ -213,7 +221,7 @@
         "Details": " (JP)\nTitle Track: “ずるいよ／Zuruiyo”\nAlbum: Japan 1st Mini Album 【日々】\nThursday",
         "ImageUrl": "https://img.youtube.com/vi/YqaXB6EZYjY/default.jpg",
         "SongLink": "https://x.com/EXO_NEWS_JP",
-        "ViewCount": "38K views"
+        "ViewCount": "39K views"
     },
     {
         "Name": "October 23, 2025",
@@ -249,10 +257,10 @@
     },
     {
         "Name": "October 27, 2025",
-        "Artist": "Tuesday",
-        "Details": "",
+        "Artist": "TEMPEST",
+        "Details": "Album: 7th Mini Album <As I am>\nTuesday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/TPST__official",
         "ViewCount": ""
     },
     {
@@ -281,10 +289,10 @@
     },
     {
         "Name": "October 31, 2025",
-        "Artist": "WEi",
-        "Details": "Sports Chosun\nTWS\nJTBC\nFifty Fifty",
+        "Artist": "MEOVV",
+        "Details": "Soompi\nWEi\nSports Chosun\nFifty Fifty",
         "ImageUrl": "white.png",
-        "SongLink": "https://news.jtbc.co.kr/article/NB12258242",
+        "SongLink": "https://m.entertain.naver.com/home/article/076/0004318339",
         "ViewCount": ""
     }
 ]
