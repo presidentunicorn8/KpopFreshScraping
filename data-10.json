@@ -33,6 +33,14 @@
     },
     {
         "Name": "October 3, 2025",
+        "Artist": "i-dle",
+        "Details": " (JP)\nAlbum: JAPAN 1st EP『i-dle』\nFriday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/i_dle_JP",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 3, 2025",
         "Artist": "Han Seung Yeon",
         "Details": " (JP)\nAlbum: JAPAN 1st EP 「I・恋」\nSaturday",
         "ImageUrl": "white.png",
@@ -114,7 +122,7 @@
     {
         "Name": "October 13, 2025",
         "Artist": "NMIXX ",
-        "Details": "Album: 1st Full Album “Blue Valentine”\nMonday",
+        "Details": "Title Track: “Blue Valentine”\nAlbum: 1st Full Album “Blue Valentine”\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/NMIXX_official",
         "ViewCount": ""
@@ -125,7 +133,7 @@
         "Details": "Album: 4th Mini Album ‘play hard’\nMonday",
         "ImageUrl": "https://img.youtube.com/vi/zvlaUeJ_qFw/default.jpg",
         "SongLink": "https://x.com/TWS_PLEDIS",
-        "ViewCount": "409K views"
+        "ViewCount": "410K views"
     },
     {
         "Name": "October 13, 2025",
@@ -233,10 +241,10 @@
     },
     {
         "Name": "October 24, 2025",
-        "Artist": "Saturday",
-        "Details": "",
+        "Artist": "LE SSERAFIM",
+        "Details": "Album: 1st Single Album ‘SPAGHETTI’\nSaturday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/le_sserafim",
         "ViewCount": ""
     },
     {
