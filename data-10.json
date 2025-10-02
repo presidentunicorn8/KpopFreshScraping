@@ -10,18 +10,26 @@
     {
         "Name": "October 1, 2025",
         "Artist": "KANG SEUNGSIK",
-        "Details": "Album: 1st Digital Single : 괜찮은 오차\nWednesday",
-        "ImageUrl": "white.png",
+        "Details": "Title Track: “괜찮은 오차”\nAlbum: 1st Digital Single: 괜찮은 오차\nWednesday",
+        "ImageUrl": "https://img.youtube.com/vi/WE9tpEeiw_M/default.jpg",
         "SongLink": "https://x.com/KSS_officialtwt",
-        "ViewCount": ""
+        "ViewCount": "9K views"
     },
     {
         "Name": "October 1, 2025",
         "Artist": "tripleS ∞!",
-        "Details": " (JP)\nAlbum: 1st EP「SecretHimitsuBimil」\nThursday",
+        "Details": " (JP)\nAlbum: 1st EP「SecretHimitsuBimil」\nWednesday",
         "ImageUrl": "https://img.youtube.com/vi/m25wQkLg1jc/default.jpg",
         "SongLink": "https://x.com/tripleS_JAPAN/status/1962803403832316346",
         "ViewCount": "1M views"
+    },
+    {
+        "Name": "October 1, 2025",
+        "Artist": "ONEW",
+        "Details": " (SHINee) (JP)\nTitle Track: “花のように”\nAlbum: 𝐉𝐚𝐩𝐚𝐧 𝟐𝐧𝐝 𝐌𝐢𝐧𝐢 𝐀𝐥𝐛𝐮𝐦 『𝐒𝐀𝐊𝐔』\nThursday",
+        "ImageUrl": "https://img.youtube.com/vi/7hIEad3THmo/default.jpg",
+        "SongLink": "https://x.com/ONEW_GRIFFIN",
+        "ViewCount": "111K views"
     },
     {
         "Name": "October 2, 2025",
@@ -29,6 +37,14 @@
         "Details": "",
         "ImageUrl": "white.png",
         "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 3, 2025",
+        "Artist": "WONHO",
+        "Details": "Album: 1ST FULL ALBUM [SYNDROME]\nFriday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/official__wonho",
         "ViewCount": ""
     },
     {
@@ -141,7 +157,7 @@
         "Details": "Album: 4th Mini Album ‘play hard’\nMonday",
         "ImageUrl": "https://img.youtube.com/vi/zvlaUeJ_qFw/default.jpg",
         "SongLink": "https://x.com/TWS_PLEDIS",
-        "ViewCount": "411K views"
+        "ViewCount": "412K views"
     },
     {
         "Name": "October 13, 2025",
@@ -237,7 +253,7 @@
         "Details": " (JP)\nTitle Track: “ずるいよ／Zuruiyo”\nAlbum: Japan 1st Mini Album 【日々】\nThursday",
         "ImageUrl": "https://img.youtube.com/vi/YqaXB6EZYjY/default.jpg",
         "SongLink": "https://x.com/EXO_NEWS_JP",
-        "ViewCount": "41K views"
+        "ViewCount": "42K views"
     },
     {
         "Name": "October 23, 2025",
@@ -250,9 +266,17 @@
     {
         "Name": "October 24, 2025",
         "Artist": "LE SSERAFIM",
-        "Details": "Album: 1st Single Album ‘SPAGHETTI’\nSaturday",
+        "Details": "Album: 1st Single Album ‘SPAGHETTI’\nFriday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/le_sserafim",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 24, 2025",
+        "Artist": "Xdinary Heroes",
+        "Details": "Album: 7th Mini Album <LXVE to DEATH>\nSaturday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/XH_official",
         "ViewCount": ""
     },
     {
@@ -289,10 +313,10 @@
     },
     {
         "Name": "October 29, 2025",
-        "Artist": "Thursday",
-        "Details": "",
+        "Artist": "WEi",
+        "Details": "Album: 8th Mini Album [Wonderland]\nThursday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/WEi__Official",
         "ViewCount": ""
     },
     {
@@ -305,10 +329,18 @@
     },
     {
         "Name": "October 31, 2025",
-        "Artist": "MEOVV",
-        "Details": "Soompi\nWEi\nSports Chosun\nFifty Fifty",
+        "Artist": "WONHO",
+        "Details": "Album: 1ST FULL ALBUM [SYNDROME]\nFriday",
         "ImageUrl": "white.png",
-        "SongLink": "https://m.entertain.naver.com/home/article/076/0004318339",
+        "SongLink": "https://x.com/official__wonho",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 31, 2025",
+        "Artist": "DKZ",
+        "Details": "Album: 3rd Mini Album [TASTY]\nMEOVV\nSoompi\nFifty Fifty",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.soompi.com/article/1786725wpp/meovv-confirmed-to-be-gearing-up-for-october-comeback",
         "ViewCount": ""
     }
 ]
