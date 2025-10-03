@@ -9,11 +9,35 @@
     },
     {
         "Name": "October 1, 2025",
+        "Artist": "BOYNEXTDOOR",
+        "Details": "Title Track: “Ruin My Life”\nOST: EXchange4, OST Part. 1\nWednesday",
+        "ImageUrl": "https://img.youtube.com/vi/N_RekO19AiE/default.jpg",
+        "SongLink": "https://youtu.be/N_RekO19AiE?si=gEAKaL66DGc46cPm",
+        "ViewCount": "118K views"
+    },
+    {
+        "Name": "October 1, 2025",
+        "Artist": "HYNN",
+        "Details": " (박혜원) \nTitle Track: ‘그대가 분다 (Wind that blows)’\nAlbum: Single – Wind that blows\nWednesday",
+        "ImageUrl": "https://img.youtube.com/vi/ujdjAVt8Gac/default.jpg",
+        "SongLink": "https://youtu.be/ujdjAVt8Gac?si=8gxKzi0TdclEM7ch",
+        "ViewCount": "78K views"
+    },
+    {
+        "Name": "October 1, 2025",
         "Artist": "KANG SEUNGSIK",
         "Details": "Title Track: “괜찮은 오차”\nAlbum: 1st Digital Single: 괜찮은 오차\nWednesday",
         "ImageUrl": "https://img.youtube.com/vi/WE9tpEeiw_M/default.jpg",
         "SongLink": "https://x.com/KSS_officialtwt",
-        "ViewCount": "9K views"
+        "ViewCount": "76K views"
+    },
+    {
+        "Name": "October 1, 2025",
+        "Artist": "Ha Hyun Sang",
+        "Details": " (하현상)\nAlbum: Digital Single [Coyote Lily]\nWednesday",
+        "ImageUrl": "https://img.youtube.com/vi/D0kxMbu6Yuw/default.jpg",
+        "SongLink": "https://youtu.be/D0kxMbu6Yuw?si=wI2otLw9GtFTVpv-",
+        "ViewCount": "20K views"
     },
     {
         "Name": "October 1, 2025",
@@ -29,20 +53,44 @@
         "Details": " (SHINee) (JP)\nTitle Track: “花のように”\nAlbum: 𝐉𝐚𝐩𝐚𝐧 𝟐𝐧𝐝 𝐌𝐢𝐧𝐢 𝐀𝐥𝐛𝐮𝐦 『𝐒𝐀𝐊𝐔』\nThursday",
         "ImageUrl": "https://img.youtube.com/vi/7hIEad3THmo/default.jpg",
         "SongLink": "https://x.com/ONEW_GRIFFIN",
-        "ViewCount": "111K views"
+        "ViewCount": "402K views"
     },
     {
         "Name": "October 2, 2025",
-        "Artist": "Friday",
-        "Details": "",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Artist": "Yerin Baek",
+        "Details": " (백예린)\nTitle Track: ‘MIRROR’ \nAlbum: 3rd Full-length Album ‘Flash and Core’\nThursday",
+        "ImageUrl": "https://img.youtube.com/vi/IydHPao0OIg/default.jpg",
+        "SongLink": "https://youtu.be/IydHPao0OIg?si=fbTCvGwtqr_F1FqC",
+        "ViewCount": "56K views"
+    },
+    {
+        "Name": "October 2, 2025",
+        "Artist": "NANA",
+        "Details": " (나나)\nAlbum: The 1st Album ‘Seventh Heaven 16’\nThursday",
+        "ImageUrl": "https://img.youtube.com/vi/4s2WnkxSQZc/default.jpg",
+        "SongLink": "https://youtu.be/4s2WnkxSQZc?si=CcGeeWMO0eL06Xx_",
+        "ViewCount": "146K views"
+    },
+    {
+        "Name": "October 2, 2025",
+        "Artist": "NOWIMYOUNG",
+        "Details": " (나우아임영)\nTitle Track: “PUT SOME SWAG ON (ft. 김하온 (HAON))”\nAlbum: LUXURY TAPE\nFriday",
+        "ImageUrl": "https://img.youtube.com/vi/d2cH_QMFGIc/default.jpg",
+        "SongLink": "https://youtu.be/d2cH_QMFGIc?si=JbRh8v-z7P6fi-5I",
+        "ViewCount": "29K views"
+    },
+    {
+        "Name": "October 3, 2025",
+        "Artist": "NMIXX ",
+        "Details": "Title Track: “Blue Valentine”\nAlbum: 1st Full Album “Blue Valentine”\nFriday",
+        "ImageUrl": "https://img.youtube.com/vi/RblIsNFR1j4/default.jpg",
+        "SongLink": "https://x.com/NMIXX_official",
+        "ViewCount": "293K views"
     },
     {
         "Name": "October 3, 2025",
         "Artist": "WONHO",
-        "Details": "Album: 1ST FULL ALBUM [SYNDROME]\nFriday",
+        "Details": "Title Track: “if you wanna”\nAlbum: 1ST FULL ALBUM [SYNDROME]\nFriday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/official__wonho",
         "ViewCount": ""
@@ -50,10 +98,10 @@
     {
         "Name": "October 3, 2025",
         "Artist": "i-dle",
-        "Details": " (JP)\nAlbum: JAPAN 1st EP『i-dle』\nFriday",
-        "ImageUrl": "white.png",
+        "Details": " (JP)\nTitle Track: “どうしよっかな (Where Do We Go)”\nAlbum: JAPAN 1st EP『i-dle』\nFriday",
+        "ImageUrl": "https://img.youtube.com/vi/DcxiggTs_q4/default.jpg",
         "SongLink": "https://x.com/i_dle_JP",
-        "ViewCount": ""
+        "ViewCount": "20 views"
     },
     {
         "Name": "October 3, 2025",
@@ -122,10 +170,18 @@
     {
         "Name": "October 10, 2025",
         "Artist": "TWICE",
-        "Details": "Album: SPECIAL ALBUM “TEN: The Story Goes On”\nSaturday",
+        "Details": "Album: SPECIAL ALBUM “TEN: The Story Goes On”\nFriday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/JYPETWICE",
         "ViewCount": ""
+    },
+    {
+        "Name": "October 10, 2025",
+        "Artist": "at 8 PM (ICT)",
+        "Details": "BamBam\n (GOT7) (TH)\nAlbum: 1st Thai EP【𝗛𝗢𝗠𝗘𝗧𝗢𝗪𝗡】\nSaturday",
+        "ImageUrl": "https://img.youtube.com/vi/gl75wh6xLSA/default.jpg",
+        "SongLink": "https://x.com/BAMBAMxBAMMIE",
+        "ViewCount": "32M views"
     },
     {
         "Name": "October 11, 2025",
@@ -147,17 +203,17 @@
         "Name": "October 13, 2025",
         "Artist": "NMIXX ",
         "Details": "Title Track: “Blue Valentine”\nAlbum: 1st Full Album “Blue Valentine”\nMonday",
-        "ImageUrl": "white.png",
+        "ImageUrl": "https://img.youtube.com/vi/RblIsNFR1j4/default.jpg",
         "SongLink": "https://x.com/NMIXX_official",
-        "ViewCount": ""
+        "ViewCount": "293K views"
     },
     {
         "Name": "October 13, 2025",
         "Artist": "TWS",
         "Details": "Album: 4th Mini Album ‘play hard’\nMonday",
-        "ImageUrl": "https://img.youtube.com/vi/zvlaUeJ_qFw/default.jpg",
+        "ImageUrl": "https://img.youtube.com/vi/4eAF2boGKaA/default.jpg",
         "SongLink": "https://x.com/TWS_PLEDIS",
-        "ViewCount": "412K views"
+        "ViewCount": "4M views"
     },
     {
         "Name": "October 13, 2025",
@@ -165,6 +221,14 @@
         "Details": " (PENTAGON)\nAlbum: 2ND EP [EVERYBODY’S GUILTY, BUT NO ONE’S TO BLAME]\nTuesday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/nakedxproud",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 14, 2025",
+        "Artist": "MEOVV",
+        "Details": "Album: Digital Single ‘BURNING UP’\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/OFFICIAL_MEOVV",
         "ViewCount": ""
     },
     {
@@ -257,11 +321,11 @@
     },
     {
         "Name": "October 23, 2025",
-        "Artist": "Friday",
-        "Details": "",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "Artist": "BAE173 ",
+        "Details": "Album: 1ST FULL ALBUM [NEW CHAPTER: DESEAR]\nFriday",
+        "ImageUrl": "https://img.youtube.com/vi/tBbKsf_BoPs/default.jpg",
+        "SongLink": "https://x.com/Bae173_official",
+        "ViewCount": "10K views"
     },
     {
         "Name": "October 24, 2025",
@@ -298,9 +362,17 @@
     {
         "Name": "October 27, 2025",
         "Artist": "TEMPEST",
-        "Details": "Album: 7th Mini Album <As I am>\nTuesday",
+        "Details": "Album: 7th Mini Album <As I am>\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/TPST__official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 27, 2025",
+        "Artist": "NEXZ",
+        "Details": "(넥스지)\nTitle Track: “Beat-Boxer”\nAlbum: The 3rd Mini Album “Beat-Boxer”\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/NEXZ_official",
         "ViewCount": ""
     },
     {
@@ -330,7 +402,7 @@
     {
         "Name": "October 31, 2025",
         "Artist": "WONHO",
-        "Details": "Album: 1ST FULL ALBUM [SYNDROME]\nFriday",
+        "Details": "Title Track: “if you wanna”\nAlbum: 1ST FULL ALBUM [SYNDROME]\nFriday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/official__wonho",
         "ViewCount": ""
@@ -338,9 +410,9 @@
     {
         "Name": "October 31, 2025",
         "Artist": "DKZ",
-        "Details": "Album: 3rd Mini Album [TASTY]\nMEOVV\nSoompi\nFifty Fifty",
+        "Details": "Album: 3rd Mini Album [TASTY]\nFifty Fifty",
         "ImageUrl": "white.png",
-        "SongLink": "https://www.soompi.com/article/1786725wpp/meovv-confirmed-to-be-gearing-up-for-october-comeback",
+        "SongLink": "https://x.com/dkz_dy",
         "ViewCount": ""
     }
 ]
