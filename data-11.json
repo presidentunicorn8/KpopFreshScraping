@@ -34,9 +34,17 @@
     {
         "Name": "November 4, 2025",
         "Artist": "FIFTY FIFTY",
-        "Details": "Album: Too Much Part 1\nWednesday",
+        "Details": "Album: Too Much Part 1\nTuesday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/we_fiftyfifty",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 4, 2025",
+        "Artist": "AHOF",
+        "Details": "Album: The 2nd Mini Album [The Passage]\nWednesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/AHOF_official",
         "ViewCount": ""
     },
     {
@@ -257,8 +265,8 @@
     },
     {
         "Name": "November 30, 2025",
-        "Artist": "RESCENE",
-        "Details": "",
+        "Artist": "VVUP",
+        "Details": "Naver\n]\nRESCENE",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/RESCENEofficial/status/1976452664474120312",
         "ViewCount": ""
