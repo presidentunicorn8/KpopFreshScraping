@@ -81,6 +81,14 @@
     },
     {
         "Name": "November 7, 2025",
+        "Artist": "YEONJUN",
+        "Details": " (TXT)\nFriday",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 7, 2025",
         "Artist": "JUSTB",
         "Details": "Album: 5TH MINI ALBUM [SNOW ANGEL]\nSaturday",
         "ImageUrl": "white.png",
@@ -105,10 +113,10 @@
     },
     {
         "Name": "November 10, 2025",
-        "Artist": "Tuesday",
-        "Details": "",
+        "Artist": "ITZY",
+        "Details": "Title Track: “TUNNEL VISION”\nAlbum: Mini album <TUNNEL VISION>\nTuesday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/ITZYofficial",
         "ViewCount": ""
     },
     {
@@ -265,8 +273,8 @@
     },
     {
         "Name": "November 30, 2025",
-        "Artist": "VVUP",
-        "Details": "Naver\n]\nRESCENE",
+        "Artist": "Kyuhyun (Super Junior)",
+        "Details": "Herald Pop\nVVUP\nNaver\n]\nRESCENE",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/RESCENEofficial/status/1976452664474120312",
         "ViewCount": ""
