@@ -26,9 +26,17 @@
     {
         "Name": "November 3, 2025",
         "Artist": "KANG SEUNG YOON",
-        "Details": " (WINNER)\nAlbum: 2nd FULL ALBUM [PAGE 2]\nTuesday",
+        "Details": " (WINNER)\nAlbum: 2nd FULL ALBUM [PAGE 2]\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/yg_winnercity",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 3, 2025",
+        "Artist": "I.MET.U",
+        "Details": "Pre-Debut\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/official_IMETU",
         "ViewCount": ""
     },
     {
@@ -82,9 +90,9 @@
     {
         "Name": "November 7, 2025",
         "Artist": "YEONJUN",
-        "Details": " (TXT)\nFriday",
+        "Details": " (TXT)\nAlbum: Mini Album – NO LABELS: PART 01\nFriday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/TXT_bighit",
         "ViewCount": ""
     },
     {
@@ -114,9 +122,17 @@
     {
         "Name": "November 10, 2025",
         "Artist": "ITZY",
-        "Details": "Title Track: “TUNNEL VISION”\nAlbum: Mini album <TUNNEL VISION>\nTuesday",
+        "Details": "Title Track: “TUNNEL VISION”\nAlbum: Mini album <TUNNEL VISION>\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/ITZYofficial",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 10, 2025",
+        "Artist": "AM8IC",
+        "Details": "Album: The 1st EP [LUKOIE]\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/AM8IC_TOV",
         "ViewCount": ""
     },
     {
