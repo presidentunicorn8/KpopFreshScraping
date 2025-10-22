@@ -90,15 +90,23 @@
     {
         "Name": "November 6, 2025",
         "Artist": "NEWBEAT",
-        "Details": "Album: 1ST MINI ALBUM\nFriday",
+        "Details": "Album: 1ST MINI ALBUM\nThursday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/NewBeat_twt",
         "ViewCount": ""
     },
     {
+        "Name": "November 6, 2025",
+        "Artist": "NTX",
+        "Details": "Album: 3RD MINI ALBUM 𝑃𝑅𝑂𝑇𝑂 𝑇𝑌𝑃𝐸\nFriday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/NTX_OFFICIAL_",
+        "ViewCount": ""
+    },
+    {
         "Name": "November 7, 2025",
         "Artist": "YEONJUN",
-        "Details": " (TXT)\nAlbum: Mini Album – NO LABELS: PART 01\nFriday",
+        "Details": " (TXT)\nTitle Track: “TALK TO YOU”\nAlbum: Mini Album – NO LABELS: PART 01\nFriday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/TXT_bighit",
         "ViewCount": ""
@@ -139,9 +147,9 @@
         "Name": "November 10, 2025",
         "Artist": "AM8IC",
         "Details": "Album: The 1st EP [LUKOIE]\nTuesday",
-        "ImageUrl": "white.png",
+        "ImageUrl": "https://img.youtube.com/vi/ilSSf0vk110/default.jpg",
         "SongLink": "https://x.com/AM8IC_TOV",
-        "ViewCount": ""
+        "ViewCount": "454 views"
     },
     {
         "Name": "November 11, 2025",
@@ -225,10 +233,10 @@
     },
     {
         "Name": "November 21, 2025",
-        "Artist": "Saturday",
-        "Details": "",
+        "Artist": "Stray Kids",
+        "Details": "Title Track: “Do It”; “신선놀이음”\nAlbum: SKZ IT TAPE “DO IT”\nSaturday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/Stray_Kids",
         "ViewCount": ""
     },
     {
