@@ -34,7 +34,15 @@
     {
         "Name": "November 3, 2025",
         "Artist": "MIYEON",
-        "Details": " (i-dle)\nTitle Track: “Say My Name”\nAlbum: 2nd Mini Album [MY, Lover]\nMonday",
+        "Details": " (i-dle)",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "October 28, 2025",
+        "Artist": "YouTube",
+        "Details": "Title Track: “Say My Name”\nAlbum: 2nd Mini Album [MY, Lover]\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/official_i_dle",
         "ViewCount": ""
@@ -42,9 +50,17 @@
     {
         "Name": "November 3, 2025",
         "Artist": "I.MET.U",
-        "Details": "Pre-Debut\nTuesday",
+        "Details": "Pre-Debut\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/official_IMETU",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 3, 2025",
+        "Artist": "ARrC",
+        "Details": "Album: 2nd single album [𝗖𝗧𝗥𝗟+𝗔𝗟𝗧+𝗦𝗞𝗜𝗜𝗗]\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/official_arrc",
         "ViewCount": ""
     },
     {
@@ -74,7 +90,7 @@
     {
         "Name": "November 5, 2025",
         "Artist": "SUNMI",
-        "Details": "Album: 1st Full Album\nWednesday",
+        "Details": "Title Track: “CYNICAL”\nAlbum: 1st Full Album 【𝐇𝐄𝐀𝐑𝐓 𝐌𝐀𝐈𝐃】\nWednesday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/official_sunmi_",
         "ViewCount": ""
@@ -106,9 +122,17 @@
     {
         "Name": "November 6, 2025",
         "Artist": "NTX",
-        "Details": "Album: 3RD MINI ALBUM 𝑃𝑅𝑂𝑇𝑂 𝑇𝑌𝑃𝐸\nFriday",
+        "Details": "Album: 3RD MINI ALBUM 𝑃𝑅𝑂𝑇𝑂 𝑇𝑌𝑃𝐸\nThursday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/NTX_OFFICIAL_",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 6, 2025",
+        "Artist": "RESCENE",
+        "Details": "Album: 3rd Mini Album [lip bomb]\nFriday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/RESCENEofficial",
         "ViewCount": ""
     },
     {
@@ -154,10 +178,26 @@
     {
         "Name": "November 10, 2025",
         "Artist": "AM8IC",
-        "Details": "Album: The 1st EP [LUKOIE]\nTuesday",
+        "Details": "Album: The 1st EP [LUKOIE]\nMonday",
         "ImageUrl": "https://img.youtube.com/vi/ilSSf0vk110/default.jpg",
         "SongLink": "https://x.com/AM8IC_TOV",
-        "ViewCount": "555 views"
+        "ViewCount": "704 views"
+    },
+    {
+        "Name": "November 10, 2025",
+        "Artist": "ONF",
+        "Details": "Album: 9TH MINI ALBUM [UNBROKEN]\nMonday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/wm_on7off",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 10, 2025",
+        "Artist": "PLAVE",
+        "Details": "Album: 2nd Single Album ‘PLBBUU’\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/plave_official",
+        "ViewCount": ""
     },
     {
         "Name": "November 11, 2025",
@@ -273,10 +313,10 @@
     },
     {
         "Name": "November 25, 2025",
-        "Artist": "Wednesday",
-        "Details": "",
+        "Artist": "RESCENE",
+        "Details": "Album: 3rd Mini Album [lip bomb]\nWednesday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/RESCENEofficial",
         "ViewCount": ""
     },
     {
@@ -314,9 +354,9 @@
     {
         "Name": "November 30, 2025",
         "Artist": "VVUP",
-        "Details": "Naver\n]\nRESCENE",
+        "Details": "Naver\n]",
         "ImageUrl": "white.png",
-        "SongLink": "https://x.com/RESCENEofficial/status/1976452664474120312",
+        "SongLink": "https://x.com/vvup_official",
         "ViewCount": ""
     }
 ]
