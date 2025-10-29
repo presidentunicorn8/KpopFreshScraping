@@ -5,7 +5,7 @@
         "Details": "Please use the \nTable of Contents\nSaturday",
         "ImageUrl": "https://img.youtube.com/vi/8UYyKRJIHE4/default.jpg",
         "SongLink": "https://youtu.be/8UYyKRJIHE4",
-        "ViewCount": "550K views"
+        "ViewCount": "556K views"
     },
     {
         "Name": "November 1, 2025",
@@ -26,7 +26,7 @@
     {
         "Name": "November 3, 2025",
         "Artist": "KANG SEUNG YOON",
-        "Details": " (WINNER)\nAlbum: 2nd FULL ALBUM [PAGE 2]\nMonday",
+        "Details": " (WINNER)\nTitle Track: “ME”\nAlbum: 2nd FULL ALBUM [PAGE 2]\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/yg_winnercity",
         "ViewCount": ""
@@ -50,10 +50,10 @@
     {
         "Name": "November 3, 2025",
         "Artist": "I.MET.U",
-        "Details": "Pre-Debut\nMonday",
-        "ImageUrl": "white.png",
+        "Details": "November 3, 3035: Pre-Debut\nMonday",
+        "ImageUrl": "https://img.youtube.com/vi/6qHRHaxOyW4/default.jpg",
         "SongLink": "https://x.com/official_IMETU",
-        "ViewCount": ""
+        "ViewCount": "71K views"
     },
     {
         "Name": "November 3, 2025",
@@ -105,6 +105,14 @@
     },
     {
         "Name": "November 5, 2025",
+        "Artist": "J.Y. Park",
+        "Details": "Title Track: “Happy Hour (퇴근길) (With 권진아)”\nJ.Y. Park\nWednesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/followjyp",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 5, 2025",
         "Artist": "at 0 AM JST",
         "Details": "KISS OF LIFE\n (JP)\nAlbum: JAPAN 1st Mini Album [TOKYO MISSION START]\nThursday",
         "ImageUrl": "white.png",
@@ -114,7 +122,7 @@
     {
         "Name": "November 6, 2025",
         "Artist": "NEWBEAT",
-        "Details": "Album: 1ST MINI ALBUM\nThursday",
+        "Details": "Album: 1ST MINI ALBUM [LOUDER THAN EVER]\nThursday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/NewBeat_twt",
         "ViewCount": ""
@@ -122,7 +130,7 @@
     {
         "Name": "November 6, 2025",
         "Artist": "NTX",
-        "Details": "Album: 3RD MINI ALBUM 𝑃𝑅𝑂𝑇𝑂 𝑇𝑌𝑃𝐸\nThursday",
+        "Details": "Title Track: “ICE LUV”\nAlbum: 3RD MINI ALBUM 𝑃𝑅𝑂𝑇𝑂 𝑇𝑌𝑃𝐸\nThursday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/NTX_OFFICIAL_",
         "ViewCount": ""
@@ -181,7 +189,7 @@
         "Details": "Album: The 1st EP [LUKOIE]\nMonday",
         "ImageUrl": "https://img.youtube.com/vi/ilSSf0vk110/default.jpg",
         "SongLink": "https://x.com/AM8IC_TOV",
-        "ViewCount": "1K views"
+        "ViewCount": "2K views"
     },
     {
         "Name": "November 10, 2025",
@@ -194,9 +202,17 @@
     {
         "Name": "November 10, 2025",
         "Artist": "PLAVE",
-        "Details": "Album: 2nd Single Album ‘PLBBUU’\nTuesday",
+        "Details": "Album: 2nd Single Album ‘PLBBUU’\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/plave_official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 10, 2025",
+        "Artist": "CRAVITY",
+        "Details": "Album: The 2nd Album ‘Dare to Crave : Epilogue’\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/CRAVITYstarship",
         "ViewCount": ""
     },
     {
@@ -249,10 +265,10 @@
     },
     {
         "Name": "November 17, 2025",
-        "Artist": "Tuesday",
-        "Details": "",
+        "Artist": "NCT DREAM",
+        "Details": "Album: 6th Mini Album ‘Beat It Up’\nTuesday",
         "ImageUrl": "white.png",
-        "SongLink": "no",
+        "SongLink": "https://x.com/NCTsmtown_DREAM",
         "ViewCount": ""
     },
     {
@@ -282,9 +298,17 @@
     {
         "Name": "November 21, 2025",
         "Artist": "Stray Kids",
-        "Details": "Title Track: “Do It”; “신선놀이음”\nAlbum: SKZ IT TAPE “DO IT”\nSaturday",
+        "Details": "Title Track: “Do It”; “신선놀이음”\nAlbum: SKZ IT TAPE “DO IT”\nFriday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/Stray_Kids",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 21, 2025",
+        "Artist": "CHA EUN-WOO",
+        "Details": " (ASTRO)\nAlbum: 2ND MINI ALBUM <ELSE>\nSaturday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/CHAEUNWOO_offcl",
         "ViewCount": ""
     },
     {
