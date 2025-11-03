@@ -5,15 +5,15 @@
         "Details": "Please use the \nTable of Contents\nSaturday",
         "ImageUrl": "https://img.youtube.com/vi/8UYyKRJIHE4/default.jpg",
         "SongLink": "https://youtu.be/8UYyKRJIHE4",
-        "ViewCount": "572K views"
+        "ViewCount": "576K views"
     },
     {
         "Name": "November 1, 2025",
         "Artist": "Sunday",
         "Details": "",
-        "ImageUrl": "white.png",
-        "SongLink": "no",
-        "ViewCount": ""
+        "ImageUrl": "https://img.youtube.com/vi/TXcqkpixPyg/default.jpg",
+        "SongLink": "https://youtu.be/TXcqkpixPyg",
+        "ViewCount": "461 views"
     },
     {
         "Name": "November 2, 2025",
@@ -53,14 +53,22 @@
         "Details": "November 3, 3035: Pre-Debut\nTitle Track: “Velvet Trigger”\nMonday",
         "ImageUrl": "https://img.youtube.com/vi/6qHRHaxOyW4/default.jpg",
         "SongLink": "https://x.com/official_IMETU",
-        "ViewCount": "215K views"
+        "ViewCount": "229K views"
     },
     {
         "Name": "November 3, 2025",
         "Artist": "ARrC",
-        "Details": "Title Track: ‘SKIID’\nAlbum: 2nd single album [𝗖𝗧𝗥𝗟+𝗔𝗟𝗧+𝗦𝗞𝗜𝗜𝗗]\nTuesday",
+        "Details": "Title Track: ‘SKIID’\nAlbum: 2nd single album [𝗖𝗧𝗥𝗟+𝗔𝗟𝗧+𝗦𝗞𝗜𝗜𝗗]\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/official_arrc",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 3, 2025",
+        "Artist": "URBAN ZAKAPA",
+        "Details": "Title Track: “Stay”\nAlbum: EP ‘Stay’\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://www.instagram.com/urbanzakapa_official/",
         "ViewCount": ""
     },
     {
@@ -74,7 +82,7 @@
     {
         "Name": "November 4, 2025",
         "Artist": "AHOF",
-        "Details": "Album: The 2nd Mini Album [The Passage]\nWednesday",
+        "Details": "Title Track: “피노키오는 거짓말을 싫어해”\nAlbum: The 2nd Mini Album [The Passage]\nWednesday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/AHOF_official",
         "ViewCount": ""
@@ -154,9 +162,17 @@
     {
         "Name": "November 7, 2025",
         "Artist": "JUSTB",
-        "Details": "Album: 5TH MINI ALBUM [SNOW ANGEL]\nSaturday",
+        "Details": "Album: 5TH MINI ALBUM [SNOW ANGEL]\nFriday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/JUSTB_Official",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 7, 2025",
+        "Artist": "Mark Tuan",
+        "Details": " (GOT7)\nTitle Track: “Sunsets & Cigarettes”\nAlbum: The 2nd Mini Album – Silhouette\nSaturday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/DNAmngmnt",
         "ViewCount": ""
     },
     {
@@ -266,9 +282,25 @@
     {
         "Name": "November 17, 2025",
         "Artist": "NCT DREAM",
-        "Details": "Album: 6th Mini Album ‘Beat It Up’\nTuesday",
+        "Details": "Album: 6th Mini Album ‘Beat It Up’\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/NCTsmtown_DREAM",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 17, 2025",
+        "Artist": "ALLDAY PROJECT",
+        "Details": "",
+        "ImageUrl": "white.png",
+        "SongLink": "no",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 17, 2025",
+        "Artist": "Digital Single ‘ONE MORE TIME’",
+        "Details": "December 2025: 1st EP Album\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/ALLDAY_PROJECT",
         "ViewCount": ""
     },
     {
@@ -338,9 +370,17 @@
     {
         "Name": "November 24, 2025",
         "Artist": "tripleS msnz",
-        "Details": "<Beyond Beauty>\nTuesday",
+        "Details": "<Beyond Beauty>\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/triplescosmos",
+        "ViewCount": ""
+    },
+    {
+        "Name": "November 24, 2025",
+        "Artist": "RIIZE",
+        "Details": "Album: The 2nd Single 【Fame】\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/RIIZE_official",
         "ViewCount": ""
     },
     {
