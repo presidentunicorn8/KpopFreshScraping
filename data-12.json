@@ -10,9 +10,17 @@
     {
         "Name": "December 1, 2025",
         "Artist": "VERIVERY",
-        "Details": "Album: 4th SINGLE ALBUM [Lost and Found]\nTuesday",
+        "Details": "Album: 4th SINGLE ALBUM [Lost and Found]\nMonday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/the_verivery",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 1, 2025",
+        "Artist": "TAEYEON",
+        "Details": " (Girls’ Generation)\nAlbum: Panorama: The Best of TAEYEON\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/TAEYEONsmtown",
         "ViewCount": ""
     },
     {
