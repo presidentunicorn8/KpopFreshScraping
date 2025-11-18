@@ -82,9 +82,17 @@
     {
         "Name": "December 8, 2025",
         "Artist": "ALLDAY PROJECT Official X",
-        "Details": "Tuesday",
+        "Details": "Monday",
         "ImageUrl": "white.png",
         "SongLink": "https://x.com/ALLDAY_PROJECT",
+        "ViewCount": ""
+    },
+    {
+        "Name": "December 8, 2025",
+        "Artist": "WayV ",
+        "Details": "Album: Winter Special Album 【白色定格 (Eternal White)】\nTuesday",
+        "ImageUrl": "white.png",
+        "SongLink": "https://x.com/WayV_official",
         "ViewCount": ""
     },
     {
